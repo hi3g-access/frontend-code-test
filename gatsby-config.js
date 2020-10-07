@@ -1,13 +1,10 @@
-require('dotenv').config({
-  path: `.env.${process.env.NODE_ENV}`,
-});
-
 const isDevelopment = process.env.NODE_ENV === 'development';
 const apiEndpoint = 'https://www.tre.se/t/api/graphql';
 
 module.exports = {
   siteMetadata: {
     title: `Tre.se Frontend Code Test`,
+    siteUrl: `https://tre.se`,
     description: `Frontend Code Test`,
     author: `@hi3g Sweden`,
   },

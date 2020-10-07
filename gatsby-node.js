@@ -53,25 +53,6 @@ const webshopDevices = async graphql => {
   return result.data.treApi.webshopDevices.products || [];
 };
 
-// const getDeviceData = async (urlRegex, graphql) => {
-//   const products = await webshopDevices(graphql)
-
-//   const pages = products.map(product => {
-//     const devicePath = contentfulPathResolver(urlRegex, {
-//       ...product,
-//       type: 'mobiltelefoner',
-//     })
-
-//     return {
-//       path: devicePath,
-//       context: product,
-//       component: templates.device,
-//     }
-//   })
-
-//   return pages
-// }
-
 exports.createPages = async ({ graphql, actions }) => {
   const result = await graphql(`
     query {
