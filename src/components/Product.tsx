@@ -18,7 +18,7 @@ const Product = ({
 
   return (
     <StyledCard>
-      <ProductImage {...product.image?.imageFile?.childImageSharp} />
+      <ProductImage {...product.image?.childImageSharp} />
       <StyledCardTitle>
         {brand} - {model}
       </StyledCardTitle>
