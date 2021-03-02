@@ -1,24 +1,29 @@
 import React from 'react';
 import styled from 'styled-components';
-import Img from 'gatsby-image';
+import Image from './Image';
 
-const ProductImage = styled(Img)``;
+type Props = {
+  product: {
+    brand: string;
+    displayName: string;
+    id: string;
+    image: string;
+    model: string;
+  };
+};
+
+const ProductImage = styled(Image)``;
 
 const StyledCard = styled.div``;
 
 const StyledCardTitle = styled.div``;
 
-const Product = ({
-  product,
-}: {
-  product: GatsbyTypes.treApi_WebshopProduct;
-}): React.ReactElement => {
-  console.log('product', product);
+const Product: React.FC<Props> = ({ product }) => {
   const { brand, model } = product;
 
   return (
     <StyledCard>
-      <ProductImage {...product.image?.childImageSharp} />
+      <ProductImage alt={product.displayName} src={product.image} />
       <StyledCardTitle>
         {brand} - {model}
       </StyledCardTitle>
