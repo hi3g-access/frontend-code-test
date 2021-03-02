@@ -1,631 +1,240 @@
 [
   {
-    "brand": "Apple",
-    "displayName": "Apple iPhone 11",
-    "id": "UPswdWy8jAcpjP2sT0ifug==",
-    "model": "iPhone 11",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD60lEQVQ4y42VX0xaZxTA73WtVLd1jS2CItyilQuKiFK4IKJAKWKotW5OZ2ujc1Kc7dIMjOKftoBa/7TVBpqmc3asmTFO7XRbtmVLl6xJ15clfViTJg2JNiYze9peGMsSLmcfF7EPoOlJvpzzJef+7jnnnnMuhm1JRUUlplAoGVulUmNl5QpcLi/Hi6UyvKREjpOkJH7EEnQvi2nGN49PYJS6AkuS2loro09Y67BXlcy9ca1Wq1M7JKAd73ek6fUGgYqqIN7MxAV7MIwgC4UEeUQoKDjMI5CLAJ3XYr77M3Z4m15v3LZR6nMoVZCVloaM5lNha0NbWJgvCucfEYdF4pLQqaZzoK2u+TLmO/oDoJQ1yUCD4RijJ8fHWQi4IZWWgsmgh7O2fhi5uQo9l2fAefkTcFy6A56pr6Ch2baJ3Jn4KEq9c4TT18bSyxWq55IiGWjU6khdoz3a6wlE+zx3oy5vIHppbC7idH8GBkvTGsp5345Ak8nM6GGPN0OppDYKRSSQJEnrtFawNDng9Pkx6HBMwds2N22p6wJzVe1mLpWVGXumslKXDDQaTYz2uL37FEdVLwpFIuALhfTUB0PwtetT8HZ6wW0bgelzo/Tj0SUYbHP+EfvQiZZLEp2ueivCsfRSeVkwv6AQ+Pw8+syZfnj8xTPYXHwKfy79DuuLz+iFmSdQc6JzHdtKGWWUDKyqigN9N/0smUwe5AsIEBzm04POURgY+R6u3noEt2Z/gyu+R/Tw1AP4qKvnBbZbDXVbwNmZAKtYWhLk8/lwKDeHXhmYhKcD8+Crd8N1dO7Ue+i1iRXwO4bWXwI1qSLUM/peYB4BpUEejweHuBx66T0ngP8B/De5Cv8OLUDk+rc0+H6CCWv7NlCdqg+rq+PAhfllVnGxNJiTkwsHs9n0clsvwOIT+Ov2z/D39I8Qmv2FhrsP4ZqldXdgoob3F1dZEklRkMPlMhHen56BX33fwWCdC/pqnXCjZYTe+Pwh+F1Xdgcmariy/E26WCJ5zuZwAKUdsdl7ok2t/dHGVle0vWs4Wt/sjHRfnIDuC461XYGJ5rwXmGOJSPEGOzsbOFwOmGpOw4cXb0Dv4G0Y8s7Cx31+sHWPQ5X+5OaBjPjoqVRUqhoatm1UwzkBQQAvLy+k0R4LNzR2ht9t6Qq3nL0QfqfZHjrZ0A6URs8sh56Jf1L3YUyOH4+Pn91+Pq1ccVQglysIXk6WgJ21lzh4YI9g/+sYstOJrLfSttcXN/uN1DCjMb5tzGbLKy9YDpuZPBShKvXooYXA2Gj1YyQpxtGd+QUolRqcorQ4pdbiaOniaBvhYnER4ysUFmBK1ctJ+R+Fg3ciedqydAAAAABJRU5ErkJggg==",
-          "width": 80,
-          "height": 80,
-          "src": "/static/87797e0a5c85eec9c8d6bec07afd1d15/829e2/iphone-11-black_custom_webshop.png",
-          "srcSet": "/static/87797e0a5c85eec9c8d6bec07afd1d15/829e2/iphone-11-black_custom_webshop.png 1x,\n/static/87797e0a5c85eec9c8d6bec07afd1d15/e94d6/iphone-11-black_custom_webshop.png 1.5x,\n/static/87797e0a5c85eec9c8d6bec07afd1d15/af1a8/iphone-11-black_custom_webshop.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Apple",
-    "displayName": "Apple iPhone 12",
     "id": "jWrPVSRQyHBQQd6kFOuWRA==",
     "model": "iPhone 12",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADeklEQVQ4y62Vz28bRRTHJz1ErUNb1PrHen9419n12rter+04iR0rTWwnsWlCa0TJb6WVWoIikraBwKWk0KQURBAqHEBIFVIQF4Q4IE4cKktVpF567l8ABKweWnqNt19m13GEZKcBiSfNzoz2zUfvfWffW0J2LZ8rEjPW5ayTiV66TpGY0UWMaIIwDEs8Hh/xeZn68PmJGAg6vl66P9VfIE2mRUxn7unOEp4LtpED7OHDJ3s+oZDW2qk7lSH/mxnRJE1NdNa6Fv+A7h/QcY9GvLXwxvJWQJC23G7P1smT7ntzs/MPzs8trNm+AIjaKkIbaNtwvugKq8ZjCsVAfw5jo6/iu82f8dmn3+DDm19jbf0ONjcrWFp8/yl177DPZDK5ZqCu1TXMDYy4FEX7VQ1FUcgN7ZSK5drqtc9rS2+u1WanV2pnyks7U3O3cPrM0nYDGE+2ANKonDnVle5QZK2qyDpoKlY2O4rF5a+wvPIl3n7nC4xPXLbM5Bgi0fyj9kN1oCgZzcBIOLYLzBylwCedwTCCovzMMPPIl66iOHoFlxZuY/3W989em7wKltf/UmXuqH2GF0LNQApxZvotdgQltSqJKqSAbImSCTU6isJLlzF3cQPXbvxgfbTxIzQ986iRMsNIzUAKadywSwwov3NsEHEzZWl6LwLyEMzUOfT0TWJi5ob1ye1fMFKa+rMB9HgDBwK3WVaCFjasUDgFvzgAWSshliyj9PJb1urNn1AYmar+K6Cmma6AIG8LvAyeDVh+zoAgl6DoZSTTF3B2/GNrceVbyGrv84GSGGpczj+AgqWETyHRdwWxngX0D69i+tIdq3/odRw/IVU1hdsfSNPci5DW8ratIeNlrVg8j3OzG3hlegNnJ9bRk520TngNeBityvvaHaDXJz0HGHGAv7F+CT4vu2PGB2uny+/WuvtmanJkuMbw2R1BHgMfHPzjxSP1lP1cdH8Nu5LpIxT42AZyrAiGVaElxhFPzyOSuAg5eh6KcQGSknt6mBCXfYbjW9RySNHps62h53sC33mfannXz0iVF44JFapZxe3TKx5Gvyt2pu/Laua67Tt/HYTjgq07Di27/9ylDh/a50UjZbsnHj/mPrDBqrGZtvbdtdfX4pYL+SJtEHVxo3rCkSBEy9EuSY4VnN+Anw6Gtn/Gx1JZZMfXz3AkNziyx/kbnRsY+d78YUoAAAAASUVORK5CYII=",
-          "width": 80,
-          "height": 80,
-          "src": "/static/0cf307615978c4b226a2deb81c0ede34/829e2/iphone-12-frontback-black.png",
-          "srcSet": "/static/0cf307615978c4b226a2deb81c0ede34/829e2/iphone-12-frontback-black.png 1x,\n/static/0cf307615978c4b226a2deb81c0ede34/e94d6/iphone-12-frontback-black.png 1.5x,\n/static/0cf307615978c4b226a2deb81c0ede34/af1a8/iphone-12-frontback-black.png 2x"
-        }
-      }
-    }
-  },
-  {
+    "displayName": "Apple iPhone 12",
     "brand": "Apple",
-    "displayName": "Apple iPhone 12 Pro",
-    "id": "ciiY3VMHwtt1tdRGwOBz1g==",
-    "model": "iPhone 12 Pro",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD0ElEQVQ4y5WVy28aVxSHL2BgGBgeM8NrbAzm4WF4mALGibEbMBjbQMAgDMFxXLdWZNVqkjZyFVmNqiReRF20UqUu2mbVRVfddZN94siLVPkXurGIqCK5SjddmJnTYca2KkHV9khX5zf33vPp3HtmziB0ZvXdfbTx6YGk23cfoK39x+j242/Q1r0DZHP7EekcR/ToBKIYD7K6vMgdTkh7+3pp8yM0YI1bn0n+/pOfUPjdkgL9myn1Ci4UkaTZMT58z92vf0D/14LhqeELa7fvo4lQXNLFrVufb+w9evnljz8/K7+3+1xtcRxihOXQQNoPMSP5DKOYl6Yx/8PzWIeXGwTWPrwn+V8BdLF87WS2sg77X30HU5kiIAMNluAc+Msfg326Amr7BOhsrj8mWQ7vx5ic7kHgygd3JP/0+E88kq0cO0IzkK6sn3LpfA+ptD3MZO2RgUs9vc1zqsL0gNPMa5c/qO/HGO2uQWD+xq7kb37xBE/XN7upchuuffKAZ6fnBXEaVBpcMIz5BTVB8mJFADPTb0KzOQlodg4pynxzW/KJlSaRWd/5vbyzB+29R7wvkhQUeguQ8ZxgvdIGaqYs6Bg/4EbL28hcnujHUMwQ4HT1uuRTlet6UXfnWtsgQnlffFZQmuygNJJg9oYENWnnR0gnGOyuN07KLGVosjGDwFixKfl4saUTdSdVuwGXmzd52hsCcVrwhJOQqmwK3GyB1+oJUOsMXW6uIBWFoB2DwOhyQz5y6RoeXqp3YqUWxFc3eaPTA0bKCmPhpEA4vWDzRXiHLwgaDP/NHZ6WMjSY6UFguFCX/DvFJs4trnZChRokVzfEYA6UqhHoV1ZDkIJSq+fVotbihq7TH5aBliHA0GJNzrDYwtl8tSMOiJZaPO0O9I8MmMUOOMOCjhrlVWoM1Fpd15dI/zOQy1flDJcbOJurdAK5CoSWG2dABWhoBoj4koC5grxSrQWNeIcTU6kzoHXIN5mryEVZWcMns+Vjf6YEwUL9lPJMSi+2mnb1dOyVnoZhT5W4CTR642tPNCEDSdsQ4IIMTK60dIFs+SSwUOkDgfKFAeEk4IHLYJpZA2JqCUYoN2hN9Fs2PiNV2WgbHQRGFusIjybO4Q8DmdIrNld94YqnjzDScWT0JY4c8/UjMpp5gVGjr4yO8YPzWJuHHd5xYoW1Cw0ngL69uo0AQBrf/20fwC8X2sdFh8MmM1floohQ5tKC4j+0QkUgIrc7gnYOrpbfv4OCWfkeY0sNFMpVEdcf2bLY5n3IYh+TfgMWhwuRjBu5WLmx9p9z7Z0Lzl/pLRatjtbu8gAAAABJRU5ErkJggg==",
-          "width": 80,
-          "height": 80,
-          "src": "/static/697742978ec8d4efc46a74b19d9ecdfa/829e2/iphone-12-pro-frontback-pacific-blue.png",
-          "srcSet": "/static/697742978ec8d4efc46a74b19d9ecdfa/829e2/iphone-12-pro-frontback-pacific-blue.png 1x,\n/static/697742978ec8d4efc46a74b19d9ecdfa/e94d6/iphone-12-pro-frontback-pacific-blue.png 1.5x,\n/static/697742978ec8d4efc46a74b19d9ecdfa/af1a8/iphone-12-pro-frontback-pacific-blue.png 2x"
-        }
-      }
-    }
+    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-12/iphone-12-frontback-black.png"
   },
   {
-    "brand": "Samsung",
-    "displayName": "Samsung Galaxy S21 5G",
-    "id": "W6nmb8Pp5b1GHBzVQ0KUFg==",
-    "model": "Galaxy S21 5G",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD6ElEQVQ4y4WUbUxTZxTHy5aMuQWzD9uc88NmFpxuWaLZG7p9YYv2MkCoAbuOIU6FFugLL+VNwA6GMCottVALmwIKtBFUpGFO9hIdWlgtdKWFgrHAUoVBoxTbDsTQc8Z9Gr+4tJzk5Dm5///zy3Puvc9hMJ4KTav2SRn6xobn169jMMLe2/xa2JaNL4WFrtavhDLWr2rP0YYfVWpG0JCWFofQq+jgV1s6zp2fHLhm8PRf/3Ned7HH9bPuqmvghmHeoB/0aprbRlNZURtpr/zbYyEBgbVllc/Sa4lQGHPH4EDvnA8fzi6ja2YJvQsruPQvIqwgjo1MYEVe9i7ae7a+7pmAwJqCCiIWZ4iY/WeHcerXWZ/DOO2bsTnBObUA951en3vhMfw1OOKrLhLvpL3nVEGAVdnfEbGIJ6J6pAa0ttwFu3YC7v1xF51D03h/ah68HgCLyYay4vw9BKhUBAZKCv3APFEWpa7X4y+NdhhsGIdJjR3nbv6ND4Yd4JnxgsU8RgOZBFgXBCjOlxAxO1NIiVW9qGi3QXvzONxsu41O8zTOj8+A2/IPmg0WkEqKyDtsPaUKDMzKKCRiLpdPHRS2YW51HyhPD0Fr3S2cvHIb580OcI850aw344myo58SoKo+MJDHzSOiIJVH7eWewcgDTZCc0gjd9QYcPz2EDs0QeGYXYdg4grKSgt3+lk8GBiZzUol4OCmZ+iAyH3dFVgF7jwzUlQbsazCh7dQAPBicRVP/asvH8iPWbJnH858wl59N7T6ixG0fpUNCVC1UlRtQKzWiXm0El92NJr0Fvi/Ni/D/NkFaTueK/SfkJFOHJTpMl+uBldEOhTm92FKux56afpg0zqHFbIMKcfbaQHZCChG/YSdRb+08hCyxFjLlJuAdH8CGvKvYVvI7/NZxB82DI1BZkBOx5k35Mn4/EY+w91Ph78bh6zuS4cMEOcRm9KCCrwNF5k/Qe3kKreZRKMsREWBLnTIwMDGWRcSUxH1U+NbPcHP4F/D2djZ8Hl2N/JQOFKWdh4lxF1qHx0AiEhBgc7CvHB+dSMQkVhy1aRsH33yHDzu2CyAuRglFOd3QpbPCo0VEk9EK5blCAmw6GeSmcBK5RGTHc5jMfXLc+3WT731K6WPGqqGz8QZ4Fx75HrqWYeiWZaU8R/Ax7T2jqA0MrCyVkPGVlZYWYxudxmvXHXhc3oddl2y47EV8vIwkbFY7FmemfUJ7f5DVBAYe5aeTYXkoPnqrSqG816ntWuzQXHBf0fV4LnVe9lzQXnR3dXYvyaqk9gNRkZvIQMkShASd2rU1J56UL67mq6v58lNJP3uBNvC53P/t/w+28isxO/lVAQAAAABJRU5ErkJggg==",
-          "width": 80,
-          "height": 80,
-          "src": "/static/9f714b213922be6564678ab1c552ada2/829e2/Galaxy-S21_front_violet.png",
-          "srcSet": "/static/9f714b213922be6564678ab1c552ada2/829e2/Galaxy-S21_front_violet.png 1x,\n/static/9f714b213922be6564678ab1c552ada2/e94d6/Galaxy-S21_front_violet.png 1.5x,\n/static/9f714b213922be6564678ab1c552ada2/af1a8/Galaxy-S21_front_violet.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Samsung",
-    "displayName": "Samsung Galaxy S21+ 5G",
-    "id": "RNgJhpcYCSkPHEV0zmtuXQ==",
-    "model": "Galaxy S21+ 5G",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD5UlEQVQ4y4WUbUxTVxjH0X0YmezDEl72QePm5liWLMbELTFGebljdkElglDeCigOOpR2Q6BQ2660hTqKhdoWkEoG2LkxIGFQkI2RIYPo6EqA1kooWtrypkOBIiBqn2e9F5YsW1pOcvOc5Pc/vzznnnuPj89/Rk+vnqpB/m/4paWkBCXGxwXExMQFxMXGB0S7a3xCUtCrvr5+ZGagX+/jdYjFpdvIyszM2qu90T7V+/voav/AsLPz5m/Lv/zct6z/Y8Rp0JvWmpva7OnpzD1kVlpSts2jUFKs3E7WC7n8o923ptA6BTg19wLts+u4sPgSV58CvlhHnHwwizyeMIzMqlU12z0KC7kKCrJYvHBV5Sg2t827eu/Muwzjj8FofQzzf624lhafg/nuAxQIRBtCtTdhwYaQzeITivJh/Lb+Iai009AyMIOdJgcOT87DivMljI/ZUCgsPrbZ4SsehQWbQhZbQMjLDHi9bgbKa6ZA2mDHH2/bsN8yB9ZHK5SwqKj4sy07zM2/TMFz2VxCKOnDaxo7lKkdUFxvwb7RR2ixL8KfjgUcMd1HqajkCJmtrqr1LGRmSyjIPMchkpmNKJWNgrRiAr5UmLChx4695jkwzThhyC38RnKJRmarKjWehSlMPgUzsi4QhxLUeIjeAMdSdXClbho1rbMo6xqDh0+egdlsJbccQWYrvQnjkrMpmJKWSXxwmIXBYTIIPfUdcC+PoVxrx5LWezBoe4IjxvsoEooPb9nhmfMXNw4lh0eEMUS452AmhJ6ohiy+AfPkZhTfMMK96SUcMk6gRCgO2bLDM+e5FGSkfkEk8msx7VIz0E5XQeJXXcAuGcG8q0Pwq9GGFvcpF3K/PrLlKZ+kZ1AwmcEkdh+IxUi2DJiydkgv1sFZyS38vGwAKrr0SH7YfF4RJVSprnoRRjMomMo4Tex8JxT936PBh8fzISLjGqQJ2iBW3AEVHQacGJvEgkIBJVQqvQijougUTEpKJXbt2oeBb+6Ht4Ij4CMaFyPPajE85zrcMc/ipMWBOXncDeGVKs/CyOMJFKTTk4jA3SEYsPMTCH4/GoioIqCz60HdNAhrT13UljkFPEqoUFR6Fp44xaTgyZi08H0hbPyYxnW9e5DlOvApH0qVOlheWnctLazDXeMEcDgXKWFFudqzUCQu3fyXc4/eHhxHbYse2fwfsKauD53u6+v5M0R0Idqsc5iTkx9OZuVypWdhAYdHXZaJCcl7azV1jpbmjtXmpnZnT3fvcqeue/mn1pvODl33mlqlsblfy9tklrO5xuNo/L7xn+mO1/1eC/Tb4evvnv/7CSQZdTFU1/5v/d9FCSuag4DiugAAAABJRU5ErkJggg==",
-          "width": 80,
-          "height": 80,
-          "src": "/static/a6ce940feb7247ec76c01421d6bf4244/829e2/galaxy-s21-plus_front_silver.png",
-          "srcSet": "/static/a6ce940feb7247ec76c01421d6bf4244/829e2/galaxy-s21-plus_front_silver.png 1x,\n/static/a6ce940feb7247ec76c01421d6bf4244/e94d6/galaxy-s21-plus_front_silver.png 1.5x,\n/static/a6ce940feb7247ec76c01421d6bf4244/af1a8/galaxy-s21-plus_front_silver.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Samsung",
-    "displayName": "Samsung Galaxy S21 Ultra 5G",
-    "id": "h_FG79ZV82La9OFaueme7Q==",
-    "model": "Galaxy S21 Ultra 5G",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD60lEQVQ4y4WUa0xbZRjHmWG4UYsdg1Na1p7TdrS0RnTA3Drojd5OKXT0wkovyOjpsactCpUVBxomGxvbHNFsXhjReIkmizHuizFZNMREjYmXxESjizH6wRi/mOi2cIzZzvPYns4vmnbvl+ck7//88n/e51JX959js1rFmM9nGyKRcBPHpaQMk5Tmsqw0EY9Jw+FQU+luW1kTCATqah6LpV+Mk5OHm0wm0zcURfEKhfKPtjbFNbm87ZpatetPiiI39Xr9T+PjSVVZS9P0lqrAfy8zmUconU4r1Nc3oMm0G4uzDB6eiGKrUolb796GylLM5bL7y9po9NBdVYGDgz4ROD9fVCuV7ZudBi2urc0Jn378Cnz50buQd9sE9c5mbCGIm4Xpx3pE4Fi0OtDj8YjA0dEEaTTq+Sfnx/DF5zl459IKfH3xGfyZjUOfRo0S2Q4ozkybKw5rAGOxkAgcGoqS8dgAf+rYITx/OgXvv34OPp9Ow6sDfVBXXw/NJZf5XNZ9x5Tz+YQITHMsOZP388+ujOPl9UV4a/kJfM1hhg8tFli7bw92qVQYeHjcXtaGI5EawFy8AmQYcmZ6mD9/Ko1XXj4Lb4548YrDgt/bvfCZ3Yuejg5hMsP2lrVMPFYdyKZjlSpzDMkkffz6iQK+V3q3L2g7fhIawa/sPlgPjsCRqQk8vXBUdLg4V6gOTCeiIjCZmiS5gzR/oeRsI+CG72g3/koH8LdIEi4sF/GpN1bh+MmlA2XtsXPL1YHjIwEROFWYJofvN/GrLgtuhGj41jmAv9v9eDURh6XFKXz64sqt5TPLYtscXz1Zo8r+QRE4lkiSwe4u/oWQDzeCXvjBYsMfnTRcivjgyJkipmdZIRke3VvWcvlMLYcHRWAqlSLD+3r5hf69eNltgw/29ODbNjMcZUZh4aUTaLOaBafNKRYlHApVB0aG/CKQ5TjSauzkg7spXDHo4Dm9FvIPmODRXBJmlwrYY+gQIvF4b2UIarRN0FcZvTTLkmaDnnfskOEE0QI+OQFD3V0493ga/M5+1CkUQoJJicBQLYcBb2X02FyW7CbVfJekEY0tO+FB1S5IuK3o6nsIOggCS4MuTKaZSsrhGkD69ixz2axaq1ZvNjc2okYuF/Z36KBHS4FCJhMk27dja2vrTY7L3BnodrkqRUkzGg1J3mqWSFArJ7CzXYltMhlK75Hg1oYGlJdcsiy7r5JysDrwgNlcaZv42L3GTsNVSqX626Chrus11I3S94329vbrpV34l1ar+aW0FMiy1uVybqm5tR12caLqfH6fxOlyyq0DDsJstxFOt4vw0h7C43HLA4Fh6e2C/O//fwB3HHQMy4jo3QAAAABJRU5ErkJggg==",
-          "width": 80,
-          "height": 80,
-          "src": "/static/9c325b57e2983f1c6f050bc69d422ee6/829e2/galaxy-s21-ultra_front_black.png",
-          "srcSet": "/static/9c325b57e2983f1c6f050bc69d422ee6/829e2/galaxy-s21-ultra_front_black.png 1x,\n/static/9c325b57e2983f1c6f050bc69d422ee6/e94d6/galaxy-s21-ultra_front_black.png 1.5x,\n/static/9c325b57e2983f1c6f050bc69d422ee6/af1a8/galaxy-s21-ultra_front_black.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Samsung",
-    "displayName": "Samsung Galaxy A12",
-    "id": "fmlsnCDMhA2nODS8r4KzjA==",
-    "model": "Galaxy A12",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD5klEQVQ4y32VDUwbZRjHwWgcJiu0pbRwED5jEM0+Cm2ppWvL9aArFDZE4mpxQHEUVlZGGLJlW9Bpxswiw8yNDR0KzXDdB2A3mJvgnA6nccNWGjGdU/YhbDMymhiS7e59vLvWZYlen+TJe7n///29z/tc8lxExH/iyX8fltAppJNPpyCU/NC7pxkD/5mYiLCh1eRFMqtAhCWsN5f+sqd90+LBQ50L1obagLm6ItCyw75QU/fyorFY40sUp4gYr0qliOQEWqvWPcGsMplceX7oADy8ewnmA36YvPkDjHvcMDDaDQPH3wHXR9shX6vLYbw2a3DP/0ZTYx0rGgxG2dmhw+Tc9AiaujpIjU+eQe6vnKirZyd1zvUmnO/f8VBHGLIZ7+aG9dxAx6YGViSIAvm5kU+p+3Ne8H13ErkGu6DXtRf2vt+Cvjm2Dfo7akCl1qoYb7V5TRhgY/0j4OduJ3X/jg/mZq4gz+VB6O/dBdu3VqPhfTXwwRtloMwLAi3lxnDAxyo8M0DNz3rgln8C3b1xBWavXQTvty50+sNW2GZWkIWrTeyVK8MB7fW1ISAhd7u6qVn/1/Db1Bfod98Y3PRfghtTp9HPl52wu62K1Gk0K9krW8q5gXVWyyNg3/6dlHe8D66OfYJ8Ey749ccRuHd7Gt279iWMDvaQxWvNLLB1SzM3sNIcPE2vJ+Rvbd1AHTuyC4b6OtD4iX3guXAU7sz8hP665YGxs8Okoag0BGzhBpYQeBBIV1imWE5t0Cuh+TUTOtzZCmOn9sMf1yfR/G0vjA47SfpQKeNtbrJzA8tWrWLFAvqjWJKTKTuWBFYMQ/V52eA82A7eiWE0R/dyZMhJ4rieBW52bAwH1AR7SF+5Mi2Vas5IB0dGBrIIRdC0Wg0z173owd9/gvtEL6nIfoEF2m1V3MA1oQr1uF5uSU2hHGmpUEVX+Gp8PLyUIIH+99qQ7/vP4OTRQ6Qex1mgw27jBppUeayI5+PytRhGWSQSqBCLUZlIBKVCIWypwNHHnRvhwO5G0lhUwgLrX6/kBhpfVLGiRquTl9DAmqREKBfHIYNAAIaYGLDmS9HxnjbofreJJAoKWaCt1hKmQrWaFQsJQmbCEshX4iWoVBRLaaN5KJ/O9loTdeHUHjjS2fLAWFS8MtjDMMNBLZWyolKlUuYK+IAvXQo6Hg9yo6KgKB2Dng4bXKSBXW/bYYVUzo6vdRVhhsNzmZnssJTmKrHY6Gh/Ao+3mMSPWYjnRQfSEyWBnBWZC7nZzy8+m5EynZyWGcd4s7KyIsNO7ahYdhBHLDMYovjLlgvFOTJ+kkIheCou5fFfwBKu/f8ADDK04yTNZ4MAAAAASUVORK5CYII=",
-          "width": 80,
-          "height": 80,
-          "src": "/static/fab6f848c92c6b3f975be42068d24f0e/829e2/samsung-galaxy-a12-black_front.png",
-          "srcSet": "/static/fab6f848c92c6b3f975be42068d24f0e/829e2/samsung-galaxy-a12-black_front.png 1x,\n/static/fab6f848c92c6b3f975be42068d24f0e/e94d6/samsung-galaxy-a12-black_front.png 1.5x,\n/static/fab6f848c92c6b3f975be42068d24f0e/af1a8/samsung-galaxy-a12-black_front.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Samsung",
-    "displayName": "Samsung Galaxy S20 FE 4G",
-    "id": "rszg9_YFSuLtst2AjnxIiQ==",
-    "model": "Galaxy S20 FE 4G",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAECUlEQVQ4y4WUe0xTZxjGC/6hwwLiJisqA4Q61uncmHflDINcRbT0xkWkKeW0QEuh0CKl1AI6Lq0CjsJExnUMZSzUgBcyLu5ilixmF5QFt2GGl00DG5ZStyjne8c5df9sOexNvrwneZ7vl+c734XB+FcNXL76z6cbg7Fs1WL3XByrng/PSK81XkZ/fzfSUGSsYCxZhvJTLmQXZ+Rt7O6xPvjsy6/nB4e/sPVar8z19F2es14athlaux2xebop/sFkf9J7WKxwoQU2nPvQlezFRtO+qfuPgCzHU4BZBwHTcwvg+Asg7+LnsFt/GmQZ6l2kV6godqUHNjmBJaXm0PGJSWRzPEO/zdiJu4/m0L2Hc6j3xgQRXtYOISm6BTxTvZX08qRaemD92Q5nwuPV2PjtO2BzLMCDaTv65aENTdueoMyGQfTSgTJ4i6uFVGn+HtLLFWvogWca2yixqKQCuzUxCX/Yn8L9ReDMzJ/QMDoOe03nESv8GGKHyUAsKwijgKlqemCdpYUSC/UnsbEffoLZ+Wcwee93NDg2CZGlVnBLNSNWcSMEqipAIMD3kt7Y9CWWXPNeMyUWFJVh39y8Dbb5Bagd/R4FNnWDX1c7rO/oRD59A8BpbEXCJPkO0nsgz0APNNc1UaKqwIB9d+tH+PlXGwRbPkbL27uA2XUefAYuoXXWT8C3ygwSSS5Geg+plthlc+1ZSlTk67Gbi8CpmSfwen0HWtnaCcFfjYDv8AjaNPIpBDdaiOS07O2kNy5fTw88YbJQYlauDrt2YwxOjX4LnnVNyG/ICoHXr4DX8Cha2XMNAurPESm4chv1DzXH6YEKYzUl4spCTH2hH0SdV4EpKkUeZz6AFy/2w4quIeTacR28DW3EkQxnwqicJYC4rpISxfICTNHSB/zmAWBFF6LVyipws1wAr9p+xKwaAm9dC5Emew5UlNAD07UnnQlztFhS5UcQbuqFIIUBrYlUwWqxGZbHmxBjtxFY/EIiMSefWvJ+SQE9MCnT6EyIq7EwWTPs1LXBBlUZWs/TwtpoDXjHaRBzqwR896QSghQpBYzg4fTARLnzTGVkabHt6TXwirQa3tDXogDxu7CBXwz+XBViRckhKFZCCI9kU8AoURY9UJjtPAJHcXUopq5Fm7WnUVDeMYItq0ZbMkxok7icCOBq0cZofCFBhFPASEEmPVCAO69RqjRn3055OXDUJ2CdNAvYsgrYpnkfQpQ18JqkEjbz1cAVSnb9b8KI+GTqsYw/LGJvCePe5UQk2Dmxh2Y5MdzHIQlHH+/gSWbfjEm2vx3BuxMdy/Mjve/ECF2WfLXTBAeprg59+QXlqywPjR/bPdffxz15GcM9zoXhnriW4SENZK6grt1+7D/z/wYQ3uGtTTrRGAAAAABJRU5ErkJggg==",
-          "width": 80,
-          "height": 80,
-          "src": "/static/bf9e52f2815eea1b59b8ea6f93ed070d/829e2/galaxy-s20-fe-5g_front_navy.png",
-          "srcSet": "/static/bf9e52f2815eea1b59b8ea6f93ed070d/829e2/galaxy-s20-fe-5g_front_navy.png 1x,\n/static/bf9e52f2815eea1b59b8ea6f93ed070d/e94d6/galaxy-s20-fe-5g_front_navy.png 1.5x,\n/static/bf9e52f2815eea1b59b8ea6f93ed070d/af1a8/galaxy-s20-fe-5g_front_navy.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Apple",
-    "displayName": "Apple iPhone SE",
-    "id": "JOVQBOFHWgPmbF1dF8kjmg==",
-    "model": "iPhone SE",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADzUlEQVQ4y42VXWwUVRTHZzsFdsO20OzOLLM7HzvfM/s1u7PtFrrdshqQxNiP3eBXlAdNtZGYaLRF27SN1BaIRX3Q+GAJAV7qVtSgMSQIjYkv4INfiSaEREZoIvLgG2+99zgzafWhXeEkN+dm5t7f3HPnnP8hiDUrlyuEJCn+PJcrBFKpDJnJ5EhRlMholCJpOkZSlDdofy4IYsBbGw63EbbdSTS1fM4iHtQSCbb5y2JxD5HN5vyv5q1CMpPOHFQUYyib0WqaytQ0JV6TFb7GcuxQgmUPyqoueGtFWQ4Yhr0R2NdX9T0ABHJW4XsznYVKbxm2bIuA95ggWtd8wPc0RV/z1np7OjtLG4GVyl7fj46OhfL5wm1NN8Cy7NVDT7Sj0ZcI9OrwNvTs4RyKym2rLWESGJ6/vfjBhyFvT1fXJsBq9WHfvzk+GbLt4i3D0EHVcujSFzEM9wh873cC//2Hiic+6kYRsxV4U7l17o13fWD37j0bgfv2PeL78fHJ7W4Id3VdB8PMormZx/H1nwbwyg0G//kDAb9eTaL+ERaSeuLuqdkL2/0M6a00v8OJielgoWA7uhuyaabR/Hsn8OVLC/Djd8/BnRscvvNLC5o/ZUC2zDnPcKeD3p5Sqbs5cHr6aNC9Q0fXdFBUDY2NvQKXly/iz86/g39efgj++i2IGl8JUB3SHYJ4/v7Aqam3fKCiqKAbKRTROTg88hRebJzBS2eehOvfRtHn33Bw4GnDBY7cHzjpAi2r4MiyAqZhoh2WiaM8BVOvvQiNxjS+cpZGn1yUoVrXnRbi9ebA9bQ5OjMbzGYtJ5mUQFN1FLUMiKhpXNBFvPDxLL6y1I1ON3iwq4azlzjiA7s2A/ZW+nw/d+x40K1hh+OToMgK6khrkCiVMEXHYPhQHS9/PYCOzNFu2mSchRde/h/g2q8/fmI+mEqlnUSCA1mSUVgWsfaojWmBhUqXhb+8UEHVGgWMkHOWl4abh+ypjWcnT74fNMzUTYaJg5QUUZsm4my9F3cwPO7p1PDZc7tRTJeBM+ybn07VmwN7esq+f3v2WMjNwRVXokAQkqs72V24nU8gcmsYyRKFyz3xVSLUAYwkryzOzDQvvfUTegWv6+Y174Q8L8DO9h2+GGxpJYFs3bomEARQkejVdXEoFjfRw/37+wlNM/wFZirDy7JaFyV5QBClfoblBpk4O8jz/GOCwA7GE1xdUnTely9FDdCU3FwX3fx7YIFlWa75Sy/kWIzx524NB0RRJr3BsjwZcVuAmzZkLLaLjLotwGsDPJ/8twXk8/8J7D/zjk9By2AyigAAAABJRU5ErkJggg==",
-          "width": 80,
-          "height": 80,
-          "src": "/static/3fc8ca3b032efef96279839d9f2f446e/829e2/iphone-se-2020_black_front-back_custom.png",
-          "srcSet": "/static/3fc8ca3b032efef96279839d9f2f446e/829e2/iphone-se-2020_black_front-back_custom.png 1x,\n/static/3fc8ca3b032efef96279839d9f2f446e/e94d6/iphone-se-2020_black_front-back_custom.png 1.5x,\n/static/3fc8ca3b032efef96279839d9f2f446e/af1a8/iphone-se-2020_black_front-back_custom.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Xiaomi",
-    "displayName": "Xiaomi Mi 10T Lite",
-    "id": "y0xX3DRy7usZ8DSrXIyBJg==",
-    "model": "Mi 10T Lite",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADo0lEQVQ4y32Va0xbZRjHC8n8BokfNv2iX3SJiYnoBifMKETMon5Z4iWC1F3a0nNOy63taumFVlpokdKtDFjLuEQGMytDHaSIM8HNiXO4aUSHGbMUo9Hsk4HFsCy07/P3XDCYafsmT96T8/zP7/2/53kvGs197fEndv7z+IAUxVIU3Rfyux2y4OGdxZq87dUDhwvk/qm9j+7S13Qu+e0zG07z1JrNNH7HaT9zZ/D01NrIWHLD4Qre2P3YI8rItVr1m/9tYl17odwf0lWXBxpXcLodSBwH3g8BZ+PAtevAWhb44uoqamqqy2StxxcqzAl8x9GlJAWzqSweW8wkTjH6MLbJ+lsZ9XiIxno32Xc/Al9eS2UMenGPrG0PRXMD3a0RJWms47nJ6VX21SLw/TcZWk7epR7HXYr6QMkEMDf/MzPV85ysDQQjuYEeX7eS5AWe+3hmhc1+Lk11gtEvSUZ/Tdym0ZbfaSQKjA+nYGsxVcparzecG+jzq6MZDAJ34XKapf4ALl5iNHkKuDkG3D75G30W/hN94VU0mIQKWeuwhfM5VIE8L3AfzaTZ9Z+A5RVG8xeJxgdB54ZBCyfWMRpczB5ssJYqwKPHcwNdnm3gmXNpNncFmL/K6OYSMD1FiI0wiktuBwI/sAazqABdtu7cQIdTBQqCwA2Nptn5T4CZTxktzBOuXAZiA4z6pOUTCKWyorFur6y1WPIUxe7YAooC1xdPs7GzUlESjGanCV9fIvSfYNTdCbT5U1mjyCvAxuZjuYG2oypQlICRnjSLDwGDQ4wSHxDmZgl9EUYBF+BzprK8aFSATY15gFbbFtAkcO+F0yzaC0R7GY0MA8nzQMTPyGsB3NZbWSNvUIAN5jxTbrZuAztCadYVAbokVyfjhMkJgtfCyG0GnA23snVbwHoxT1GamreBbYE0C0r/K9gpFWIAiMcAyxFGLgFwmLYdmoU8wMZ/AVvbVti7HYC/g1H/AMFtJ5i1jFp4wC4sS0C9CuTzObSoG91cby7z+n/NeAOgzmNgAT/IWAuy6MAcRsmhmM4IW1WuF/MsbJ2+VUnW1r5e3mT9Fp42yY39Hg6+sQnDm5uSw3uwHgZE7QKq3zqgHF+HtO7cwKqq/QVq/8xDpWUvLb1QZdgo53Rr+zjd+nP7dOvPS1HxrH5jT8n+G5UvPrlL1lZUVhXkPbWfLnlQ3TX2wh2vvKwpNtk0RYIUbwuaIq1JU/TaEU2xpV29AkpK/3sF/A1qGR0x/Id2lgAAAABJRU5ErkJggg==",
-          "width": 80,
-          "height": 80,
-          "src": "/static/9c76df0f557368c9ad3696d65b87ebb9/829e2/xiaomi-mi-10t-lite_front_grey.png",
-          "srcSet": "/static/9c76df0f557368c9ad3696d65b87ebb9/829e2/xiaomi-mi-10t-lite_front_grey.png 1x,\n/static/9c76df0f557368c9ad3696d65b87ebb9/e94d6/xiaomi-mi-10t-lite_front_grey.png 1.5x,\n/static/9c76df0f557368c9ad3696d65b87ebb9/af1a8/xiaomi-mi-10t-lite_front_grey.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Samsung",
-    "displayName": "Samsung Galaxy A41",
-    "id": "8uPmmQYMxNqy5ElMo2ZixQ==",
-    "model": "Galaxy A41",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD60lEQVQ4y32VDUxbVRiGyxIjybIlJiNRom5GRfeX6WBTZi+UlZ/Sri2lFNorBSIOcGNlowNGaSlDJGicLpmAP7Cskf2EiGTAwA6iG7CCBDAwnB0pg5QBGkCowCbQntfeW4yJ2p7kyznJ+35P7j3nO9/hcP410ktK/l4+6Y6t7tjyTzzljm1bNzROdl4yx+eIUir9mPngnn3PS983jqVdNq1k1F9djNHmO5J1xx1tTepFc5340bmycGvAdu7TjJdW8vy8AunTpzcxs1Su4Gl6b+Ps0hxK56ahfziDL34dBuypwLQMNkssokVxBxhvoVa8ySswOT+fFeVKFfdYRxvRP3xAisasLuO4jRjGJ4nlx89cGJSg72biulAq3894C7QJ3oHqMwUeoIqmjt0ywzA1Ab1tjOhs06TIPkN09t9I86QVVe03ECFJohhv2slc78DUvDOsmJCkonK/64BxdhbGyRFyaeEKqRruQ/WtIXLHDb9+px/yeHkE49Vo870DT8Rls6JSpqJq+ZX4JqsDFeYhUmMzkC51An7Znkm6qq6ivukaocWSQ4z3lCbbB1CQw4qJEiVVu9OEuyEWdIY2kMqz1zEQqCQT22gyYzyHxpoLrtiYuBA2JzPTO1AjKmLFpHiaurSvFz3B7kONnic96XZ82dAHa1MvuTdwHzda2yFNUISzOae03oFZYs8eKqQq6tO3fkDrG0vo2usiE28C33Y/xuAfDjI5PQeLpdMpFMQGM968jVL7/y98W8+KtEJN1bxjwW3dKrpz1kk/7cKyeRlYWCEgwHDnoFMYJWTLRqct9A4syC1hxdS0ZKrF9DMGW4GRbifpb1/HwtAsHtscBI+AoZ4Bpzj2iAeY7wP4bopnD+PjaKpC24NW0yqaTevE0rCMP+/PY+33FbKEKVzprHXupIJYoDpH5R2YKCr2XD2hgqK5oyiWExiS50lL3SSmBu6h1KolugflKDd/4owU8D3Ak2k+gBLPL0erCqmj+xsxqi/HYn0xmanWYcxUiPCbPLK5g49Xqw47E8UyFhiV4eMuZ8hSWDFUrqMaDx8E6pKA8YsELdlAsxbnqwRks/kQdn3OdQpjRCyQd1TgHWiQ8z2FHR/HHZEEEnwsIms/VbpWR6oJ7F+Tu9c0rpfbyhB0+YM1qVD2OuONOJ7u45RlkawoOSLhjSa8ABjDgNII4CINdOmBzvP4yjqPrO9HIAqj2PalOOGjDgWhIWyzfCmYuyPrwI6JD3mvLJfxdi9WhAU5PuK/6DBE7l5M0RSsxKS9Z9sTGBDIeMMiBX4+u3bAa9TGaq8/h/Ocu90/4277uzbiiS0bz4I/43jW/7/5fwGuW/5Ev4Rd7QAAAABJRU5ErkJggg==",
-          "width": 80,
-          "height": 80,
-          "src": "/static/8f38ab6fae086e0163fa440bd7319296/829e2/galaxy-a41_black_front_text.png",
-          "srcSet": "/static/8f38ab6fae086e0163fa440bd7319296/829e2/galaxy-a41_black_front_text.png 1x,\n/static/8f38ab6fae086e0163fa440bd7319296/e94d6/galaxy-a41_black_front_text.png 1.5x,\n/static/8f38ab6fae086e0163fa440bd7319296/af1a8/galaxy-a41_black_front_text.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Apple",
-    "displayName": "Apple iPhone 11 Pro",
-    "id": "EKEAD-u4h6oEbNprowJiCQ==",
-    "model": "iPhone 11 Pro",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD50lEQVQ4y42V228bRRSHd1+Ic7fjSwKJa5JYthMnlRPb8S2+rm+xnbWdtY0db+tL7NxaqhbaIqCCFlqpaaWSUgUFKIoE9KESlIe88H8gXpBo45SSpBQhKEoxyvqwO2lTIdtSjzT6zc6c+XRm5uwZDHtqFp8Tyx8vov5kMool8mmcnsvhY3YLrhs34WbCjlsIB6sOXGcx4srhQeTbp5BjIyY9VmV3vv8W6cdrN7AXtXB8CmmhWKjt8N7VC0hPf3i2ITV3RDnqsiqJSEAZppPK14pZZSJ/RBnLppVkKqZ0RQINnG8kGasNSxbog34gRq4XTyzAys0bu4PD6nJzc1OZz+eXhWJRuUMo3G1rbwNZX+/6M3+r21kNnD21iHTz71KTn5rcdgb9cOLMaThsNYLCZoCufhmw0wet55B0+8df7zZxawi/txpYODmP9CE85PmnQvf6h9UQjEX2iDxdiV18p0KdOV55VaOuvMRr2OOAUtmhew92/+DVBc6+sR/hR2srTenZzFaUjkN2IcfoAm5wLeYgd/UDSF94Cwx+F8MBe/v7tn76/QGK0E+GqoHFp8D3l5da6PncI3ouA/RshvEmwmCMBcF9LA9L33wFZH4aAeVKxaMftu62cGtCVKQaSC/kkZ5fvtxIZZL3uQhjR5OMeYIA+s1FSJ99HS5//RnE53MMhmPcpdzfePxbI7fGE/BXA1PFDNJLnyzzyGmqFGQjI1MUo3eYQWs3QShNwcmL5+Dd60tMR5cYXunpLj2GSv0zTMzsp82Vz1d4gXi45A77gb0cRmMZA1vED072m5qh4fzqNUY+NACdL3dtAgCKkJioAYxlp5FeW/uU540GS7YJJ3giE4ykqxNaBO0w+izKS+cYjUkP7PhzYK0IpzJJpCu3bvKcpK9kIMbBGfIw4k4JyjuBRARmrwOobIrhizqgRybd3Pnnz/rAMJ1Aunp7jWcLuEsjVgOM+5yMWCJGQF5TI8gUfWB225jmtlbolvZs7vz7V30gmY4j/eK7W7xxv2tj2KQFI2HbE0skFXa4guN4pV0oqGiMur1umZS75Y2fd36pfynB5H7luP7laqPJY98e1GtAx56bUCT83y8nZLfOARWDqu3b63dQYrt8nmqgK/w8lwyEbZ3bstZufiLtlZVbWlvLgg5Bmc82kUT8hD0/kKsUB8XB4rLVrji+OIl0yKhtMPtcA2xTsXCVLzqpIlNxFXU0pQrGoypHwDsg16hR+XLVShnOjr19an/rqakXLrAOL4F0pjBTPalzWrBRqxH1tTYTpnNY8DHCig/pR3CNUY+eApPThlTLPgFytQr59rJPwOGx0QPOf/n9bA5r64MGAAAAAElFTkSuQmCC",
-          "width": 80,
-          "height": 80,
-          "src": "/static/572a2ca1ada89fd5ef7c463b8194d922/829e2/iphone-11-pro-midnattsgron_webshop_custom.png",
-          "srcSet": "/static/572a2ca1ada89fd5ef7c463b8194d922/829e2/iphone-11-pro-midnattsgron_webshop_custom.png 1x,\n/static/572a2ca1ada89fd5ef7c463b8194d922/e94d6/iphone-11-pro-midnattsgron_webshop_custom.png 1.5x,\n/static/572a2ca1ada89fd5ef7c463b8194d922/af1a8/iphone-11-pro-midnattsgron_webshop_custom.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Xiaomi",
-    "displayName": "Xiaomi Mi 10T Pro",
-    "id": "neOB6zu9xY3HUwtfoz9W1w==",
-    "model": "Mi 10T Pro",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAEDklEQVQ4y4WVfUybRRzHr2UgQ2oY4EsHZkRgEOb4Q/ShUcfULMQUZSz1XaBDoVAoWxcyNnFQQDEO3OgITANO4guiG2LiNoMvW5iaMcSJIAZGQdsBFfb0ZXRtKX169/Oep/iHQrdLvvnlufvd5773ey53CP2vZefsFCIgtK4DIUknQuHtVEYqGRVCd0nocBCfc088g27a5Op9Ij6WK56KSta++evGo2cdsU1fs/c2fGUJ1Z23PFh/ij3Zuddx9K0XL4XGP8ODkUaTGxiYVd0k5mNhYZEs+vRfgIYB0AWq7wByzs3A3OhhAN8h+HtMB7l56lQ+t/VIhTggcFeNH6gqUjFJZ6Y5dAkIOgf4+LddGH7YhZ2Th/CUox8OX/5x+dmyiq187r6WlsDAF3QrDlUq5omzBhwyClDf00sunNgPTP8kRE4ScrsBYH23gVMXlwgO5fVtgYEv6Rr9wFd3M5nfX8XKIRYamjsI6qHb7qPq4Qg6DnBn67hv737NA3yuorY1MDC/1g8systjFD/N4oNfDkGEbo6gNoB1VcsgOkCBAwBRU+O+4sIiAfi0vjkw8JUVYO7LSqZkwIhLOgcgWG0mqJwAyrMDqnETNEuB58e5suf9W85uuInDwjo/UJmbz2gGZ3FlzzCEvDZDUB1AUL4VkNZKUDdAdPMYp9lTKgB3VreKtVrt2sCSej9wd0EBU3nRhI+MLUJS2xRBH9P6VXOA3qEO2wEiPvzTqzmoThEcNnaIAjose8MPLCgsYmoHpvExFkA7ZCV3n7JAZr8HQju9RFQ9A/F1X4CqTLVN+MslFWKg661qVqsVlde9LQCLS0tlzYPT+MQ1gPfMhJwcngDDH5fh4U9dJPTxPVxcVBik3J/62cpUkVwuX9vh6016AfjYjh1b3/1lGvcuAnQtABm/wUHvxStw2/seiEh8CKOgEJDGbpo90/3Bej5fJpOt7bD9o0+EeoyMjFT9ZpyFn41mPGgwEYvLCae7euG+J1uINDkNx6RmQNzmLbYq1XPhfH56evpqoM1m898yAGFms/n63FUTTF2ZwBO/j4Dpmg3m2RmozcyBRx7NxNk5OZCRkWFJTEgUgAyzxq3jcrn+BYcvLS1ZOJ8PnC4XueF0EvP8AszTlSa++RxSkxNwXKwUNickWMoqDwQGut1uIbIsK/F6vdfpfKBgTPvJAssS1kOI1e0hSVtScJg4GGKlUlvDMb3klkCLxcIDnTxweXmZygNWmx3c9NtLtW37dv6MwMaYGHpNQLC/hrJbAud8Pp+blmGR9juMJpOjqka3yEuelWWL2xRH0tLSGoUzIxKJFQrFaqDH4xGi3W5HHMdtoIp0OByRdNsbRkdHI+jQHVSS6KgoiV6vj+jr6xOeAaVS+R/OPzh9TKZWWk+CAAAAAElFTkSuQmCC",
-          "width": 80,
-          "height": 80,
-          "src": "/static/202815e93b56fbcf474d686ceb902e6d/829e2/Mi-T10-Pro_bundling.png",
-          "srcSet": "/static/202815e93b56fbcf474d686ceb902e6d/829e2/Mi-T10-Pro_bundling.png 1x,\n/static/202815e93b56fbcf474d686ceb902e6d/e94d6/Mi-T10-Pro_bundling.png 1.5x,\n/static/202815e93b56fbcf474d686ceb902e6d/af1a8/Mi-T10-Pro_bundling.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Apple",
-    "displayName": "Apple iPhone 12 mini",
     "id": "G3-XCwhVlAXWthkQWG4WBA==",
     "model": "iPhone 12 mini",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADmklEQVQ4y52VW28TRxTHJ+pDu6YhIaH4sveLd9e7ttcmtgN2SmIHYwfFMSQliaBxRNKHVG5JsYoCbXqBXhSUqhESUoVQJZ5Agj70pVIU5BfEB+hXaGvSqipKn1NvT2fWLKKyqdoeafSf0Zzz85zjObMIPbFioYQOxgedeSqZRvFYClnRAWfwvIQYhkMcJyCOFfBaRJpmOL6SGESjuQJqMxJIrHBsHNG00EXmAPB0PGtkfedOvctdK7KOOlrHX/q/FrOS6CVqrzM3QtbFsBl/GI0M3B9MDdVnZ+brPT299f7+/XUP5blfLJYfVipL77mnVWStHRiPJR09W1mg1KD52DBikBsehbHiSfj65jfw8YdfwqWL6/DuhXW4ceM7qFZXd7A7RWISiUw7EJ/G0TOz85Qs6z9oahiK+eLusfxE86PVa83z5z5vVuZWmpOv1f6YW1yH4xNvNbC7h8REoh2AIT3qaHak4JEl7ZEs6RDSw3Y6PQbV5euwXLsO79Q2YHLqTTsaHwfdzP3iAnnBaAfiujmKa9YdVIwdSdRBFGQ7HM1CrngeCuPLsLi0AVc+u/3nyakq0Iz5u6nT3SSG49R2IE7R0WQivQef7leBV0HkFVsQLVDN4xj6NlTe+ALev3zP/nTtLmih1G/Y/WUSE6DFdiBO060lJfDBn+iACDFrwDbMQeDkHFiJKUgenoGZ16/YVzc2YTR/attN+YCXawdKYgtoGjECbNC0CEYoYqtaAnzcEVBCBYjEy1As1ewPPvkWsqPT/xZoUTynNDhWAZYR7AATBkYugGKUIT44DxPTa3a1dgukYOKfgaLQKmzYjFEcKzdYRgaG5uyg9ipYh85BNLUEQ/lVOL14085kF6C3T9i2TO75QJymo5HwQYplJKeGPi9tR6wRmDy9Bidmr0Lp1GVIHJ62+w6Y8IovtM37X3CAXp/QCai414cAfyRAv5fejVhHmmPlC81k+kxT1o82fWxml1VKwIjDjd4XWyn76VCnGqruPaQYWnwc8AtAB3jwB1TQolNgpRZBj50F2ZwDOVwBQRneoZ60Hs106GXcv8+mv4KhDzhW2gwExK3uHnarZx+/td+rb+FUN3kp9UBRD10ivuWF7xHLip1fnEx65D+/Un17nrOBu8PRoUwW7e3u7/r77lfkoWqNXkArPwPi1VLXPk9r1+/n24H5o2NP+5m8PKQVSRmIup8AluERvkqOqsHWHyEIshPr2l+EcSwYs/GN5wAAAABJRU5ErkJggg==",
-          "width": 80,
-          "height": 80,
-          "src": "/static/0fb554d38ec85a572a0ab90ca7c7bec1/829e2/iphone-12-mini-frontback-black.png",
-          "srcSet": "/static/0fb554d38ec85a572a0ab90ca7c7bec1/829e2/iphone-12-mini-frontback-black.png 1x,\n/static/0fb554d38ec85a572a0ab90ca7c7bec1/e94d6/iphone-12-mini-frontback-black.png 1.5x,\n/static/0fb554d38ec85a572a0ab90ca7c7bec1/af1a8/iphone-12-mini-frontback-black.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Samsung",
-    "displayName": "Samsung Galaxy A51",
-    "id": "EjY-UuMYiDnDbyyI4MJ2xA==",
-    "model": "Galaxy A51",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD9ElEQVQ4y33Va0xbVRwA8MtMiHGBmGVzcV98bPHDvAIyzYDA6Nh4tRRZefRFuS1taUuhPC30MR4t0JGBYwTFWnCBPULUOYeWx5SXbNBRIwKTzBknfvODCV2mS7gJ/7/cU/XDzOUk/5ybnP/53XPuyflfinqqpTfZSP88RUW+QFHRL1JUVNROUJk7Ub8TR6noneFnuZyU9fepXVtubW0E16vy5AdOdLWtJ/p6/kocvLB5vLcjJNS1h5Syvk2FdeBxRm/Xr0Vm/WEut8DWEMELis869nB9npKJzZwbxVMbQUz/JYDW1lV0Jk5gfdINbEqbQptlFpn6hlNcrqHSs4cXFDkaydveUTL06clPt1J/nEZR4Nvtc2lzYH7DB/qYvm1DnBcq3/wI9NK6EwQ84+QHxU47ASUKhs6a+pwVrM2gcG0GSs9OgCy+F3KOt4Mu1gumRC+qlZYsLldb2MgPtrg7CajRGui5pWV2ZPl7ZFYWoTj4IWovFKL65hAwyeehNvkylpZUi7ncMqnjGV7Q0+QhoLasgl6ZuMM+XljHa8E1MI65QFV/GhiBB3THeqFecJVbYeY/IP8K68rDp1yQr6A/6xtkf/pmEVdmZ0HmyMRcXTHYxW1QldwHmrg+LC0yn+RyS/Ma+MEKbTkB8/PltNd1nl0aHMKpya9B7avGtVuJEFqNga/eOwJ6UzUWWDxCLrek3Ma/5RpdGDwj09AjzS52obMLa/xj0DvTAlvfvYwbgUPwwB+F3sEUFFa6BVyu0WbiX6FJnBveslRJX0xLYa3dbnzr5x/APdaCt7ujYfrjfXD/i73o82VgtsmTSuY0VPKDtiwBAZUFUtqfcIgNCF/FoU4TdHmdeL1HgWM9r8PoQC7WdgxjkbGdgNrqDn6wLSeNgApxHn1PeIR9knkQ/0iKhodv78Vhix5ap26Do38Nje551BlqCai37HJTakQZBCyUKuhrKa+x80cj8U7CPhiPeQ674w+DyjkO5nNB1DtGUclYCKg2te5yUxqtBMwpM9M5I17WXqXDnvhY6H5lP/YfS0eXuh9E6gHMknehShsG5RorPyixh6+eSFlCM+M3WNvSXbx3cRICchd8KdDj9WwTZEnUKBy+gjK7lYCy5hZ+UGW1EZCRamjjzU+2moOzCMPL26HOCXhQcwkWZZ5teZkJsu/6UVFRQ4qDrN3NDxbZbWRQUqiMVU+PovW3Vfzdv474QRDvW6/iQ8tldMwvYNryLdQYq0j5krl2+YaiYiZ8KNmSA6kG3XrCuxVPpEbzZqO47FFFSuGjkpMFoZg6859xZv2GtEhFCqywVBuxa9V+af/Bfx8jd4Ir91FPxX+/gCSR6H/z/wb8S85VQzEUZAAAAABJRU5ErkJggg==",
-          "width": 80,
-          "height": 80,
-          "src": "/static/a8c78d8cc982af5cd5799b683df40f45/829e2/galaxy-a51-black-front_webshop.png",
-          "srcSet": "/static/a8c78d8cc982af5cd5799b683df40f45/829e2/galaxy-a51-black-front_webshop.png 1x,\n/static/a8c78d8cc982af5cd5799b683df40f45/e94d6/galaxy-a51-black-front_webshop.png 1.5x,\n/static/a8c78d8cc982af5cd5799b683df40f45/af1a8/galaxy-a51-black-front_webshop.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Samsung",
-    "displayName": "Samsung Galaxy Note20 5G",
-    "id": "BiojkZY67HIicZeWt_K95w==",
-    "model": "Galaxy Note20 5G",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADz0lEQVQ4y42Va0xbZRjHy0w0uh2iJsYPmiUm+kHjh43Mky1ra0dZgYJOlraLczhH1tGWQrkovQClBXqhpee0h0KvlB4KHaz2Ag7F4EQTdeoSTUxcMqNGk33wEg3Ix/W8j+ec4uWDPfNJTt43ef755fm/7z/vEYn+Xff8sxWfeXC/QldX+/izj2ANz0sxqeQ49tgT92GHjhysvfdh0X5OAwAiwXKNkDXcOmJ3Pm3XhX+JDhV3lzMfbkeihZ1YrLSTy13fzuU/3Y3FCj+RBPEkp03EMzVVgVPOuX386qOOuTpKMKP9GIrBm3Djs99hfeN7iAe+gw0aID51C5Lh7BFOS8fe3VcVSHgqwCAZxp2GlbLj1avIqskzm1d/REn6BrIPfMTMBX8Dw+Dbd4LU/CFOG6DyAkBvkm9SoRl8tCfL9KiX4FxjHF3bvA2h6Bb4R75CE+5boOpaYqYj8zin9QSXqgNdjhm+SRJhXKuhmJflYVDLo2hz8wdwBd4BwvYt6rd8AS/pl4CaTok5rTuwWB1otwT5ptsVwM8q/YxGRkH7CylUXPsaHEPvQ9x+G100b0FrV4adMPUcp50gBYCjZopveiYI/IKSYs6Iw9CvzaGVwpdgH94Cx+QnqO2NEigNNBOOzPGWx8mMgGVrxbLXReK9bUnmvCQOw6Y1lM5eB72zAB3OdaQ0rXJAND2bOMoDiYXqQI8t8jfQrEozunoahruLyBdeh/ahEmgsbyGFsQgtXQvlSCJ9mB8ilK0O9P4FnCBxm2aB6WrIADG6gQY9RWh7vQStvQUk1xegWZ9mgXQdf4aCQGsF6BlngSqa6Wu8DCO9i+iS/U1o7VuFk/orqF6XZ4Hz5Ug8XQEKxcZrqQAn2Qktp9KMuXkF2PigU6ZlaDaVQK5bQbLOHDTp/idw0hzlm/7xEG5toZnBpgVoV5Oopa8ITT1FaDDkeGCzLlWOJiuWXSEBoM8cqwDHKNzGArtPzEKbikCNvavshEVQdOdRvSHP5pAuRxPpuwO95orlKfc0PqCIMudxD7Sem0Xy7iKc6FwG6aUskulzbGw4y/N7lgWC7bKE9s6QwI0tU2WXcRGdNRUYmWEZSS4uouMdaUaszYKiM3knmqAPV4ItAIwlsnu37D+6du0mrL33DWhf+xxOGz8AGWtVrL0MEn2eve0UzETn+OdrjBQI9rjHxz+W9lHnM1an71fjgPMP5Ytj22qVf+ek2rojOd23LVP37yrU+p+JgP8pTmtzuGtEd6uxVx7ilgPshx18VIRhD4iwY/eLMOkBEVZXI6qV7v0C/qv+BF9L9VHJM7stAAAAAElFTkSuQmCC",
-          "width": 80,
-          "height": 80,
-          "src": "/static/637070c311c06f482a9f7abdd5da65d2/829e2/galaxy-note-20_front_mysticgray.png",
-          "srcSet": "/static/637070c311c06f482a9f7abdd5da65d2/829e2/galaxy-note-20_front_mysticgray.png 1x,\n/static/637070c311c06f482a9f7abdd5da65d2/e94d6/galaxy-note-20_front_mysticgray.png 1.5x,\n/static/637070c311c06f482a9f7abdd5da65d2/af1a8/galaxy-note-20_front_mysticgray.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Samsung",
-    "displayName": "Samsung Galaxy A20e",
-    "id": "O9MTsmnbrfleaO2xlOdIiw==",
-    "model": "Galaxy A20e",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAECklEQVQ4y33VX0xTVxwH8MtAMh7AbcQEM6CKgMgmMCoCFvaHf+LkovKnQwREGuRPoRRayi3Qxhax/BFQEAS26QQ2BHSwFgqlVAYu0y1hUuZYgjHMZcnMHhZYxraX+/uNe+/2suX2vJyH8z2fnN85555LEP9pSopie8R4l9vtGZ4jfbKX3+9ufKVVV7UzJCPRnfDY5UEkkDuYjGBvEOGwXWrvc2L6xXnT7qh3pXbBoXN/Cl5P2fQ/cPg3QUDo5tvhMRvDeblbncUl36tbO32ZbMfFZide8MoNozPTj5lmU3fHNyPhJ0dijwTdfNKR8BRhSXQqolSG35ZVYk2t/iiT7apveIEXvDo4w4LDRhu5J70ffeL09K4jWprYrwLCKwl6T5yhUaWhVxUa1DW0kEz2ur7FmRfs+GiKHRwYmyIDsm5iQPoHkHCyDkQxBVh0VIzPFdWAnb30U0M71ql1aewKdU38YPu/Kxw3kz75o+iadhc8knqgIS0ft0pz8C+DAXBwgH7S1Iy1tfpTbFUOwREbO3jbOEN6V9/DHdL74JIzCa6J/ThZLkX8rB9w9EN4btBgnfbSMSbbozfw72HHxD0W/MQ0Q+7v/hpf6loFz4aH4JRrxNCUi7jeLIPfm6T0tYJyzK1oTGWvWZWef4VXJjnw40kzGT66jL5jT8GrbwXc5FYkkgfRVUhBZKycLsssRbWSYsHqCjU/eHWaK3nAaCJjbd9h4MJP4HtjCQKVI5ic34QXympgvfUs/NyYgooqKpmdU1vp4NpY5llwaMpMiqyPUTi+Ase774CuuREfNOYh9iRsn3I8rKkTUF6mZMFWRTk/2G1b4PbQaiXfmXuEEXMrIPx8FQKn19BbZUILVbR9yoWw1iVDhaKeBdu1Gn6wd2GR+1KsFjLu4Soe/OYZCJfWIXThB3yx5gu8XFwP2JYFdv15rKrkSm6rVTsA5++z4Khlloz78jGG259BlP1H2DexhoKKWTQWSOBXlRgWZXmolKu5klUOwOtWruSxmVky2ryEgXNPQDD0CNzKzbjvxACaxbmwknkKxs9ko5pqYO9hi0rrAJzlVnh3Gzz8qR13dq1AmPgyyN6SYGakGs9FqKA/RAyGcDEqq7nHQVtSzw9eM3HghMWW4tf2AN8sHKInRNn0V6L3wBSWA22+hbTeu5SmAiRYWaGNZ7I1BQ7AtkHucbg5bEk5SN1CXXIx2gKycCwoB6eFBTjsdx7v+EuxO1yCEmlNEpOlJBQ/eOGfx3LcOPFqTBy5HPla1NaRAxEb0UHCzdhg4WZM8KGNSP+wP0Qh0cvldXVeTPZ01lknh6+2SqPlfgFbt5yPa4o8gqk89zcU2e57izPc/UpOukdoTnuM4i8uTEaYGP+/+X8DdOPukuFfaMMAAAAASUVORK5CYII=",
-          "width": 80,
-          "height": 80,
-          "src": "/static/db08d990d41fdab50c734f6012fca51d/829e2/galaxy-a20e_front_black.png",
-          "srcSet": "/static/db08d990d41fdab50c734f6012fca51d/829e2/galaxy-a20e_front_black.png 1x,\n/static/db08d990d41fdab50c734f6012fca51d/e94d6/galaxy-a20e_front_black.png 1.5x,\n/static/db08d990d41fdab50c734f6012fca51d/af1a8/galaxy-a20e_front_black.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Samsung",
-    "displayName": "Samsung Galaxy S20 FE 5G",
-    "id": "WXRgIhw9VEQL6JU6M9mwrw==",
-    "model": "Galaxy S20 FE 5G",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAECUlEQVQ4y4WUe0xTZxjGC/6hwwLiJisqA4Q61uncmHflDINcRbT0xkWkKeW0QEuh0CKl1AI6Lq0CjsJExnUMZSzUgBcyLu5ilixmF5QFt2GGl00DG5ZStyjne8c5df9sOexNvrwneZ7vl+c734XB+FcNXL76z6cbg7Fs1WL3XByrng/PSK81XkZ/fzfSUGSsYCxZhvJTLmQXZ+Rt7O6xPvjsy6/nB4e/sPVar8z19F2es14athlaux2xebop/sFkf9J7WKxwoQU2nPvQlezFRtO+qfuPgCzHU4BZBwHTcwvg+Asg7+LnsFt/GmQZ6l2kV6godqUHNjmBJaXm0PGJSWRzPEO/zdiJu4/m0L2Hc6j3xgQRXtYOISm6BTxTvZX08qRaemD92Q5nwuPV2PjtO2BzLMCDaTv65aENTdueoMyGQfTSgTJ4i6uFVGn+HtLLFWvogWca2yixqKQCuzUxCX/Yn8L9ReDMzJ/QMDoOe03nESv8GGKHyUAsKwijgKlqemCdpYUSC/UnsbEffoLZ+Wcwee93NDg2CZGlVnBLNSNWcSMEqipAIMD3kt7Y9CWWXPNeMyUWFJVh39y8Dbb5Bagd/R4FNnWDX1c7rO/oRD59A8BpbEXCJPkO0nsgz0APNNc1UaKqwIB9d+tH+PlXGwRbPkbL27uA2XUefAYuoXXWT8C3ygwSSS5Geg+plthlc+1ZSlTk67Gbi8CpmSfwen0HWtnaCcFfjYDv8AjaNPIpBDdaiOS07O2kNy5fTw88YbJQYlauDrt2YwxOjX4LnnVNyG/ICoHXr4DX8Cha2XMNAurPESm4chv1DzXH6YEKYzUl4spCTH2hH0SdV4EpKkUeZz6AFy/2w4quIeTacR28DW3EkQxnwqicJYC4rpISxfICTNHSB/zmAWBFF6LVyipws1wAr9p+xKwaAm9dC5Emew5UlNAD07UnnQlztFhS5UcQbuqFIIUBrYlUwWqxGZbHmxBjtxFY/EIiMSefWvJ+SQE9MCnT6EyIq7EwWTPs1LXBBlUZWs/TwtpoDXjHaRBzqwR896QSghQpBYzg4fTARLnzTGVkabHt6TXwirQa3tDXogDxu7CBXwz+XBViRckhKFZCCI9kU8AoURY9UJjtPAJHcXUopq5Fm7WnUVDeMYItq0ZbMkxok7icCOBq0cZofCFBhFPASEEmPVCAO69RqjRn3055OXDUJ2CdNAvYsgrYpnkfQpQ18JqkEjbz1cAVSnb9b8KI+GTqsYw/LGJvCePe5UQk2Dmxh2Y5MdzHIQlHH+/gSWbfjEm2vx3BuxMdy/Mjve/ECF2WfLXTBAeprg59+QXlqywPjR/bPdffxz15GcM9zoXhnriW4SENZK6grt1+7D/z/wYQ3uGtTTrRGAAAAABJRU5ErkJggg==",
-          "width": 80,
-          "height": 80,
-          "src": "/static/bf9e52f2815eea1b59b8ea6f93ed070d/829e2/galaxy-s20-fe-5g_front_navy.png",
-          "srcSet": "/static/bf9e52f2815eea1b59b8ea6f93ed070d/829e2/galaxy-s20-fe-5g_front_navy.png 1x,\n/static/bf9e52f2815eea1b59b8ea6f93ed070d/e94d6/galaxy-s20-fe-5g_front_navy.png 1.5x,\n/static/bf9e52f2815eea1b59b8ea6f93ed070d/af1a8/galaxy-s20-fe-5g_front_navy.png 2x"
-        }
-      }
-    }
-  },
-  {
+    "displayName": "Apple iPhone 12 mini",
     "brand": "Apple",
-    "displayName": "Apple iPhone 12 Pro Max",
+    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-12-mini/iphone-12-mini-frontback-black.png"
+  },
+  {
+    "id": "ciiY3VMHwtt1tdRGwOBz1g==",
+    "model": "iPhone 12 Pro",
+    "displayName": "Apple iPhone 12 Pro",
+    "brand": "Apple",
+    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-12-pro/iphone-12-pro-frontback-pacific-blue.png"
+  },
+  {
     "id": "XoOK0fb3oJt7V0dP9TRw6w==",
     "model": "iPhone 12 Pro Max",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD00lEQVQ4y5WUT0zbdhTHf0lIgu3EJLbz3yTkj+0kTiFAQkqhJZAmiMaEpNBA+dN2HVv/bCraClO1SR2duku3HXvpYZdJu3Sn3SchNLVVD5t2322qmqFVGuqROG/mZ8YOSbXtSU/fJ9u/z++956eH0JFVb95Bl+/cx/HK5jZ65+4DdPurR+ja9pfIF40jNhBEHN+naR9y9YYRL53A3zq9AVRYvYnabOHWx1jvfv0dkk4VDejfzOw0RIQYDmkP3/mbrYffoP9rEUHs/OLCxifIYrTg+NyV97dXN+89f/Dt9zvV9Y1dKxvYJRjvrt0V2CUZ7w7h4p/3BKKf/X3WHUm0A+dubGH9BYAcKMztn1QuwkdfPITBggKI4sCZGAdB+QC8I1UweyJAuIOvI6JEHZ7p8YXagdNXb2F9/OsrMjWpvPDJOTipLB0kx0tNZLI2rTTbdEYzTcodOjBZKSA4f6NXkjGQ9va2A89efg/rxqPH5Gh1uTE4fR7qH36qJnJnWtpjMFlJsAUlsNCsipARtAv2Yrk89cafMr74Ntahmbo9v3LtT+X6bbi4da8lpLNgoBzADE6B6/QisLlyi+QFIGjHvjg0aj884/AE2oEjtVWso/NXbNnqyh9j9bdAub6pCpkxMPa4wUg7wRGRW2bGo3YxPrB5g698bsaGe+jtABxSlnRwdY1Ml+svtQtgtL6uumIyHJYckodb2dlLkDxVUrspGsyE7ff4WAmXbOO87cD+mQtYM5VVMjU939CgMDi3ptL+MNCsC3g5A3Z/BNzRlOqLJcBCkHu82I+BlINtB2oQrMOVZTJZrDU0h0xtVfUJSTCausDUTYHFzoDRSqlmggIrZdvzhPWxoZxcO1Au1nTg7DIZL8w1pEIF+suLqiss4pIJpwdIv6iNC6+aLN1g7ib2wgMjR8AOGSaL1X+AU5WX4qQC8vSCyoUlDWgAC+dv2dOlVncwoRotVq1k215ITus97JRh4qwOTJ9bJKWp2RdCvgyJYu2A7ZPwYJs5vknEJ5qWQPzASDrAQtKNUGpABzKudqCWlQ6cqZNivrwvTlUgoQ03J6QAEQyQsRzQI/Ng7y9BF9cH1h7utTCU1Qfb3WFs5MMM+QiOpcnZ+8JE+Setl09Cw6efEazvKS1knvrOLDxj04Un2nL42e4Nfn68HMJS541zonj+OP5x5zfDyswlAwBgX9caiY4cfrh6vC9DsTesLy0jfR5L88ibnTD8h1Vo6JNkHFCsp8O2WbuBxLyiQ7WZTBbmdJ9UkDsURU5/CDF8VPMwYgIhFBBT+rbmPCi/9O4x5y8nBBXAjsGS8AAAAABJRU5ErkJggg==",
-          "width": 80,
-          "height": 80,
-          "src": "/static/fd8a951c8481a0696d2277b94b89bd26/829e2/iphone-12-pro-max-frontback-pacific-blue.png",
-          "srcSet": "/static/fd8a951c8481a0696d2277b94b89bd26/829e2/iphone-12-pro-max-frontback-pacific-blue.png 1x,\n/static/fd8a951c8481a0696d2277b94b89bd26/e94d6/iphone-12-pro-max-frontback-pacific-blue.png 1.5x,\n/static/fd8a951c8481a0696d2277b94b89bd26/af1a8/iphone-12-pro-max-frontback-pacific-blue.png 2x"
-        }
-      }
-    }
+    "displayName": "Apple iPhone 12 Pro Max",
+    "brand": "Apple",
+    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-12-pro-max/iphone-12-pro-max-frontback-pacific-blue.png"
   },
   {
-    "brand": "Xiaomi",
-    "displayName": "Xiaomi Redmi 9C NFC",
-    "id": "RG6h3SLuto_gcVTC6HU1Ew==",
-    "model": "Redmi 9C NFC",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADzUlEQVQ4y33Ve0xbVRwH8EOGAqXlUQrrmKsDFnqBtrT0yRj0FtsxXEAGlNHymBKW1Zks4iMxKkYTmdG/dJsmLrLNP3xFXcZgxGhmXDKXzOBGRmXzD5epf7h/BOTV3NFzvp7ey1/G25ucnOT0dz89vff8viXkv1fZ5gySQUIkj9QR3VZCdA4+yE4+Umuvk4dSJQVFGSTtJVS45Tk7QrKsRbHvfZrTid0l5xbKvc8tlVqGl/aYzi1253602lIwcsdkKZK/2lUhqqu+6rD8YWUjMYs5k4gQoPthwBIDip8FIuXAh3xtVDePGocjnKoVq3q2qIKNtj4ZtIo55mDuRKKX39xF1qnlDcqKLjAWM63TC4QmR8pnUPpYfWeq1uOJqINNtqgMWgLZ5lbthDTEwV4iscppiu3XKMazE+xGNmh/1Q3ovQ3yDu2uPnUwUKvssKZZI3ToLkrHODiQJbH8P4HQW0ncJavs5jZQT+UsrD5/NFXr9vSrg0H7gAxWB7Xmg/mT0iscDDseMO09hs9sCcC0zE6UghrDt+DtFWWwrn1QHdzrUEAhpBMG9ZPScQ42vvCARU9tgJWt4K5zmdUHQTO/i8PdIvbIz3vgSXWwtW5QBne16IRY4ZQ0lgLfldiVjnWgZQnHrGss9wrorqu/QNzdHEnV1kefUgf3OxWw7HGdMKKdkl7aBhx+M8Fo6xrO71uHe2yDBe6Duq7F4QwEulK13sEhdbDdrYA79uuE1wouSS9akjg9usZmD0noOp6E/2qSGe6Bai7H4RMV0N6fBjxQr4D5Po1wwnpJeqdhGR+PrbDRt5PwfsVg+JWyrBnQnG/5MxRFGbT1pfnJT/j6ZVBrzxHeq5uSxv0reP6Z+6zzfaBinoOzlGl+5DucjsPl9ytgJM1L2edUDnaZv0A4avxc+qDkHwzabrPQeX5ifmMwzlBmSIFfzMHpb5JBa/iQOths71U6pdkgdOaflY5u+R09mVMsdGoRNfNA4fUkK5wHzf9kDnbfHhm0HBhQB8Xag5u9rDe35Z2V2rJ+gp+8yoaO/AHzX8COiQ1WeAu0+Ms51LrqFbAjTeuJVgW07C0W2jPPJLrIRcT0n9Lo15TWLoA+8kOS7pxG8tEzcVg9PgVsi6qDPkeb0ikmHl++cXS/nETDdf5CVnmE8X4uucNj7Geg9ORNVFuscjgIwU51sEIwKweckKyt/uBlXezpNf3h4b+N/cOLxZHhxYKe4YXC8JFlQ0Pr7SqjErAVFnv62N6+OX9DSEYTIXk8+rUmHv+VfPA819bwNR6E8l+A4X/u/xce36kD9awUzgAAAABJRU5ErkJggg==",
-          "width": 80,
-          "height": 80,
-          "src": "/static/6f6b70c743316322746d62c035643cc3/829e2/xiaomi_redmi_9c_nfc_front_black.png",
-          "srcSet": "/static/6f6b70c743316322746d62c035643cc3/829e2/xiaomi_redmi_9c_nfc_front_black.png 1x,\n/static/6f6b70c743316322746d62c035643cc3/e94d6/xiaomi_redmi_9c_nfc_front_black.png 1.5x,\n/static/6f6b70c743316322746d62c035643cc3/af1a8/xiaomi_redmi_9c_nfc_front_black.png 2x"
-        }
-      }
-    }
+    "id": "JOVQBOFHWgPmbF1dF8kjmg==",
+    "model": "iPhone SE",
+    "displayName": "Apple iPhone SE",
+    "brand": "Apple",
+    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-se/iphone-se-2020_black_front-back_custom.png"
   },
   {
-    "brand": "Motorola",
-    "displayName": "Motorola Razr 5G",
-    "id": "Xgoi5lupBk0ih4VO6e5YdA==",
-    "model": "Razr 5G",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAEW0lEQVQ4y+WU/U9TVxjHm/4JW7Zl6gCZgjpxm8HpjNKCBKW05UWghb6/3Lb3tuW2FWipEkFAjIAxYCrbZDKmm26YThRxRQlgwzZBus3qZFSJyRbcskXJnFuWcL47tG5Z9vN+200+ec69N+eT73OfkysQ/P8uqVwh3FVQKlTpOKFSZREq1dZ/YRNWaJZgE/Uf95VLaFmhxuAU5kvLhFK5UvjfJ5RIS0XZOyRih2uf2MJ5xVZH3VP8cWzOvXHYePUn3tl9cWx0vYTTs1+cnSsRS2TlIkGBTAl5kQaibAkln7ILWeKdyBLlJRDvevqckiOBOKcA2TukyM6V0SpLVEpRiQ4FUgUEvLthVm904cVlSYtp6zaSlFWvkKTUtWTFyjVkeUo6WZa0mixPSiMrUtaSl1LXkeRVGWTl6g0kdfV6sio9g6Sv3UCSV6YtWlgfOMfemMDp8t9Wqsx49pnnFkvyZcRUriC8TkPqOYYcqq4iXYdaSPfRI6S74zAJUDoPNpJmn5fwVjepUNhJTq6CvJyWsag12Kmw9r7A7qj9oVhhhCRzIxk9fABfdLdh5swxPLh0Ak8mLwA/3QV+ngMe3qPrb/H7TASx8E0Mno2iuWUCNs8oMt+sIFqDFWaL+7HA4fTOy8v0UIm2kVCDD1fbGxA52YF7wQAeToXwJHYDv81NY+HOFGbDUxj5JIruwJeorR8H4xyCzTWGrBwr0egZmBjPo6WE84Xleuzespmc97pxsdGL6Z52zJ1/B4/vTODJ/Sge3PwKUyNRnP94Fl3HIuB9YVhdV2BxXoLTM0IHZSYanQVGxr3wt7B48xskWOPCGY8d4aP78X14AN9FbyFy7TYuD8Rw+oPb6Oiaxv6WcVTVjIJzhcBWXQTvCVGhiah1TELI2WvmS5QGbF2TQdoqVejfV42Z4UHcjcQQHplD/7k5dB7/Bq1HJtHc9jm89aOo3XsFdn4IXFUQDv4CPVI6KqQJza4FAcvVzO+mwtfT1pO+VjqQ8A1MDN9F8KMYek7eQWt7BA0Hr9Nkn2GPfww1/hCqPENUNACr/SxYRz89q5q40GDil1r2zufLFLAbWTL39UP0n40hELhFBZNoaL2OxuZh1NWH6BBGsMd3GQ73IE03QNOdA8OeAmM7he0iVVyoXxJyVFggL4VG7SP9wV/Q1BaF0zsBHReCyXkVLt818LVjcFYPw7lniA7hIjg+ITMy78JkfQ9btyv+SvhIYONqf5QXl2FngZs0tc2AdX9Kj0IIWusgNOZe+vHfB8v30Tb7YLR0w2DtAWM/DTPbB7U+ALUhEBeqtBaotewfAiPjQmFJOdmaZYS/eQaMaxyVlmEUqoKoNPVCZz1JN/fQVk/AaO2ksl5YHB9CY3oLKsNxaM0nsGlLIaiQKFUMqJD/tUypx/MvJJPXNmvx6iYttolt2JG/D9vzDiBzmxtF5U1guLdhsASg0LSgWOFFiaIO0iIeOXlqpNN/gEbPQllpJn8CBfXQTfkk4HsAAAAASUVORK5CYII=",
-          "width": 80,
-          "height": 80,
-          "src": "/static/e43c67a801aac77c71a03fbf4a11bae6/829e2/motorola-razr-5g_closed_graphite.png",
-          "srcSet": "/static/e43c67a801aac77c71a03fbf4a11bae6/829e2/motorola-razr-5g_closed_graphite.png 1x,\n/static/e43c67a801aac77c71a03fbf4a11bae6/e94d6/motorola-razr-5g_closed_graphite.png 1.5x,\n/static/e43c67a801aac77c71a03fbf4a11bae6/af1a8/motorola-razr-5g_closed_graphite.png 2x"
-        }
-      }
-    }
+    "id": "UPswdWy8jAcpjP2sT0ifug==",
+    "model": "iPhone 11",
+    "displayName": "Apple iPhone 11",
+    "brand": "Apple",
+    "image": "https://assets.tre.se/images/device/apple/iphone-11/iphone-11-black_custom_webshop.png"
   },
   {
-    "brand": "Sony",
-    "displayName": "Sony Xperia 1 II",
-    "id": "w0FW3u7M6QjAQ18sLkbzfA==",
-    "model": "Xperia 1 II",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADqElEQVQ4y4WUy28bVRTGR0rGCKm27Cqxx/bYjj1m/H6OXx17/KwdN47tJnZqnMZJExYlDYlpGhFCKASoAqVdsEOskVIRgSpBEZQFgv8Aq5BRF10hJFaBLlFmfBjPBJBAY6706buL7/7mzjlHF0H+tZ5RPCv6T48eo9uv7Kj2b91W3uhuKa93N5U3d99Ubm/tqH75+Vd0kFGdUSFDV2ehIzoAILls7uuAP/BHhIoeC/7U5/X9Lvix1+M9OZegv/jrTK12UR5YqUyL/t333ypi0fgTB+kCp8MFDkEk6QS7nQSbzQ4et5f95PDe6CBL00l5YL0ufe3hNwdoOl04osI0RKgkR1F0PxxK9IPBGOf3R4Gi4j98+NFbI4NsmskMA86IfvvuOloqVtl8rgqFfJUv5Gv9fG66n06XOSY1Cclkvtdq+yVgegiw2ZgT/WInjTZn2+zCpWVYfH6Zv9Je6Qveb812+LmZDpRLtR+REWT0f4GX5iQggo2hLy5dYfe6XXjn+gb/3lYX9m9swO7aKr+zugbtmeZjIaUYRFPJITVsNxunOzX6xtUl9nBvA+7fWue/enej/+X+ev/g9VX+451rsDnfOBJC4uhkkil5YKtalTbuErrXqLOfdWbhfqfGP1isw+cLNThoTXP3WnXYLhd7QkqsYY6m5YHV0gXRR26uoG2myG4KDXj7/BR/90IF3p+cgt1MkbuWyEOVonsIc0YExqmoPLBcKImOXp1Em0yJfblQhw9mW/ynS5fhcHEe7tQa3Fq2AuVIsodMSE2JhCh5YIbJSjd9bQplqAxbCOShFjnPX06UYD5ehEq4wGX8WaA8sd5oWgL6fQF54LmE1LEXXs2hYR/NBh0piLgYnvYwQLsZCDuTnI+kwfVcqOfMSECX0yMPpMJSPZZfiqEeZ5R12OLgJGK82x4DFxED0hbl7NYY2Kz+XjAuAe0EKQ/0eqXrryz6UIIIsiZTCHBTgMdNfhjIiPs5oyko7J29ZFgCWixWeSBJuqQBnyZRs8XNYkYPYAYXjxmccCoeM7pBbyCOHGZpDo1GXB44MUGIXkiZUSNOHGkxO4xjNm5cZ+2fitNiBGh15kf4mHRDnQ6TB1osE6Jn0xGF3mB6MjZuAM1ZDNRndaI0gsbG9aDV6tmQzyIC9XqDPJCw2f9+YDEMe6jRaE40as1vgp6e6lijVp/otLoH//yVdfirbbXaEKk2ZgWOm1W4EVeaTGZROG4SZFE5SLdYPwzT/+f8n00QN0QZ/Q8kAAAAAElFTkSuQmCC",
-          "width": 80,
-          "height": 80,
-          "src": "/static/da4d58572b550318843c432e6ed0287e/829e2/sony-xperia-1-ii_front_black.png",
-          "srcSet": "/static/da4d58572b550318843c432e6ed0287e/829e2/sony-xperia-1-ii_front_black.png 1x,\n/static/da4d58572b550318843c432e6ed0287e/e94d6/sony-xperia-1-ii_front_black.png 1.5x,\n/static/da4d58572b550318843c432e6ed0287e/af1a8/sony-xperia-1-ii_front_black.png 2x"
-        }
-      }
-    }
+    "id": "EKEAD-u4h6oEbNprowJiCQ==",
+    "model": "iPhone 11 Pro",
+    "displayName": "Apple iPhone 11 Pro",
+    "brand": "Apple",
+    "image": "https://assets.tre.se/images/device/apple/iphone-11-pro/iphone-11-pro-midnattsgron_webshop_custom.png"
   },
   {
+    "id": "W6nmb8Pp5b1GHBzVQ0KUFg==",
+    "model": "Galaxy S21 5G",
+    "displayName": "Samsung Galaxy S21 5G",
     "brand": "Samsung",
-    "displayName": "Samsung Galaxy S20 5G",
-    "id": "YrUBwGuKjZ8ZUUUtDzrx5w==",
-    "model": "Galaxy S20 5G",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD6klEQVQ4y42Va0yTVxjHqxMXF1mYi9lIXLIEQ4mZ8+uyL0uW7cN02eIuyfyiTDdmNJmXDRE7h3SVS2ttaYFeaEvL6L2llN5kFFpubcEWRGHdKC1ah63MQSvoy4vjPOt7Gr9sa7eTnDwn5/+c3/ucy/O8NNrfmtXZ93S4hbZ16/MZW7hz1yuFLxbvKqTGtIICau4ZysHQZaPlbS0KNbanqy5sV5ud4zb3KHHNM7as7XKm9RZX+qfB8WWH20d0muyBE2crn8Nr5OrcQJPdvYmyrfKOstn4H7C4CpBM/Qn3ltYhufwEHqwgSKwAhCJJEMk7dlO+elt2zb82Q08vFkXyH0tnogkilliFud9SG7eTKyh+fxXdSa5szGWIAzdvP+aJlSWUr9J87b+BmQjpM9EkOX//EUTvPUTzGcjdxUcQvptCpuAd6ByeWW9Wavfgjxuc/ytC+nQ0QcaSqxBZSKNY4iEFA8P4PJIOR6Ctf+qJQmt5nfKVmno35wTqrdnwW2Qq+vRcgpzLbDkcX0bRhTQ4p+Jw2RVCHPcNYOjcZA1fUkb51kg0uSPUWrLhN4kVGJhYIiG5tIaSGRuIPgDbxK9I5g6CfmRijSdRlOLj0XTlBuq7XViUZM5wOrJAmsdiwNJ4kdLlA6l3EuRODzolNMLQzdl1p93xGuVrcfXnBkq03VgM9DnptTovue2iDTZ9Z0WFB8/Dq59WgmoggKQjfuDbPGttcjW+ZZ7KkBt4hMHFYt33P9D3fiMhdwgHoahtCtEONsI7h6tB1x9EMs918P08S0QDoxjoGRzKDTxW3YBFNpNF33e8gdxWoYCC4ya04/MmeOPoOTh0SYaYmn64FYsTJ2s4GCjTW3MDv67jZy9FKqa/+y2bfOkoE/ZzGKjkzFX4uF4HPNswYnf7wTI0ScwEhjDQ6sqTKVU8ORY50nZ6eWMHuffCVXhLzkL7ahtgD88FpvlFdEDogKY+P/FLcBADOx15MuUMW5IFtsrpH1yUkCXldbClohZt/oIFxW09sL8viKp7A6DwjxFsaTb1mvR5ns0pngyLDY0C+vstRvKzDi0cuMxEn7AE8HZPDzD9QeSLhME7fYNQ6cwYqLPnSb16U/bZ1LVrSrmhENE+pQSxV7AhcDlRVZcZnXd7Noy3QmAJDDxukqswUGrM82zYaiMWq6+IytqvT8Do7yPQOmGGKkcvnGzXw3siJbCiYXCGJ0HYLMLlS2HJs+VKrgBbAZe/vYLDDzCaW4hLYn7qqyvc9CEGM/3msdOpD+vribNCgc/Ok+ICy2puzV+1Pzpc/nRIlfkXMr3o2UwvzvQju3cWvZydw7+Ac19W/GP9XyqVQ2G3taB/AAAAAElFTkSuQmCC",
-          "width": 80,
-          "height": 80,
-          "src": "/static/a8526a63268595d22aeeed66a529bb45/829e2/samsung-galaxy_s20_front-text_cloud-blue.png",
-          "srcSet": "/static/a8526a63268595d22aeeed66a529bb45/829e2/samsung-galaxy_s20_front-text_cloud-blue.png 1x,\n/static/a8526a63268595d22aeeed66a529bb45/e94d6/samsung-galaxy_s20_front-text_cloud-blue.png 1.5x,\n/static/a8526a63268595d22aeeed66a529bb45/af1a8/samsung-galaxy_s20_front-text_cloud-blue.png 2x"
-        }
-      }
-    }
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s21/Galaxy-S21_front_gray.png"
   },
   {
-    "brand": "Sony",
-    "displayName": "Sony Xperia 5 II 5G",
-    "id": "JH27w_8Uylp8qyJm2Su6JQ==",
-    "model": "Xperia 5 II 5G",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADoUlEQVQ4y42UbUxbVRjHbzb1ohQoiyBjMClIMRAFbEsHfYFSaC+rjBVYX2hLaS8t2xAKyujggnZsZZvKEj8s7uMkGJUt2YvCshjmJ40fNFHjHG561cWZmLDtk3EuHP/eewt80LR4kn+ef855zu8+59wnh6L+NbjJmBRvff/F1rm52Yy5d2dlsde4jHh8KuODc/Oy9+fnMwFsEXMmj8SplKNzn3vDm5t3X67Tm/8wNlhWNFr9fZW69r621nD3BZX2L52h4dzGHoc7ObC7JyTFM+/MpO21e+8wVhcYxgkr44C5yQ6jwYZdWguaLW3817c/f0zM9XQHkwPZ3oNS9I9YaTYwfHM/yyHMHl4NBaN/B/0jxOseXHV19sPpDF2Pnw0+KhUR6E0O7A33S1HdXkoPHhy7xb38OsaGpsn48DRGB48h0jdBBoSPsP7Idw2R8jVgKAUwlKhQpiulRwcO//jm+EmcjMbJG9E4Thw6itjABIn1c3iJHby5lVFufuR1IKV7jp6IRPkz3HGcHjtK3h4/htPRI5iJcORUhEMkcOBXqqLgcTG1I9VP6QuvAbUt9MzQML/46jg+moySK5OjWOBGcP7QELkwMoSpcJinSnelianOLl8KINuXMFNn6bd8Xfy1Ljs+du0h11wvYslhw0KHjVy178Yp575vqYVfpDv0B8PJgaH1C774CT29t52/YGnEJZuJXGkzYbG1HuetevKesRaxFts3FPDI/wcufUmfaN3DL5r1WGo1kM86jPi03YCrNh252FiLKZvtOvUnNq/Q70/01CsPf6I9hhbeU6yCr0xDAmVq9AjyKjXELcy5DMyNOBLA7mCKtvF1s1KcBU+31TG8uVCFpmINaVZoIEr0TTtVaK1jlj8EpLbx+tnkQK8v0VNfYZk2a1v4yjw1qgtqSPWOGjFKvjJPg8YaZnkFDzbvQ483sXgPt+k6lYUvyq5ESU4VKc6pgqiS3GqiEOb0ausNrB3ZH0hxh12egBRXcY/WVpn57bJyFG6rIAXZ5ZAk+HxhTlvdyD/E77SY6/b2bF4hQOiaKtMPeelK7Mh+djU/W0lEiT5PphSAJrFC6ci+nhSPg8OZ6Prf8HOa6nnjndwnSpAvV2K7vFSS6J9Kfwaaynp+HejxBZIDdfqGDV9UpLwsz8p9IOhuVmbOiijRi3MKRdnGA1tvakr9attdnet2i6KiMPPJnXJZVn66TC4o5+ksmaKiIFNcExPaHPb/7P8HdiWGGKNA77gAAAAASUVORK5CYII=",
-          "width": 80,
-          "height": 80,
-          "src": "/static/d0f7fd850c97ffa1e56d6ad261d2cd11/829e2/sony-xperia-5-ii_front_black.png",
-          "srcSet": "/static/d0f7fd850c97ffa1e56d6ad261d2cd11/829e2/sony-xperia-5-ii_front_black.png 1x,\n/static/d0f7fd850c97ffa1e56d6ad261d2cd11/e94d6/sony-xperia-5-ii_front_black.png 1.5x,\n/static/d0f7fd850c97ffa1e56d6ad261d2cd11/af1a8/sony-xperia-5-ii_front_black.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Sony",
-    "displayName": "Sony Xperia L4",
-    "id": "VNa9xYIc_eyR2ec4weIGRw==",
-    "model": "Xperia L4",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADY0lEQVQ4y61V7UtTURyeRE7P3T3Xl7WV5Zwp6Xa3WUwFnTanNmfpZrqlli6zF4pelMoKI7UwoxcqoiCj7IUks7cPfYmi/FDYC1GUUv0DdemDTSm0D937657jCgquEnTh4Xn48eO5z7nnd85Vqf56tjU1U05OTlbn5jqws6CAzcvLZ53OAraoqJgtdBVj95ISNekpKHSr8ux2leLT2XWI8pnunpkdBw48b2punvB6fV/s9szRlJTU0YSEhFB8vHbcarO9ffbydRTpLSv3KhseOXaM8sHDRxlZj+xsaQF3SQnwZh70ej1gloWoKDWYzOaJK719HDX0+iKmTdh9vge1dXR8XFVXB5mZWT+SkpKk2NhYCWMsIoTAzPOh3r4bmPSWe33KCfe1t1Puv3UbNW/fLng8pZCeni7qdXpJTidxGEsoOpoYjvZenzQsm8pw565dlB88HEANjY1CVnY2JBoSxZiYGNCwGpATStGyocnMj/1acrmvQnnJm7dspfxo8AnyVwUEa7oF5unmivE4Hgi0nFaKQRzwJsvXwyeP60hvlT+gbLh23XrK+4fuopXFXqF0jg3y8XzRwSSBgzGCQ2OUHOpEcKXZv2063UkNA/4VyoZ19UHKmjs30Q63R+iSE+5NSRP3zl8AFClpUocxFTZm54QSThyn39DvW678DatraidFYB/aX+sT+msK4WLAJV4OuIDgkqyvV7ugrcrzWeVpYmhrxRSG/kCAcuvwPVS6KFdwYgM444zi4jgjEFCNE8FtzRrZePuChvR6y6fY5YrllZTPfbiPHHyWYIqaCzxrEHmNAShYg0RqOSb71z1nj2jpplROsSm+cPyBt4Mog18oxKE40HE6cRaeBQSylkjNZs4YO9VzNjYcYnrD10PvEM9bBDJz5HSw8pEj+DWHZLCv3bg1/WD7KiaX/CpsiKIRcJgTMYuBQNYSqRHDq3390x+93wmH/5thZdjwPeItlk8MYoDjuB/kDFNwnMjIl4P8stA/JXz5ZpiRr6iRyMhI0DAMEBMCoknNZDKPy4Zc2FB5U7zhqQeAmVZbxgutVvtdr58dku/CsUnMDsm1CYvVOvT46XN6wS5dVqacsCgnW7V+w2aqg3Wr1cHgGlxf38AGZdRTrCYa11TX0l9Ay+5WFRMx4w+Pn1joUYwMTo1TAAAAAElFTkSuQmCC",
-          "width": 80,
-          "height": 80,
-          "src": "/static/c1c9e3b86329f154707366056147ba9f/829e2/sony-xperia-l4_black_front.png",
-          "srcSet": "/static/c1c9e3b86329f154707366056147ba9f/829e2/sony-xperia-l4_black_front.png 1x,\n/static/c1c9e3b86329f154707366056147ba9f/e94d6/sony-xperia-l4_black_front.png 1.5x,\n/static/c1c9e3b86329f154707366056147ba9f/af1a8/sony-xperia-l4_black_front.png 2x"
-        }
-      }
-    }
-  },
-  {
+    "id": "RNgJhpcYCSkPHEV0zmtuXQ==",
+    "model": "Galaxy S21+ 5G",
+    "displayName": "Samsung Galaxy S21+ 5G",
     "brand": "Samsung",
-    "displayName": "Samsung Galaxy S20+ 5G",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s21-plus/galaxy-s21-plus_front_silver.png"
+  },
+  {
+    "id": "h_FG79ZV82La9OFaueme7Q==",
+    "model": "Galaxy S21 Ultra 5G",
+    "displayName": "Samsung Galaxy S21 Ultra 5G",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s21-ultra/galaxy-s21-ultra_front_black.png"
+  },
+  {
     "id": "U2PoPfPdkqV2AWDKfOa3IA==",
     "model": "Galaxy S20+ 5G",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD2ElEQVQ4y4WUa0xbZRzGYfpBc2BjmSZzftLpF90XE6MLZkZZFq8b0XjLFh2yETMvQLAuQKHQNq0M5NYOuaxAoWtZT09LL9DSs3btetsAMW7ZgKzoNrYM2aFdKRBW5Lx/z3knxmhOfZN/njfnPO8vz3vNyPhX6+rUbHQfzt6SvTV7S1bOtse35ex48omcrM1EzvYd27dy/x7lDQCQkbapW09udDcZDaTHS/vWfB5/wulwJSmjORn0BRfP0f6VMwO2m9US+TO8sanpZKYgMBK6iLWyqirrevRGEtYA7idTcH9pjasUrK+ysLr0B9y6tQxG0rqP9zocZzcJA4MXsMoVCuLaZHQ+GVsC5k5sPT6fQAlmkasEG/v9Hrp8aRb0hsHXea/V6v5/YK1MRkSnZpjl+AoszMVZDgiJhUUOHkchfxS5XFdBozG8xXu1WrMwMPwXsEYq/QcwxqWKw907cQiHZtDY6CxLj0xBe3vfAd7b00M+JAwMRLBKpLXclGeYZGwZ5m8zbJwDXvnlJmgNQTQ9M4cMZ4Igl6nwGqpUfcIJg+fDWCsqq/g1ZFIrKW4TVti11VX4dfI2uO3jyD40hkhziEvY/QY+ZqdOp5vyg4RypRQDr47/BlqVix2mLkJngw2MmhFUX6ND4cgkuGnn27zXMmgXBrrsHqw3YJQwadzMp3lt8PKztexLT38DuTsLUJvSiNyWCBro9YKepPAua/tMwkBRcT1WGVVHFB88wYje18J7e9rZF576Cl597iAy955FTm4dL0emITQayOO9Xo9XGFhyVIq1ydBIHM0XM6IDzVC4t4H9KFcM+3YVgPiLVtRXb0ez0TnQak5joNU8JAysLmvEGpigiWMf1zKHdovh+LstbOmHzVB0RA2kPoBsXR50zhyG8UtjGEi7PcLANmUvVsewmWgs1zCV+c0g36Nmv3uzBYrzNRBQjSJFYQdSqewQ+ekCBpJUmoRKSQdWo91AlH/ZyhS9I4XPdonYD54vgxN7TwFVSqOuhmHkpH+Gfh2JgfoBWxpgXTdWra6VqKzquftDhR4OvyZmi/LkoOISOjvGkc8ziUJDE2A2DWKgxegQBlotIw8SuvoJO+WbN7b4Qfft4LqtkETk5wZkkbjYoP0KovURGNCZ8LEh+weFgaYfLVjFx8uy6G5fcoKKgl9xHoYKTEB9ogN1nhq8zSGYHr4GvZ06fPUorUUYKC6uxqoCUWZFYTUtLVGmFKV192SFssXy/aLFQy8WJI7tL1n+/mvFdYmkZie+VeXyzLSvdm7eKxtd/hXZzFX23/UYVv7bI7whNrXwn/F/AnqfQ7Ot/EIOAAAAAElFTkSuQmCC",
-          "width": 80,
-          "height": 80,
-          "src": "/static/4912f5373dff1118021ef02a57e961a9/829e2/samsung-galaxy_s20-_front-text_cosmic-black.png",
-          "srcSet": "/static/4912f5373dff1118021ef02a57e961a9/829e2/samsung-galaxy_s20-_front-text_cosmic-black.png 1x,\n/static/4912f5373dff1118021ef02a57e961a9/e94d6/samsung-galaxy_s20-_front-text_cosmic-black.png 1.5x,\n/static/4912f5373dff1118021ef02a57e961a9/af1a8/samsung-galaxy_s20-_front-text_cosmic-black.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Huawei",
-    "displayName": "Huawei P40 Pro",
-    "id": "jPO5FOAmh-4X-L8GE61lUg==",
-    "model": "P40 Pro",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD8UlEQVQ4y33UbUwTdxwH8EOcIaEMeZDEzGzZK05kWaLZyF64ZEs0e+OyzLksGqMbr9QFYwwLewaWKQyKUEGeSgWhlIJQqC1rRylQ8K5PtLRQHiwUtqkbCkkT2fCA+3/H/dmrLdf/m/8l3+998rv7X45h/rNOzIPueOjdXQEoSjaQePnqV4lVqrrE2upbiYXXbyh0DLNb6rzRMsXEXLllLXHS3j+3knzo/HeelMPHovtPf/3k1dKBp/sKjU/Ti0xPMopM0aMlXd4mdUOK1L1Q3REnC+a1DdOwdngyK+3LbrxwtgQJ+TokVrqxR8kh4QaPeKUT+1Qc6m18ttS90sPJg5f1ozRstI5lppcOrTNlbuyt8YqptW4xtXFcTFX7ROamGyl1rnW1w3uQgiZ3DPDu2A5o49m0ihGB+WkU+2/7CdsZwsHuabzSNUMYTRDpdyY2mhye16RuvsW7Sx408BRskMBqTmBqvNjVHCQJPRHEWVfAmB4TxvgIe3vnRa3DlSN1vx/0yYN5fc4dcNDJpja4BUYdANO1SA7o3ThbqcQZtZ68U2cG2+7equf9R6Ruoc0TA7znomCd3cmmN3kEpm0OqZ1B4mz+AoHct6AvaiVtHT7c0XKbA0Njr0tds4WL8cimHVBju8+mtfgFpv0BTvbOkrsD06jWj6NKO080AcC8KGy5xv2Hpa4jGJYHL5o8FFQ5/GyyxivkKjvQZZsm1e5VlPKrUA7/Seo9UVgW14RgKERPmZuOyJ/yD30OGn7uXWavlquFcGM5Qn4f0XvCqJpcRs1slDTMr6EzEhU8gVCW1LVPLciDXl0FDYeMBnah/H1hzVKMv1y9ZMk1hOZAGOrwMtH9sQbz4zWBn5ii4PBMjAln+spo6DQb2GjzcQEDuRAHCwgZqMSix4H+YIjowr+hZ2lZ8E7O7IChsDy4MNJGQz/nZNetlwTYPgb5+TQhtnxs8m1YH7eShw8mYJxdEPp5DwWtvqA8GLEraRi0VrHP7RcEDJ0HMX1IiHl7UuM5CNozZKuvAL8v+AV7YJaC/skJeXDpl2IahvqV7Iblg21we0LDm4QY3sNmSya2mlIIaT2Cv329wuRchIKRAB/jHVrKaciNjmRGtTnr0CQD2pdEsZsVt7QHRKLZI6LzbQic7nlo3EU/myW3TR50WW7ugJwla6L9I0xfy8by9ZeBjgygNQ1o2gX05EDk1PCP2Q/RCe8b5cH+ujy6K+u7k3jVMddI2bvPbn1zcsV27ehquDRrdV6VvfKr5vgzrrXY/WNp1YtS997t8th/7Q3DJ/9eId707cWkR6pPFRmfuRSn8jsVpwpNihPnCpK2w3ipMdd65X/3/wNZRFOrYYTQrwAAAABJRU5ErkJggg==",
-          "width": 80,
-          "height": 80,
-          "src": "/static/c901253e547305a5d5293bfebde5a920/829e2/huawei-p40-pro_silver_front.png",
-          "srcSet": "/static/c901253e547305a5d5293bfebde5a920/829e2/huawei-p40-pro_silver_front.png 1x,\n/static/c901253e547305a5d5293bfebde5a920/e94d6/huawei-p40-pro_silver_front.png 1.5x,\n/static/c901253e547305a5d5293bfebde5a920/af1a8/huawei-p40-pro_silver_front.png 2x"
-        }
-      }
-    }
-  },
-  {
+    "displayName": "Samsung Galaxy S20+ 5G",
     "brand": "Samsung",
-    "displayName": "Samsung Galaxy Note20 Ultra 5G",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s20-plus/samsung-galaxy_s20-_front-text_cosmic-black.png"
+  },
+  {
+    "id": "WXRgIhw9VEQL6JU6M9mwrw==",
+    "model": "Galaxy S20 FE 5G",
+    "displayName": "Samsung Galaxy S20 FE 5G",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s20-fe-5g/galaxy-s20-fe-5g_front_navy.png"
+  },
+  {
+    "id": "rszg9_YFSuLtst2AjnxIiQ==",
+    "model": "Galaxy S20 FE 4G",
+    "displayName": "Samsung Galaxy S20 FE 4G",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s20-fe-5g/galaxy-s20-fe-5g_front_navy.png"
+  },
+  {
+    "id": "BiojkZY67HIicZeWt_K95w==",
+    "model": "Galaxy Note20 5G",
+    "displayName": "Samsung Galaxy Note20 5G",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-note20/galaxy-note-20_front_mysticgray.png"
+  },
+  {
     "id": "MG_6SgqDYRz6QBV_TrBP2w==",
     "model": "Galaxy Note20 Ultra 5G",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD50lEQVQ4y43Ue0xbVRwHcMY/i6l/q3OgaJ+3L1o6HKHcMlakhZaV8WhpKaVAS2tLmzHoWEvc6NbCyijZxh426FTCY4oKE8XEKe4vwRk7Fl22Jf7h3EsoMTEmZl3s+XnvqTHLkrt4knPPH+d7P/neZ07OY6NCI8druVacqyqXsSorSlmqMimrXFXCIslCVomSw1KqRKxdajmLKNy2hc5KFfk5jMPY6Mul1057cKeksC7F5r+e4hF7NghRU0oqtqXkIvuGjGjfVCt775n2dnPpbE2lewsj2GwKYNDlOKoipEbIY1cDW2AGrsAOBOEFGdEDcl4ANGVR5LAeJuhsfc1BZrDB5MagvbOH5Eq1KJ+nRWyiMcMhrBm+wJGRCLwZOb8P9OrIQ7u1h49Bfc9TQHNXFnT4Sa5MA/mEFl4RGhBbaAIe0QlCgRsV8jxgaQw/Go2flNDZff5wLjNoceHNduc+kqfQQZ6oCgrEesQWGYHNt4KAa0elO5xwPDqD4rFECZ0NHzrJDNabnXizzekjOUUa2C5Sw0tiLaJaUmAzCNgtyFjXDwHf+3/rqzxFdLbVNMAMWlsP4M1uT4QUFzfBC4IyqqUa5RMa4PKNUCxpQZVkLzgs7zw6HIyL6ayva4T5Hlqs+zHodg+QsmIzFAh1sF24CxUQNcAvMICI24T0u0dh9MgXmWMj8R3ZSx5nbmiyeLPvobOXlCjqgCPcA3KJDSm4bfDyNg0oZQOo3zUPs5Or6ZHYGQGdHY29y9zQaH7jP1Aop1oROlAS7Yj7og4Ugj5wG+ZQYmgFPr6QTEfCJ/4F3/s/YB8pKqqmXuS9UEQ9iNf4/dBRPQeng9+i2bNrMH3+Svpg4BgGjx5KMIO1BjsGm8xOkuBVg+JVC5QTUdRWMQ/Hfd/AdPwHNHX6exiLLKXbrf0Y9LtizGB48AQGI9ExcjA0AaWcAPCeCaEG2XkI2y7BBNVwbP9lCLrm022WIAadLcPM4PJXKxhcvHiJfHDnL1heugkh7xxqUJ4CgygBvsrPkLNiCZrVE+mOjm4MWupDzODiwtcYnLuwSF6/eh9u//wH3P3lT/TT1QewMLkGUc9l5GlYALXal65tNWOwqraVGZz/6EsMzk5fJJOrt9Ha6h2UXPk1c+3K3cytH9cz15P3M8Mjk2ALvvnQFTqQbej3M4OffrKMwQ9nP1fdSKbg1trvcCO5CTep9dp3v0F0eAqaA4NgHxpCVq8X/75MTwNjQ9kPPRqJ7zx3amozMT6Temt8Zv3tcx9sRI+c2ag1O9d322ybui7nPb3RxKGzGpOJGXxs0PCz1GQ9OakD6zlq5m3diqHnnzjxH6fhrWEWS6JKAAAAAElFTkSuQmCC",
-          "width": 80,
-          "height": 80,
-          "src": "/static/97aa53c7874dadff4d7556eab5253267/829e2/samsung-galaxy-note20-ultra-5g-front-black.png",
-          "srcSet": "/static/97aa53c7874dadff4d7556eab5253267/829e2/samsung-galaxy-note20-ultra-5g-front-black.png 1x,\n/static/97aa53c7874dadff4d7556eab5253267/e94d6/samsung-galaxy-note20-ultra-5g-front-black.png 1.5x,\n/static/97aa53c7874dadff4d7556eab5253267/af1a8/samsung-galaxy-note20-ultra-5g-front-black.png 2x"
-        }
-      }
-    }
+    "displayName": "Samsung Galaxy Note20 Ultra 5G",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-note20-ultra/samsung-galaxy-note20-ultra-5g-front-black.png"
   },
   {
-    "brand": "Samsung",
-    "displayName": "Samsung Galaxy Z Flip 5G",
-    "id": "jKSVNloRL6XXYHvW1WhpNQ==",
-    "model": "Galaxy Z Flip 5G",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD20lEQVQ4y2NgQAKqqqpg2tnFmYEQ8A8IANM6Ojr4FZqYmoLpg0cOcVVUVUo0NDaK1Tc2iDU2N4m1dbSLNbU0Sxw8cpgTpMbVzQ2/YbFxcYwguru3R8jS0vKaurr6TzU1tU8qqqpflJWVvygoKHySlZP9CXTVFaAFAlCXMuI0MCIyAiyZm5erIycn919MVOy/iIjIfwEBgf98fPz/ubm5/7Oysv4XFBT8X1BYqAFSGxQcjNvAmNhYsGRxSbGmvLz8DwkJif/i4uJ/RUXF/vHx8/zj5eX5y8PN819UVPR7UUmxGkhtaFgYI0Evl5aVagFd+EtcXALkwn+8fJz/lWS0/ktLKP5jYWMEGfi7vKJCD6Q2OiaGCaeBcfEQAysqK7VkZKR/CQry/ZeVUfxnbuD3vyp+//9En/5/KjK6/2WkZX6XVVQaQPTE4zYwPiEBbGBRab6WkqLqTx+Pwv8Fca3/0qKW/G8svvY/P3T9v7klD/4n+lf9NHaX0UT2FV4DI2JctawtfH/ObH/0f0LhwX/VJfv/N1Tv+1+ds/Xf9Oaz/23NPb+7+JkpQ8IwlBGPl+PBkj4+ptqu7rG/Fi16978wd/2/kryl/5tLTv9fOfXrv63Tn/1XV9T+EZsWrgJSG4YvUiKjosCSObkZGrKy8j9Lyg787+i++a+z8uz/1Kh1/1N9Fv/ztkj8Ly4h/qOyqloFWQ9mkomLZbC2sQFL+vkFagiJCP50ME/4nxwx7Z+vW8l/G7PY/xZGAf8UZLSBsSz23T/QH5xPbe3sGKNiojEN/P//P0iSGcT28PQKEJcQ+x/hmfq3vmDJP2+3zP8xYY3/E2Om/rM29f8nLS3938PT0xek1t7Bgfnxk8fYvezg4MACzqOubqWysjL/DfUtf3u7Jf1zsY36H+CW/l9X0/yfkLDwb0VFxf8uri5FILVOTk4sWA0rLS9jYGdjB6cpB0eHmUpKSv8FhQSBiVv6v4WJ839jPWtwNhQUFPgFMtDR0XEaSK0AvwAzsBDBNDAxKRHOtrO33wPSJCkp+VtMTPSfsLAQ0GVC/0TFxP4Bs+JvYLb8D1SzA6Y+PSMda7YD09t37eAGloevFYAGgsIKaOh/KSlpIJb6D8rbIDGQgU7Ozs/PXbzACUm/8ZgGRkVDYqqnr5cFWIIcCQgK/BUUHPQxOCTks7uH+xcQDgwK+uzt4/PR18/3t5+//4GTZ04zQ/JzNPZIWbBoIZgGGsICNFhs6vRpIvMWzBdNS08Xy8jMEJszb64osIAV6erpFotLiAcbNnfBfOyGPX7+FEwvXb6MgViwdAVE7dOXz+FiAMEEZ63nya7HAAAAAElFTkSuQmCC",
-          "width": 80,
-          "height": 80,
-          "src": "/static/c42397887ff5d352c73c29ca8ccf42c9/829e2/galaxy-z-flip-5g_front-table-top_mysticgray.png",
-          "srcSet": "/static/c42397887ff5d352c73c29ca8ccf42c9/829e2/galaxy-z-flip-5g_front-table-top_mysticgray.png 1x,\n/static/c42397887ff5d352c73c29ca8ccf42c9/e94d6/galaxy-z-flip-5g_front-table-top_mysticgray.png 1.5x,\n/static/c42397887ff5d352c73c29ca8ccf42c9/af1a8/galaxy-z-flip-5g_front-table-top_mysticgray.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Samsung",
-    "displayName": "Samsung Galaxy Z Fold2 5G",
     "id": "nineOucoY5oIEr71bmlW3w==",
     "model": "Galaxy Z Fold2 5G",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADVElEQVQ4y7WUTYvbVhSGPQMhY0m+urL1YTv+GH9KsmxJYyuWpfEkM0nKZMYzltKUMunQJpTSdtGGUugikE1DWih0VyiFgc6qi9Lf0J+SXdomXSTEWeueSNdJKdilZBHB4dzL1ftwrs7Rm0q9qcf3fZqPjo5Sg8Fgtd/v07Bte7XT6azqur5qGAZdq6qa7FdOT0+pJn5nOfTG5NPXLuSnO78vP/B8l+ZvPvot1R+aVtepj/3RlucOPc+2rZFpmZ4zGHrnByOv2SuMDavde6U9P3QWgSN3tJLkSwcub2j2E7PhQ7GsRMVzBSLLChFzIsECT1h0NiryKpyTqw8vBr10omnUG4vAbW9CgZtBRxi1gue3jFN41/ie5PMFEMUcYAFDhkMwKd0ngfwDqOL239phik00Wm2wCBy7VyhwNxwLVmP72WHzLnx34XF0feM+QUKaMOgMmar3yNf2n5HP34Z1sf/XzjttJtG06+aSLrsXKHASXBb0ujNzS0fwgfYz+Xb3AZQVHUqSDvcuPoDrxR+j1to+lGTt6ZXJIJNoWo3OInA49CgwCPaF9ao6U/M7sCl9Qj5s/Qpu6QYMi+/B+5VfoM/djIqMA3m5/GRvf4ej37DRXgQ6zrwpYTgRyqX2TBZVaCkHZEu6C4awBx3+KnjCHajityLEVkAWK3/s7o3plderS5qysbHxEvi2kC/kZxhzgERM7GoMyW5DVdgBs/wVpBETra2dSRr1KJiGFFir1RaB8bS/BIaCoigzhDCgXJbwhgtS3qGBdAc4jCImzYIsy4+CYMrOx6a+CLQsaw68FgqSKM04joNMJk3YThcYVQdG6wCrG8CxZyOGYShwGgZzYGPJlU3TnDclDIR4iJ+xlRxwtWzEYUy4cn0eybqei9iKCIqsxMAp87/A8PLVbFYWnzNGEVgRESbNABtXy3IZ4BgWOEUgTK8ESrHweLp56b8r7Ha7FDg9OOQlSXqawTwgHhEeIeB5niSBeQwY4whlMeQLhYfXpgH99ZrN5rI5HNL88e3Pko7bds8cxzbmO47jx3sasZ35/Thb3d5W3MR/zMF13eWOs3948Nr29fmXXyw/iCuh+fj4OGUkhqpp1FDjT0HN9d8Gq83PVk5OTqgmrvyNGX/qBaeW+EHXj3ONAAAAAElFTkSuQmCC",
-          "width": 80,
-          "height": 80,
-          "src": "/static/44122c81856978a3d34cf82bf567c4f8/829e2/galaxy-z-fold2_open-front_mysticblack.png",
-          "srcSet": "/static/44122c81856978a3d34cf82bf567c4f8/829e2/galaxy-z-fold2_open-front_mysticblack.png 1x,\n/static/44122c81856978a3d34cf82bf567c4f8/e94d6/galaxy-z-fold2_open-front_mysticblack.png 1.5x,\n/static/44122c81856978a3d34cf82bf567c4f8/af1a8/galaxy-z-fold2_open-front_mysticblack.png 2x"
-        }
-      }
-    }
+    "displayName": "Samsung Galaxy Z Fold2 5G",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-z-fold2/galaxy-z-fold2_open-front_mysticblack.png"
   },
   {
-    "brand": "Doro",
-    "displayName": "Doro 8080",
-    "id": "AhXgDlcdw1hg4qT2tXcxTA==",
-    "model": "8080",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAE4klEQVQ4y02U6W9UZRTG528wbhVmmKWzFLrA7Pt+Z9/3fWPaKUxtC3VB/GBCiBiggiUolKqktFBbRDQRSDSowWBKUAyiHwz/hfNJuffxzAwpfHjynuTO/M7znvPcywvZdJ0XxWooLDlOakhAakhuSWZKQWZOQ27JQGHLQG6lsytb9lltTWOXq8y+ItUgYDc+4vWAoj5QZnwGG9QntqDyHjT9XAMSgbp1D+gus6/KtAg5TH3gS2JNDygnoOx5h8bUMxFMYem76oK6GrJnMeTIYthTYQfkBOw5tPaBQ9Y8J9bGINLGt4ACVQQ71NEeUE5AoSYKoTbac9gFC/VxiI1xjHirLH/YhJTP+dShRINBQ5rTekrQesqQ6OIQaWLw56fhTO2jJrGeAqVZMPkZiAkkMSURbbyBQHUOMmeBlajsKMZ8fYcvCNXQ+OvcyuoFbKyuYcicgSU6juXLX2L5yjWMOQuwxidx/ae/8ceDBxh1F+HJTeO3x4/x8K/7MKfb7I7dZpTigUe8BGPuvCw1QO0uckvnTuPIofchp4WoyOnS8jrOLq1CQfNS++q4//uf+PH7G7SQHAzU8Lsf7uLGjZtQxcbJoRXlRPARLxtwdLbvNENhynL2SA32SKO3YTnNLVSchi83BQldcZii4s+1wWTaGHHmofJVaASvw1ucgia6l5VqHchHPL/yMn57Z9tToMpVgNZb7i1kiDY65sjRdfO9epROJVOEkuY87MpjjE51oAJNsAxlpPFEqnEgF2I2eRlyyN9loU1mOJEuga76eUyR0xjEuij2MCWMUbPB7rbJqeJpXKQ0W7mb4KEaK9c5UYh47/EyPntnl8kHY2qSc8fKcCdq0CfGYYzXYc7NwpKbgTFRhyk1DmupCQvJmp2AKT+JVKOOaK0BZ/MAq2ICyIe9m7y0z9ZRmALwpZrct0fmsH6wCXusAkv+IN5c/AUHP7kDU7oNW7mJdy8dx+HPjkOXHUeaQA/PNXBnvoBgq83uYYJdh5u8pMfakRv8cMfq3FeHp7F2aBrmYAnGzCxmFm5j//wt6OP7yO1ezC0exdTCe9BlxhGr1HHnRA5fHy3A39rPKj0BFMKeTYqNpaPQe6EKNzlfvAZvsokxfw2qAF2/NAdHYRbqUA3aSBNMZT+YahtG+o0x20K2NYVEqw335AyrZHz9K8dcpn+kGjdGPSVOH27AkmxBFaxCQ/Gxp1uwkXSxJgw0V4Yi4qGoWHMtOEv7EG7NwdecgaPZZsdcHmRDfYf/8octmHjrA+7ytVs48fEK5s9dwYfnr+Akaf7CGk5/vo6PLq7j1MUvcJrCfmblKs6sXsXCygaWr99E+9gpVmG2IxNkekAMKAxc+5153Lp9FwtLGzh1nv64SJALpKV1zC9Sg0/XcGaZQJc2tmBn6dVc/eYmpo+dZIeMFiR9zk1e2K7jtu80UXjz3KijQOGtQOntqgqlr4rdVDuzbTjoLVGHq7SgBgzJOlzlSbgqLdiLdbjrE09GzDZEGdsmL2BRY0Cu57pBFmsinJg+UWL6RIl1MQp2HHxVCNmJtylvByDQhinUaQxaEzTrvdBGyxjxpzlDtsZKNYYu8B4vYNX99+p2ISuUyLkdYtlzkkJAEg3KMcAX4TWBiGoZBKJB0DOOL5RwApGE6kFOKJE+2cYXIOp1/vw/0TQIQ0imhnUAAAAASUVORK5CYII=",
-          "width": 80,
-          "height": 80,
-          "src": "/static/010166b4411977dc3983f7d8aec6cc6c/829e2/doro8080_front_black.png",
-          "srcSet": "/static/010166b4411977dc3983f7d8aec6cc6c/829e2/doro8080_front_black.png 1x,\n/static/010166b4411977dc3983f7d8aec6cc6c/e94d6/doro8080_front_black.png 1.5x,\n/static/010166b4411977dc3983f7d8aec6cc6c/af1a8/doro8080_front_black.png 2x"
-        }
-      }
-    }
+    "id": "jKSVNloRL6XXYHvW1WhpNQ==",
+    "model": "Galaxy Z Flip 5G",
+    "displayName": "Samsung Galaxy Z Flip 5G",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-z-flip-5g/galaxy-z-flip-5g_front-table-top_mysticbronze.png"
   },
   {
+    "id": "fmlsnCDMhA2nODS8r4KzjA==",
+    "model": "Galaxy A12",
+    "displayName": "Samsung Galaxy A12",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-a12/samsung-galaxy-a12-black_front.png"
+  },
+  {
+    "id": "8uPmmQYMxNqy5ElMo2ZixQ==",
+    "model": "Galaxy A41",
+    "displayName": "Samsung Galaxy A41",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-a41/galaxy-a41_black_front_text.png"
+  },
+  {
+    "id": "O9MTsmnbrfleaO2xlOdIiw==",
+    "model": "Galaxy A20e",
+    "displayName": "Samsung Galaxy A20e",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-a20e/galaxy-a20e_front_black.png"
+  },
+  {
+    "id": "EjY-UuMYiDnDbyyI4MJ2xA==",
+    "model": "Galaxy A51",
+    "displayName": "Samsung Galaxy A51",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/device/samsung/galaxy-a51/webshop/galaxy-a51-black-front_webshop.png"
+  },
+  {
+    "id": "jPO5FOAmh-4X-L8GE61lUg==",
+    "model": "P40 Pro",
+    "displayName": "Huawei P40 Pro",
     "brand": "Huawei",
-    "displayName": "Huawei Y6 2019",
-    "id": "flg_QFL9sybJgftdLttTRQ==",
-    "model": "Y6 2019",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADt0lEQVQ4y42U228bRRSHt0GU2t5cyiUbu/a6Xt/W8UV2EuNcKjte21mv1/YmXttJk6alqUhpiCohIJSoaVKiVBWlpSRVSTEhwelFKRAigZCQUEGoT0j8He1D6ENfq52Dd1xAAtl0pKOZ2fObT+ec2TkE8a8RcLyI598JYg9LELpOgtCGKxapGF8x9dtfWh+1h6g72gO9WBGwNr1MB+X7tv63ds0D7z3Q+1MP2wLphwfEMw+s0swfdK98z6UjmlStwxesDYwPHW9QZymdjFHpy9A8/StQkz+BXv4ajPltMI3+CPTYPbAKV0CIhUOqtl8Yb6gJ5AsnsHNo/HCU6n4bSLGk0KPfK6GeHcXZc0uhe75QTMENZO1YeJLNiji0uPBabWD82BR25grDnG7qKpC5FWSm59Ah8xoUqS0IG8vI7NsEunMBsmmhT9XGhKO1gUL+FHbmh/KcSViGptmfke/EGuKcsyC5rsBJTxkN6jdRt2MRRCkVx2f4eimPVYGDhwucvni1Uq8dFLn4Cwqf+w76+YvA80uIZebB5zgNmbQQxmfiI7WBsaNPI8wVuH1Tl4FY+Ra1TmygrvAGeMXboO9aQlr/DLwkvQ+ZYu6Qqo3kj9Wp4ZGppykXON3kMhDnv0HPXbuL2OF1yGg/hLRtA3mCJTB1TasRRlQtJwz/fw0LuTxnSH4Ce6d/QM+fvoX2zn8FTqkMif0fo+G2O5BoX1KSsoBvOZ08XhsoDr2BnbJciNp6L4GR30aNEztIO7IOxuxNiNs/Rd30Mgj0giKJA6/iekfr3LI4eLKacr4C7LwATN8WOhi7g6jRHWBDN+Dd5jIaa/4I/K53FFmSMTA1UKeGYnbyb6DVex4sHZuI6Skjpn8L2Og2iPR1NPfCGojUm0pETmGgyI3WAWZe/ydC1zxY3GuI8ZcQE/qyEu1tCHXcRRnDKiRNMwovVYEZ7sizAa3sObCwnyHGdR0x7lWweFbB5imhTsdN8DrPKGI2iYEDifFnBc6BxbmKLM4VZHFcA2zq2nkDWNdZJZPhq2+5HjAjVW+5WByJ2tsXgXGtK7b2kmJ3V8zzOV4z7DpyeD54IknV5pDg6/w2XEzGzlQqETNZJsBgXgATcxa8HRfA7V+CA+ZZOGhfhI7gKQgGAzjl3r5UbSBNG3GD9XrZV0iS/G2fRvdYoyF3DQbTo9ZW/aPKflejJR+3tDTdt9stLarWYGir37btNgOes9lYg4vVN3rcRrKyJTUagvR5TaTNRjUShBVDKGr/f87/CQQ9Xz1rGOfYAAAAAElFTkSuQmCC",
-          "width": 80,
-          "height": 80,
-          "src": "/static/9475e1284f813139497e1019a3c55560/829e2/y6-2019-black-front_webshop.png",
-          "srcSet": "/static/9475e1284f813139497e1019a3c55560/829e2/y6-2019-black-front_webshop.png 1x,\n/static/9475e1284f813139497e1019a3c55560/e94d6/y6-2019-black-front_webshop.png 1.5x,\n/static/9475e1284f813139497e1019a3c55560/af1a8/y6-2019-black-front_webshop.png 2x"
-        }
-      }
-    }
+    "image": "https://assets.tre.se/images/se-webshop-device/huawei/huawei-p40-pro/huawei-p40-pro_silver_front.png"
   },
   {
-    "brand": "Doro",
-    "displayName": "Doro 7011",
-    "id": "xGrXc5DXZlvuM6GgKK4NPA==",
-    "model": "7011",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADTklEQVQ4y42UbUhTYRTHzV6M7EN9Mig/SC8UFn0poqKisoiUcuaQWhGmTtm0MXNqy6DpElKxInoBk+gVKUphiq7UyFnO2XRza27dbbo5N0FJwkik+/jvueFdL3TLA4d7P/zPj3MO//NERPwjAMynGU1z6Wxy//Mj5hpUHCFOPRbJ/dfV1YklJ44zqcdSRlOSj3xKST76SSRKDkmlWV59S4uY01RUVEROTEwIAx0OBw+OzDurcO1OSMKBJDF2HBBhz8Gj2L5zNzZs2gx5bp6Zr3E6ncJAo9HIAxfLFec8Zbog3vjB2oIgrhDI+w+j367ceYasLOl7fvR/Ant6enhgFAW6Mx94UN0+RtrMwzNme2DG6Jlm777yIkcmt1LNAk5rMpmEgWazOQzML1B5mnt9qGlzkSsvulDTbMKzniFSpbMhMyvbw2k4rU6nEwb2WSxhYIGqyG10BWCbAGnzT6HJNwXrZ5BHBgftUOagmoWctr29XRhotVrDQOVFjftlXQOmWxtJi30c9ZZxdAxZiLa+Abln851Us4jT6vV6YaDNZvsNeOf2E3Q+fUFqXzNo7HKjydTKah4/QUGh2sw5gdN2d3cLA+12+8+Ri9RM7Tsv3o2D2B1WfHRa8GUabLe5H0Xn1Qa+xuv1CgMHBgbCQEW+ijl94TruP28m925WovbWVTxs0LOV125AVVj4ljsCLhiGEQbynvphG7mcWb58GWJXrSTr4zdh1569iI1dxa6IiYFSqezkgW63Wxg4ODjIAxeVlJQwW7dsw7q168ia1asRFxeH+I0bWXFaGkpLS8NAj8cjDAwGg2GgobODyVGegLb8Etm3bz8SkxJx+ZKGVeXI0NfbZ/izib9GIBD4BWj4eCgxAZVVFYSOSPemwrXqajY5MQn0AOYG/K1Dg8F1UnIKMpmMZGdnz2RkZMzQNbBnMjNArdLB1/h8vjkBozigSCSCQqFgpVIpSU9PJ8XFxd8kEgnXYQe/Q7/fLwwcGRkJP1/0agYKVCpoNBqo1WpQGLRaLcrKykCtEh55eHhYGBgKhThzz5s1bJrFYvH29/eH6AWF6FsZorYapemkkMOz+4vkav4b5eXlfKcLxsbGoicnJ5dMTX1dQr/R/MkJvYPfARaWT+i1GI5TAAAAAElFTkSuQmCC",
-          "width": 80,
-          "height": 80,
-          "src": "/static/2780207745752295a1618202cbfef50a/829e2/doro-7011-white_front_webshop.png",
-          "srcSet": "/static/2780207745752295a1618202cbfef50a/829e2/doro-7011-white_front_webshop.png 1x,\n/static/2780207745752295a1618202cbfef50a/e94d6/doro-7011-white_front_webshop.png 1.5x,\n/static/2780207745752295a1618202cbfef50a/af1a8/doro-7011-white_front_webshop.png 2x"
-        }
-      }
-    }
-  },
-  {
-    "brand": "Huawei",
-    "displayName": "Huawei P40 Lite 5G",
     "id": "q704LzKzBtWqo1X7hZNU5Q==",
     "model": "P40 Lite 5G",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD+ElEQVQ4y32Va0xTZxjHD2bTD1vZjMtCnFmA6uqmMCdDoJQpG0zofVALpfd7e+iKjIuAgIJgRMmyROLUD2SBYGGEKW4TmzlDyAZRxzKWQNnqFDOH6DouYaGl0OdZz6nZhy2nb/Lm+fD+3997ntt5COI/q1Btp62TIJ4Jm9jwZlGbHd6SzQQr82UiNoUgNlCad9JfIaIuidIWQ1lZkeqlA4ccP9pOulYqPx5YcDT3LOU5u5cO6roWpDqXX1DcOpqb+QKLviMzMwMdtW30yxqLk9fa8wNe/QUxbLDFjaj/DDG3bAUFhxHFtjHUqguSKW2JoWkDI7CmsZ0+NFutGZ2D3vXuYYSWL1ZC1f1+0J7xgfDD30PZlkeYbxoOmI2qJBpobI5hBJZWnaaBRouNW90xCe1XEZu/9IOy4y9UNMyisuYhZOlnMVd3I2gyKHZT2mJDEzPQXh0Bao1WbuUFD9QNIGY1zkKWYwb5jgfILfXCG3ov8rRDIYtJ8zYNNDYyu2ypjADtdpKrbf8Z9tf5ME1/F9KUXswv92JSxSg8X/EHJlUOI2nSZFFauT0KUG0/SR9aSZL7nuU72KedwXTVNCTLp5A8P4cc+whsKrmFO3T961aDOoXSSg11zMBwgOlDk9nG5Sm+gb0ld5EjmYCC+hm8+O0avlV2GzZ9cBPZJZcCpFm1g9IKdPXMMSx+WgKmcFLSi9zwmngS+TW/gWtsDdqvrEJy+STEqUdwp65vNRxDDqUVGRqYgUX64/+6vFfyFexUe7D9xhK4JxAPdwVwq/MhbDFP4y5VX9BqVNJZlurrmIGHdMdooI20c3flD0JKrRdb3csg/OTxmqxzDhKbfMBqXcbXj90JWhQyug4lZAtzDGXaSMYsZiuXw78M4rb7eOJrPyY03vtb4ppYzz83jxs/uo97zowHSauWBhZWnGIGFqobIi6HY7g9pxfyGj3Yc3sNFF2LKOr24NmhZdjaNIfxuoGgk9TTQLE5StkUqo4+7ZTwF2ZfggzHKHbcnIejgwEQfPoIrl2fh7pbiAn13wft8oII0BallwuUkZqyOUhuQlonpKpGsar3AZh7n6DswmPs/vwJTN1DtFyeCvLFchqoPNLGnJTCkgjQYiMztmd0huJSr4P01HjouHsemvoWYajfF/pzYg2vjUyvihSRXq5tPs0MlMrLaaDeoOMlpp7F5xL7MX6/C8lz42HXA9g34MNf7wD2XxlDsVT4JqWtOhIlhjnvC+jXNCphHJuT5dnGzlt5lZ23uHufYOmAVLPEE2oW+EKNP/Nd4U85OZkvUtqDfFFM1L+2iL+HtifKiI2lKiK23EqwsjmRMbAlMg6osfAspYnftvl/9/8B/tLbxUoIgO4AAAAASUVORK5CYII=",
-          "width": 80,
-          "height": 80,
-          "src": "/static/d75441f1775e44a84c5d4a20dd69a511/829e2/huawei-p40-lite_midnight-black_front.png",
-          "srcSet": "/static/d75441f1775e44a84c5d4a20dd69a511/829e2/huawei-p40-lite_midnight-black_front.png 1x,\n/static/d75441f1775e44a84c5d4a20dd69a511/e94d6/huawei-p40-lite_midnight-black_front.png 1.5x,\n/static/d75441f1775e44a84c5d4a20dd69a511/af1a8/huawei-p40-lite_midnight-black_front.png 2x"
-        }
-      }
-    }
+    "displayName": "Huawei P40 Lite 5G",
+    "brand": "Huawei",
+    "image": "https://assets.tre.se/images/se-webshop-device/huawei/huawei-p40-lite/huawei-p40-lite_midnight-black_front.png"
   },
   {
-    "brand": "Huawei",
-    "displayName": "Huawei P30 Lite",
     "id": "sUuOIUJWFuAnTYqpKwuAXg==",
     "model": "P30 Lite",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD30lEQVQ4y42TbUyTVxTHr5RNgs6ERMloDJjNMkA6BgIWy4h00JZCKSDvxXa0FBh9KG+GBp2GmcmWbUhx0Zhi1ATna/xgpiuhbDOd64hYWHDoMLA5nCCyjNUtNPN256zPAzPuQ8Hz5T7J/d/f/d9z/g8hz9SmoBf++wxIjY9PKcwvyMzNUUqShcK3isSJkvb8lHRDljiDL1YmPT20WUL8lig7l8euwuSUQsOJc9j0hQNb7U4saP8Qk/QmNO5vxFNNaditTcaw2JRsVpsqSuT5BapMuwPZVbpLZ7LMAx72ID3hQSifdANxzIJgwAXSgWv0WLcZNfERtay2TJIUuAywZQlYWffxfTcemffSg/fdsN45A8WOb+FOpxTUjfsoqbJhlEiuZ7XhaSW85wEau6b/xJ7HQPf/+hcobs3CQctHuJHpBdLkouJPz2K6akc9q91eoHoOhxqd0eIDWt3/0K5HHhAPTWFg6xUk747CO7bDdO5nPuYpo1tYrV4b4x+Y17DYQ7kP+MnMAvb4emieeQIh16dQ0GXDgPe/A8ePG+nDUYIyaZyR1WrLBcsA65u5zUyNnjn6yyz2TkxRneMOWE92YJbZimSvC04PxtCHIwTl0tcZDlgW6R9YUm3gNhVl5cwllxM/c43SicFzcKqjCUl1vw/4PbTZpHTWRTAzI46bsqZ0s/+h7DQtOsyq0DDHfvNg999IS3quQBhzFkldH5KOH+CDC2neB8MEJbLYKla7q/wV/8CChqdTZo7/voB5Vyco0V0F0ngNyQEXrGmzg+tymHf8dgDKZTEGVluhfnVlYFFtNbNn7BGSBjsl9f2w2jIMpHMcRW1H4N7QKu/tvmBUJcZyQG2OwD8wf+nJpXU1TPPNB0hMX1HS8jUEdd5EcmgSK86YYegW8f50OhRL4t/ggFWy6GUcLgFz3tYx3b4chlpGKGl3QsTFMXzp83vQbBfDpVHinb64BYu3beeAhuyElR1K1VpfDz2YaJ+k5KQTeANzGPHlN3jgxjoYHw73eo4mYK5EtOgwZytvxRwqtJWMZdqNfNs4JWfGIP66A/fe2IGuvjDA1pe9C20bUJkhXARKo1aOTZGhyvje3TncdHmSKgeOw8CgEuatrwEo1wKoAuljdTDmiqK42OjFy+Qwj2nkgGpdZaPh7h/YOdL7BPtVgOd3AmpCAGtWA1rDKfqerBALuWDrZEL/f4pgazJ3W+SWhMLo0mKsLYvDfel83L0tCM0Ja9Gctg73yEOxRhaJkZECJatNFC4Tm2cqIISQNwnhZ5FggYyExMnJBqGcrImRkRcFCkLWp/o0qxalwf87+C9A1tzP9/GfxAAAAABJRU5ErkJggg==",
-          "width": 80,
-          "height": 80,
-          "src": "/static/0d8aef18eced8155c2552d01a22bc25e/829e2/p30-lite-black-front_webshop.png",
-          "srcSet": "/static/0d8aef18eced8155c2552d01a22bc25e/829e2/p30-lite-black-front_webshop.png 1x,\n/static/0d8aef18eced8155c2552d01a22bc25e/e94d6/p30-lite-black-front_webshop.png 1.5x,\n/static/0d8aef18eced8155c2552d01a22bc25e/af1a8/p30-lite-black-front_webshop.png 2x"
-        }
-      }
-    }
+    "displayName": "Huawei P30 Lite",
+    "brand": "Huawei",
+    "image": "https://assets.tre.se/images/device/huawei/huawei-p30-lite/webshop/p30-lite-black-front_webshop.png"
   },
   {
+    "id": "flg_QFL9sybJgftdLttTRQ==",
+    "model": "Y6 2019",
+    "displayName": "Huawei Y6 2019",
+    "brand": "Huawei",
+    "image": "https://assets.tre.se/images/device/huawei/huawei-y6-2019/webshop/y6-2019-black-front_webshop.png"
+  },
+  {
+    "id": "neOB6zu9xY3HUwtfoz9W1w==",
+    "model": "Mi 10T Pro",
+    "displayName": "Xiaomi Mi 10T Pro",
     "brand": "Xiaomi",
-    "displayName": "Xiaomi Mi 10",
-    "id": "czMnx0rBlRKxEbjRB_kxSQ==",
-    "model": "Mi 10",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADyUlEQVQ4y42U309aZxjH0WVZt5vFxFb8H3q2iy1dL7qk2cXSZE2TZcmuly5ZlqzpLnaxZbRRh7ja2VhbZ/1REfl9+A0HVEBcrZQCdqtaBD3yU8BfnAICWjnC++ycg73ZAtubvHlO8nzfz/t9nvfk4fH+sZQWBxdPvct/+9rN2+0XPv287fwnV/jnLn7G//jSF20XL3/ZzqTfYTWjMpzXcN0dUzSxUaHWtoxoZlY7B2W0zO4rSmyPS9Jpd0nhfFpUOb1lvdOzLugQnmG1fUPiprpAucnRzEYZbnjfH8vBHJmFpQwNy9Qxt19kyrCerUCYegUSlf4cq8Wts811gWqri7tNqjac/WszV/aliuDbzFefxLLoMUkhkz9eta+kIZE9ONaYrB+wWptroT5QOzXHJeW4AXuxlad9aRa4j7yMW080B9PLaSRxrcLeAY3kuPEjVks45+sDddM1oFJrxAJb+7Q3WYTVnRL6M1mAEHUE3kgGaRdCsFUow4RSf4HVGk7ONARqDGZsKZWnA7uHENguoeDeIURzZbAvJdHsSgo2c4dIhhvPs1qj/Y//LnlCpceCjEPy5RE83yqhSPYVBHYOQPMkjBbjOQjvFpFcZ+aA+kYO1Scvdl+sxpjG0/5kCUJ7h4jcOwBniAKFO4KWmb6upvNIrrVwQI2tAdDseMQlbVYCC24X6IVYAcKZQ/Q0tg+DrhhoPVHkIPPgDO5VpFqCe2WJuQHQ4qj145HDhs2TFP08XYJniX006klD/9Q6DM+G0Z3ZBOh8ieqE2vQhq32Az9QHysxOLjmu1GHuDYr2xgsw4k6hX6fCDJCEPnsE3WecmhaTlVGVmQMOaRz1gWJDLdkvxrHF2Eta4t2GToJEN00huDUTAaFtAwmJDZC4E5UxnOCAd1UNgJOmmkO1zoQ5VnfpnpkoMDB0ayYM3VYSRJY1BhiBh+5kRYxbOOCAugFwVFdL4sx/iPtTtMC4Bl2WddRpXoMb+iD0Mg4FlhiMM8Dx/wMc1tQarDMTmHg+Sv+gDoDwpORugoQuWwwJiPhrIPfKA41KHtXaueGAGy1nFZ54uXd6A+44ItUOpuwuIow6iGhVYI4wwM3jCW1tONzDnfWB/VIzlxwcm3xP/WwHRvw56HVtgci1C6I5CnpcGfhllgLpIgVDE0pufPVJifrAG78Ncw4fjjxo+emecuWbHnH5qlBc+Fo0WbzKbCYWvuqWHP38uybY33f7NKv9UTTQ1HBqf3vt+uvPt1p4vNP8N3mtZ5p4rfxmXmsbs9vf4LGgU6zgu+vf/+v83w5DgXeAvqELAAAAAElFTkSuQmCC",
-          "width": 80,
-          "height": 80,
-          "src": "/static/1406ecfc480c5853977ad69162c82c6e/829e2/xiaomi_mi-10_grey_front.png",
-          "srcSet": "/static/1406ecfc480c5853977ad69162c82c6e/829e2/xiaomi_mi-10_grey_front.png 1x,\n/static/1406ecfc480c5853977ad69162c82c6e/e94d6/xiaomi_mi-10_grey_front.png 1.5x,\n/static/1406ecfc480c5853977ad69162c82c6e/af1a8/xiaomi_mi-10_grey_front.png 2x"
-        }
-      }
-    }
+    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-mi-10t-pro/Mi-T10-Pro_bundling.png"
   },
   {
-    "brand": "Samsung",
-    "displayName": "Samsung Galaxy Xcover 4S",
-    "id": "Vf5ksjqZbPz_VYxQ3Y_daw==",
-    "model": "Galaxy Xcover 4S",
-    "image": {
-      "childImageSharp": {
-        "fixed": {
-          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAEPUlEQVQ4y3XVS2wbRRgA4PF67YQkjh3btffl9T686+fGj8R27DwahyS4hCZp2pS0CU1EG6BRS1TaitKipNDSQgEJuEVIlUDiUiEOVaUiDkEcAHEEAYdeOMARhUQ9ZQ7z412HC5uONNrR6tenf17/IPS/1j845NgbUnoi5cnle3ylvmrA7OVynzffU/Qcml6izABNjzvQk9rf759A2XyPFZjpzmb7KtVfq9X+f3p6SzupjPE4nkw9TiRS25qub0my/JusxnJmbONLBf1ddrA+NYMq1X7aHFf7B26OjY9DX6VCiqUyFIsl6M7mIBbTQYxKRFVVUGPabQtUVLpUrtjBWnEQ5XJ5C+wtltbY0AHwt7fuxplOooU7SZ73kBcLHpKN+HbFUABkWVk3Y8WISC+feckO/vXuDEJdstMcj1R6P/B3doCHRljyuojib4P5fAu8V28j2ZAbM+1ukBXluhkb4QV6eXkf8KdrUygk6c0Mc93v8EwIFIHBCYknkrcFLgy1wq3JIGl7qgNrjB8UVX3bjI2KIj10sLbftnAolUxaYExPrEUFDgZ7DVyKR0lek2C+egAenGslt+udeLngB55XP7JiWcbZOAl27tjxOcSynDXleCrzYVoRoBzncJr1EMHvgxvPtcPDFUS+mES4zrkhzMl3rDUMh/cHT55aQmzQb4GFQuFjQwxCpwvhFicNdY2GH15HcP80Rb484sTDTAswgmStoSTw9Lnzq3ZwamYWsQzbzDCZvsP72iARbsdzpSDZvEjB95cQ3J12knuHETa6XMCJ0lvNTeHokdFxO9jR4UVq40xZCy2ra7oQgrEUgz9dcJHvLiB4JUHB3UMUWVQRTkU5yKRTFqjFVHrk6TE7OF6fQCm9Ccqx+PpShYPzZQf++jVEPhmn4IpGwcWYg2S7XPjVU5NQ7i1YYKmQpWv7geZPQxMtsJHp+tmKG75ZRfj+CkV+vOSAzxccoHkQ6dNYPFExGrssWKAqR+nh2qgdHBiqocweGBGV9StjrfD7Gwh/9QIim2cR/LGG4PIgIiMGjycGeoDj+T1Qpmsj+2Q42DicWU2wQEWR199sZHhvGuEHJ93k0ZUAPLoagD+v0WTzZQqvzI1CImVYu5wzMvSx2eftYLV/CCliE+R5cX002QWfHW/B355B5PKwG67WXHCr7iQPT7jwxnwaYrnK9f/WcGFh0Q5OTh1BoticciAorB0sCbBx2r9bYJyE83sI73UTOeAgq8XI7saUAmpSs4pDqVujZxuXwtZmjs6iqKRYoKRqNxSBBU2KkmTagHQy3ug6pDPdICkyMTIJMIysVb7S6QxdqQ7YwWfqz5qgVYFVNWYwnPAzL0pbihrbFiV5JyorO40Kva2o2pas6r9oeiK7d+8phgk/sXCb07bQxaOHHUzQ5/F5fV6WZX0sw/iCgaBXEiOeQON5MGMSybTtCfgXGPBBRWFB9mMAAAAASUVORK5CYII=",
-          "width": 80,
-          "height": 80,
-          "src": "/static/ccf9eca582129c4d180a34d746e94f5a/829e2/samsung_xcover4s_black_front_webshop.png",
-          "srcSet": "/static/ccf9eca582129c4d180a34d746e94f5a/829e2/samsung_xcover4s_black_front_webshop.png 1x,\n/static/ccf9eca582129c4d180a34d746e94f5a/e94d6/samsung_xcover4s_black_front_webshop.png 1.5x,\n/static/ccf9eca582129c4d180a34d746e94f5a/af1a8/samsung_xcover4s_black_front_webshop.png 2x"
-        }
-      }
-    }
+    "id": "y0xX3DRy7usZ8DSrXIyBJg==",
+    "model": "Mi 10T Lite",
+    "displayName": "Xiaomi Mi 10T Lite",
+    "brand": "Xiaomi",
+    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-mi-10t-lite/xiaomi-mi-10t-lite_front_grey.png"
+  },
+  {
+    "id": "RG6h3SLuto_gcVTC6HU1Ew==",
+    "model": "Redmi 9C NFC",
+    "displayName": "Xiaomi Redmi 9C NFC",
+    "brand": "Xiaomi",
+    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-redmi-9c-nfc/xiaomi_redmi_9c_nfc_front_black.png"
+  },
+  {
+    "id": "JH27w_8Uylp8qyJm2Su6JQ==",
+    "model": "Xperia 5 II 5G",
+    "displayName": "Sony Xperia 5 II 5G",
+    "brand": "Sony",
+    "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-5-ll/sony-xperia-5-ii_front_black.png"
+  },
+  {
+    "id": "w0FW3u7M6QjAQ18sLkbzfA==",
+    "model": "Xperia 1 II 5G",
+    "displayName": "Sony Xperia 1 II 5G",
+    "brand": "Sony",
+    "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-1-ll_mark-2/sony-xperia-1-ii_front_black.png"
+  },
+  {
+    "id": "VNa9xYIc_eyR2ec4weIGRw==",
+    "model": "Xperia L4",
+    "displayName": "Sony Xperia L4",
+    "brand": "Sony",
+    "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-l4/sony-xperia-l4_black_front.png"
+  },
+  {
+    "id": "AhXgDlcdw1hg4qT2tXcxTA==",
+    "model": "8080",
+    "displayName": "Doro 8080",
+    "brand": "Doro",
+    "image": "https://assets.tre.se/images/se-webshop-device/doro/doro-8080-test_v2/doro8080_front_black.png"
+  },
+  {
+    "id": "xGrXc5DXZlvuM6GgKK4NPA==",
+    "model": "7011",
+    "displayName": "Doro 7011",
+    "brand": "Doro",
+    "image": "https://assets.tre.se/images/device/doro/doro-7011/webshop/doro-7011-white_front_webshop.png"
+  },
+  {
+    "id": "Xgoi5lupBk0ih4VO6e5YdA==",
+    "model": "Razr 5G",
+    "displayName": "Motorola Razr 5G",
+    "brand": "Motorola",
+    "image": "https://assets.tre.se/images/se-webshop-device/motorola-razr-5g/motorola-razr-5g_test/motorola-razr-5g_closed_graphite.png"
   }
 ]
