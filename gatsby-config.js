@@ -10,26 +10,6 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: 'gatsby-source-graphql',
-      options: {
-        typeName: 'treApi',
-        fieldName: 'treApi',
-        url: apiEndpoint,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-typegen`,
-      options: {
-        emitSchema: {
-          'src/__generated__/gatsby-schema.graphql': true,
-          'src/__generated__/gatsby-introspection.json': true,
-        },
-        emitPluginDocuments: {
-          'src/__generated__/gatsby-plugin-documents.graphql': true,
-        },
-      },
-    },
-    {
       resolve: `gatsby-plugin-styled-components`,
     },
     `gatsby-plugin-react-helmet`,
