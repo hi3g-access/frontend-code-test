@@ -1,13 +1,27 @@
 import React from 'react';
+import { useStaticQuery, graphql } from 'gatsby';
 import styled from 'styled-components';
-import products from '../products.json';
 
 const Title = styled.div``;
 
 const ProductsContainer = styled.div``;
 
 const ProductList: React.FC = () => {
-  console.log('products', products);
+  const data = useStaticQuery(graphql`
+    {
+      allProduct {
+        nodes {
+          id
+          brand
+          image
+          model
+          displayName
+          slug
+        }
+      }
+    }
+  `);
+  const products = data.allProduct.nodes;
 
   return (
     <div>
