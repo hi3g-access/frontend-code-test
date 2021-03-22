@@ -1,12 +1,12 @@
-const path = require('path');
-const products = require('./products.json');
+const path = require('path')
+const products = require('./products.json')
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
-  const { createPage } = actions;
-};
+  const { createPage } = actions
+}
 
 exports.sourceNodes = ({ actions, createNodeId, createContentDigest }) => {
-  const { createNode } = actions;
+  const { createNode } = actions
 
   products.forEach(product => {
     createNode({
@@ -21,6 +21,6 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest }) => {
         content: JSON.stringify(product),
         contentDigest: createContentDigest(product),
       },
-    });
-  });
-};
+    })
+  })
+}

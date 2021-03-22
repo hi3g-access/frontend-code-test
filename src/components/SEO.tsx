@@ -1,13 +1,13 @@
-import React from 'react';
-import { Helmet } from 'react-helmet';
+import React from 'react'
+import { Helmet } from 'react-helmet'
 
 type Props = {
-  description?: string;
-  lang?: string;
-  keywords?: string[];
-  title: string;
-  image?: string;
-};
+  description?: string
+  lang?: string
+  keywords?: string[]
+  title: string
+  image?: string
+}
 
 const SEO: React.FC<Props> = ({
   description,
@@ -16,8 +16,8 @@ const SEO: React.FC<Props> = ({
   title = '',
   image,
 }) => {
-  const metaDescription = description || 'Default description';
-  const metaImage = image;
+  const metaDescription = description || 'Default description'
+  const metaImage = image
 
   return (
     <Helmet
@@ -81,7 +81,7 @@ const SEO: React.FC<Props> = ({
           : []
       )}
     />
-  );
-};
+  )
+}
 
-export default SEO;
+export default SEO

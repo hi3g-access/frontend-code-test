@@ -1,17 +1,17 @@
-import React from 'react';
-import styled from 'styled-components';
-import Header from './Header';
+import React from 'react'
+import styled from 'styled-components'
+import Header from './Header'
 
 const Container = styled.div`
   margin: 0 auto;
   max-width: 960px;
   padding: 0;
-`;
+`
 
 const Layout = ({
   children,
 }: {
-  children: React.ReactNode;
+  children: React.ReactNode
 }): React.ReactElement => {
   return (
     <>
@@ -20,7 +20,7 @@ const Layout = ({
         <main>{children}</main>
       </Container>
     </>
-  );
-};
+  )
+}
 
-export default Layout;
+export default Layout

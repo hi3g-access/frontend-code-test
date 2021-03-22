@@ -1,28 +1,28 @@
-import React from 'react';
-import styled from 'styled-components';
-import Image from './Image';
+import React from 'react'
+import styled from 'styled-components'
+import Image from './Image'
 
 export type ProductType = {
-  brand: string;
-  displayName: string;
-  id: string;
-  image: string;
-  model: string;
-  slug: string;
-};
+  brand: string
+  displayName: string
+  id: string
+  image: string
+  model: string
+  slug: string
+}
 
 type Props = {
-  product: ProductType;
-};
+  product: ProductType
+}
 
-const ProductImage = styled(Image)``;
+const ProductImage = styled(Image)``
 
-const StyledCard = styled.div``;
+const StyledCard = styled.div``
 
-const StyledCardTitle = styled.div``;
+const StyledCardTitle = styled.div``
 
 const Product: React.FC<Props> = ({ product }) => {
-  const { brand, model } = product;
+  const { brand, model } = product
 
   return (
     <StyledCard>
@@ -31,7 +31,7 @@ const Product: React.FC<Props> = ({ product }) => {
         {brand} - {model}
       </StyledCardTitle>
     </StyledCard>
-  );
-};
+  )
+}
 
-export default Product;
+export default Product

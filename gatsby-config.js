@@ -1,5 +1,5 @@
-const isDevelopment = process.env.NODE_ENV === 'development';
-const apiEndpoint = 'https://www.tre.se/t/api/graphql';
+const isDevelopment = process.env.NODE_ENV === 'development'
+const apiEndpoint = 'https://www.tre.se/t/api/graphql'
 
 module.exports = {
   siteMetadata: {
@@ -41,4 +41,4 @@ module.exports = {
       },
     },
   ],
-};
+}
