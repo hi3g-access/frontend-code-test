@@ -1,5 +1,5 @@
 import React from 'react'
-import { useStaticQuery, graphql } from 'gatsby'
+import { useStaticQuery, graphql, Link } from 'gatsby'
 import styled from 'styled-components'
 import Product, { ProductType } from './Product'
 const Title = styled.div``
@@ -28,7 +28,9 @@ const ProductList: React.FC = () => {
       <Title>Devices</Title>
       <ProductsContainer>
         {products.map((product: ProductType) => (
-          <Product key={product.id} product={product} />
+          <Link key={product.id} to={product.slug}>
+            <Product product={product} />
+          </Link>
         ))}
       </ProductsContainer>
     </div>

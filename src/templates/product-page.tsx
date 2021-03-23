@@ -1,22 +1,32 @@
 import React from 'react'
 import SEO from '../components/SEO'
 import Product from '../components/Product'
-import { graphql } from 'gatsby'
+import { graphql, PageProps } from 'gatsby'
+import { ProductType } from '../components/Product'
+interface DetailsProps extends PageProps {
+  data: {
+    product: ProductType
+  }
+}
 
-const DevicePage: React.FC<any> = props => (
-  <>
-    <SEO title="Device" />
-    <Product product={props.data.product} />
-  </>
-)
+const DevicePage: React.FC<DetailsProps> = props => {
+  const { model } = props.data.product
+  return (
+    <>
+      <SEO title="Device" />
+      {model}
+      <Product product={props.data.product} />
+    </>
+  )
+}
 
 export const query = graphql`
-  query productQuery($productId: String) {
-    product(id: { eq: $productId }) {
+  query productDetails($slug: String) {
+    product(slug: { eq: $slug }) {
       id
-      brand
       image
       model
+      brand
       displayName
     }
   }
