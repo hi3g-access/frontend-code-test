@@ -23,11 +23,30 @@ const ProductList: React.FC = () => {
   `)
   const products = data.allProduct.nodes
 
+  const [searchTerm, setSearchTerm] = React.useState<string>('')
+  const [searchResults, setSearchResults] = React.useState([])
+  const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+    setSearchTerm(event.target.value)
+  }
+
+  React.useEffect(() => {
+    const results = products.filter((product: { brand: string }) =>
+      product.brand.toLowerCase().includes(searchTerm.toLowerCase())
+    )
+    setSearchResults(results)
+  }, [searchTerm])
+
   return (
     <div>
       <Title>Devices</Title>
+      <input
+        type="text"
+        placeholder="Search"
+        value={searchTerm}
+        onChange={handleChange}
+      />
       <ProductsContainer>
-        {products.map((product: ProductType) => (
+        {searchResults.map((product: ProductType) => (
           <Link key={product.id} to={product.slug}>
             <Product product={product} />
           </Link>
