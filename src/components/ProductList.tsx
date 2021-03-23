@@ -1,7 +1,7 @@
 import React from 'react'
 import { useStaticQuery, graphql } from 'gatsby'
 import styled from 'styled-components'
-
+import Product, { ProductType } from './Product'
 const Title = styled.div``
 
 const ProductsContainer = styled.div``
@@ -26,7 +26,11 @@ const ProductList: React.FC = () => {
   return (
     <div>
       <Title>Devices</Title>
-      <ProductsContainer>{/* TODO */}</ProductsContainer>
+      <ProductsContainer>
+        {products.map((product: ProductType) => (
+          <Product key={product.id} product={product} />
+        ))}
+      </ProductsContainer>
     </div>
   )
 }
