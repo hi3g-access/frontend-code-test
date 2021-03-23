@@ -1,7 +1,7 @@
 import React from 'react'
 import SEO from '../components/SEO'
 import Product from '../components/Product'
-import { graphql, PageProps } from 'gatsby'
+import { graphql, PageProps, Link } from 'gatsby'
 import { ProductType } from '../components/Product'
 interface DetailsProps extends PageProps {
   data: {
@@ -16,6 +16,7 @@ const DevicePage: React.FC<DetailsProps> = props => {
       <SEO title="Device" />
       {model}
       <Product product={props.data.product} />
+      <Link to="/">Go back</Link>
     </>
   )
 }
