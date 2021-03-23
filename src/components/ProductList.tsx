@@ -4,7 +4,12 @@ import styled from 'styled-components'
 import Product, { ProductType } from './Product'
 const Title = styled.div``
 
-const ProductsContainer = styled.div``
+const ProductsContainer = styled.div`
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  text-align: center;
+  transition: all var(--speed) cubic-bezier(0.34, 1.56, 0.64, 1);
+`
 
 const ProductList: React.FC = () => {
   const data = useStaticQuery(graphql`
