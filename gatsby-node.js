@@ -4,23 +4,22 @@ const products = require('./products.json')
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
 
-  const { data } =await graphql(`
-  query Projects {
-    allProduct {
-      nodes {
-        slug
+  const { data } = await graphql(`
+    query Projects {
+      allProduct {
+        nodes {
+          slug
+        }
       }
     }
-  }
   `)
   data.allProduct.nodes.forEach(node => {
     createPage({
       path: `/${node.slug}`,
       component: path.resolve('./src/templates/product-page.tsx'),
       context: {
-        slug: node.slug
-      }
-
+        slug: node.slug,
+      },
     })
   })
 }
