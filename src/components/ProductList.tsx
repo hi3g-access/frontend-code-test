@@ -2,8 +2,13 @@ import React, { useEffect, useState } from 'react'
 import { useStaticQuery, graphql, Link } from 'gatsby'
 import styled from 'styled-components'
 import Product, { ProductType } from './Product'
-const Title = styled.div``
 
+const Title = styled.div`
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin-bottom: 1.2rem;
+`
 const ProductsContainer = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -15,11 +20,33 @@ const ProductsContainer = styled.div`
   height: 100%;
 `
 
-export const NavListLink = styled(Link)`
+const NavListLink = styled(Link)`
   color: black;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
   font-weight: 600;
+`
+
+const InputContainer = styled.div`
+  width: 100%;
+  outline: none;
+  margin: 1.2em 0;
+  border-radius: 8px;
+  box-shadow: 0 0 10% black;
+  label {
+    color: gray;
+  }
+  input {
+    color: black;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+    padding: 0.6rem;
+    width: 100%;
+    border-radius: 8px;
+    outline: none;
+    box-shadow: 0 0 10% black;
+  }
 `
 
 const ProductList: React.FC = () => {
@@ -44,8 +71,11 @@ const ProductList: React.FC = () => {
   const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setSearchTerm(event.target.value)
   }
-
+  const input = React.useRef<HTMLInputElement>(null)
   useEffect(() => {
+    if (input.current) {
+      input.current.focus()
+    }
     const results = products.filter((product: { brand: string }) =>
       product.brand.toLowerCase().includes(searchTerm.toLowerCase())
     )
@@ -54,13 +84,18 @@ const ProductList: React.FC = () => {
 
   return (
     <div>
+      <InputContainer>
+        <label htmlFor="search">search by brand</label>
+        <input
+          id="search"
+          ref={input}
+          type="text"
+          value={searchTerm}
+          placeholder="Type your favorite brand?"
+          onChange={handleChange}
+        />
+      </InputContainer>
       <Title>Devices</Title>
-      <input
-        type="text"
-        placeholder="Search"
-        value={searchTerm}
-        onChange={handleChange}
-      />
       <ProductsContainer>
         {searchResults.map((product: ProductType) => (
           <NavListLink key={product.id} to={product.slug}>

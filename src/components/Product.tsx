@@ -15,7 +15,10 @@ type Props = {
   product: ProductType
 }
 
-const ProductImage = styled(Image)``
+const ProductImage = styled(Image)`
+  overflow: hidden;
+  object-fit: contain;
+`
 
 const StyledCard = styled.div`
   /* background-color: #fd940c; */
@@ -35,10 +38,15 @@ const StyledCard = styled.div`
     transition: all 200ms ease-in-out 0s;
   }
 `
-const StyledCardTitle = styled.div`
-  /* font-size: 1rem; */
-  /* text-decoration: none; */
+const StyledCardContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100%;
 `
+const Brand = styled.div``
+const Model = styled.div``
 
 const Product: React.FC<Props> = ({ product }) => {
   const { brand, model } = product
@@ -46,9 +54,10 @@ const Product: React.FC<Props> = ({ product }) => {
   return (
     <StyledCard>
       <ProductImage alt={product.displayName} src={product.image} />
-      <StyledCardTitle>
-        {brand} - {model}
-      </StyledCardTitle>
+      <StyledCardContainer>
+        <Brand>{brand}</Brand>
+        <Model>{model}</Model>
+      </StyledCardContainer>
     </StyledCard>
   )
 }

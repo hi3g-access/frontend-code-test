@@ -2,9 +2,9 @@ import * as React from 'react'
 import styled from 'styled-components'
 
 const StyledImage = styled.img`
-  height: 100%;
-  width: 400px;
-  object-fit: cover;
+  /* height: 100%;
+  width: 400px; */
+  object-fit: contain;
   overflow: hidden;
 `
 
