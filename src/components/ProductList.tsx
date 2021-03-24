@@ -6,9 +6,20 @@ const Title = styled.div``
 
 const ProductsContainer = styled.div`
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   text-align: center;
+  align-items: center;
   transition: all var(--speed) cubic-bezier(0.34, 1.56, 0.64, 1);
+  grid-gap: 10px;
+  width: 100%;
+  height: 100%;
+`
+
+export const NavListLink = styled(Link)`
+  color: black;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
 `
 
 const ProductList: React.FC = () => {
@@ -52,9 +63,9 @@ const ProductList: React.FC = () => {
       />
       <ProductsContainer>
         {searchResults.map((product: ProductType) => (
-          <Link key={product.id} to={product.slug}>
+          <NavListLink key={product.id} to={product.slug}>
             <Product product={product} />
-          </Link>
+          </NavListLink>
         ))}
       </ProductsContainer>
     </div>

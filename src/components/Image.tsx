@@ -2,8 +2,10 @@ import * as React from 'react'
 import styled from 'styled-components'
 
 const StyledImage = styled.img`
-  width: 100px;
-  height: 100px;
+  height: 100%;
+  width: 400px;
+  object-fit: cover;
+  overflow: hidden;
 `
 
 type Props = {
