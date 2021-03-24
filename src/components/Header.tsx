@@ -10,6 +10,7 @@ const Layout = styled.div`
   padding: 0;
 `
 const LayoutContainer = styled.div`
+  background: white;
   box-shadow: rgb(0 0 0 / 10%) 0px 2px 8px 0px;
   border-top: 3px solid rgb(255, 92, 0);
 `
