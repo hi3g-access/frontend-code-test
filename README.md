@@ -17,14 +17,21 @@ yarn
 ```
 yarn dev
 ```
+
 # TODO
+
 ## Gatsby - gatsby-node.js
+
 - [x] Use Gatsby's node API to download all products using graphql and
 - [x] create new pages for each product using the product-page templates in src / templates
+
 ## List of products - ProductList.tsx
+
 - [x] List all products with Product components
-- [ ] Add a free text search box that filters products by manufacturer
-- [ ] Apply two / three column layout depending on screen size
+- [x] Add a free text search box that filters products by manufacturer
+- [x] Apply two / three column layout depending on screen size
 - [ ] What can be improved semantically / in terms of accessibility. (Better use of html tags, debounce, headings, etc.)
+
 ## Product page - Product.tsx
+
 - [ ] Make every product clickable that goes to its created product page
