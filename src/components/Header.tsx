@@ -5,15 +5,23 @@ const Layout = styled.div`
   display: flex;
   width: 100%;
   height: 84px;
-  border-bottom: 2px solid rgb(0, 0, 0);
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0;
+`
+const LayoutContainer = styled.div`
+  box-shadow: rgb(0 0 0 / 10%) 0px 2px 8px 0px;
+  border-top: 3px solid rgb(255, 92, 0);
 `
 const Logo = styled.img``
 
 const Header: React.FC = () => {
   return (
-    <Layout>
-      <Logo src="https://www.tre.se/images/logo.jpg" alt="Logo" />
-    </Layout>
+    <LayoutContainer>
+      <Layout>
+        <Logo src="https://www.tre.se/images/logo.jpg" alt="Logo" />
+      </Layout>
+    </LayoutContainer>
   )
 }
 

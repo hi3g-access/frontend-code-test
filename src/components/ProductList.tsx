@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import { useStaticQuery, graphql, Link } from 'gatsby'
 import styled from 'styled-components'
 import Product, { ProductType } from './Product'
@@ -39,13 +39,13 @@ const ProductList: React.FC = () => {
   `)
   const products = data.allProduct.nodes
 
-  const [searchTerm, setSearchTerm] = React.useState<string>('')
-  const [searchResults, setSearchResults] = React.useState([])
+  const [searchTerm, setSearchTerm] = useState<string>('')
+  const [searchResults, setSearchResults] = useState<ProductType[] | []>([])
   const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setSearchTerm(event.target.value)
   }
 
-  React.useEffect(() => {
+  useEffect(() => {
     const results = products.filter((product: { brand: string }) =>
       product.brand.toLowerCase().includes(searchTerm.toLowerCase())
     )
