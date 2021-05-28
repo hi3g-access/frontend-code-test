@@ -217,24 +217,10 @@
     "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-l4/sony-xperia-l4_black_front.png"
   },
   {
-    "id": "AhXgDlcdw1hg4qT2tXcxTA==",
-    "model": "8080",
-    "displayName": "Doro 8080",
-    "brand": "Doro",
-    "image": "https://assets.tre.se/images/se-webshop-device/doro/doro-8080-test_v2/doro8080_front_black.png"
-  },
-  {
     "id": "xGrXc5DXZlvuM6GgKK4NPA==",
     "model": "7011",
     "displayName": "Doro 7011",
     "brand": "Doro",
     "image": "https://assets.tre.se/images/device/doro/doro-7011/webshop/doro-7011-white_front_webshop.png"
-  },
-  {
-    "id": "Xgoi5lupBk0ih4VO6e5YdA==",
-    "model": "Razr 5G",
-    "displayName": "Motorola Razr 5G",
-    "brand": "Motorola",
-    "image": "https://assets.tre.se/images/se-webshop-device/motorola-razr-5g/motorola-razr-5g_test/motorola-razr-5g_closed_graphite.png"
   }
 ]

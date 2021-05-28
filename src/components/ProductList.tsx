@@ -1,6 +1,7 @@
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 import styled from 'styled-components';
+import { ProductType } from '../types';
 
 const Title = styled.div``;
 
@@ -8,7 +9,7 @@ const ProductsContainer = styled.div``;
 
 const ProductList: React.FC = () => {
   const data = useStaticQuery(graphql`
-    {
+    query Products {
       allProduct {
         nodes {
           id
@@ -21,7 +22,7 @@ const ProductList: React.FC = () => {
       }
     }
   `);
-  const products = data.allProduct.nodes;
+  const products: ProductType[] = data.allProduct.nodes;
 
   return (
     <div>

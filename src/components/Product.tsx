@@ -1,15 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
+import { ProductType } from '../types';
 import Image from './Image';
-
-export type ProductType = {
-  brand: string;
-  displayName: string;
-  id: string;
-  image: string;
-  model: string;
-  slug: string;
-};
 
 type Props = {
   product: ProductType;
