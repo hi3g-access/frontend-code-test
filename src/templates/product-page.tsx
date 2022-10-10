@@ -1,7 +1,7 @@
 import React from 'react';
 import SEO from '../components/SEO';
 import Product from '../components/Product';
-import { graphql } from 'gatsby';
+import { graphql, useStaticQuery } from 'gatsby';
 
 const DevicePage: React.FC<any> = props => (
   <>
@@ -10,7 +10,7 @@ const DevicePage: React.FC<any> = props => (
   </>
 );
 
-export const query = graphql`
+export const query = useStaticQuery(graphql`
   query productQuery($productId: String) {
     product(id: { eq: $productId }) {
       id
@@ -20,6 +20,6 @@ export const query = graphql`
       displayName
     }
   }
-`;
+`);
 
 export default DevicePage;
