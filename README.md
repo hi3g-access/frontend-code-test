@@ -2,18 +2,18 @@
 
 ## Requirements
 
-1. Yarn
+1. [pnpm](https://pnpm.io/)
 
 ## Getting started
 
 1. Install dependencies
 
-```
-yarn
+```bash
+pnpm install
 ```
 
 2. Start application
 
-```
-yarn dev
+```bash
+pnpm run dev
 ```

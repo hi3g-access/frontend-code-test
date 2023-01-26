@@ -1,26 +1,26 @@
-import React from 'react';
-import styled from 'styled-components';
-import Header from './Header';
+import React from 'react'
+import styled from 'styled-components'
+import Header from './Header'
 
-const Container = styled.div`
+const Wrapper = styled.div`
   margin: 0 auto;
   max-width: 960px;
   padding: 0;
-`;
+`
 
 const Layout = ({
   children,
 }: {
-  children: React.ReactNode;
+  children: React.ReactNode
 }): React.ReactElement => {
   return (
     <>
       <Header />
-      <Container>
+      <Wrapper>
         <main>{children}</main>
-      </Container>
+      </Wrapper>
     </>
-  );
-};
+  )
+}
 
-export default Layout;
+export default Layout

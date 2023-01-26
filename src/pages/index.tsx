@@ -1,12 +1,6 @@
-import React from 'react';
-import SEO from '../components/SEO';
-import ProductList from '../components/ProductList';
+import React from 'react'
+import DeviceList from '../components/DeviceList'
 
-const IndexPage = (): React.ReactElement => (
-  <>
-    <SEO title="Home" />
-    <ProductList />
-  </>
-);
+const IndexPage = (): React.ReactElement => <DeviceList />
 
-export default IndexPage;
+export default IndexPage
