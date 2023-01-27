@@ -1,226 +1,184 @@
 [
   {
-    "id": "jWrPVSRQyHBQQd6kFOuWRA==",
+    "id": "ZVzWNg1bNGOj6Cgt0WdbvQ==",
+    "model": "Galaxy Z Fold4 5G",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-z-fold4/samsung-galaxy_fold4-closed-front-svart.png",
+    "urlSlug": "/samsung/galaxy-z-fold4-5g"
+  }, {
+    "id": "dAgTD01imANf6_lbBHgD7Q==",
+    "model": "Galaxy Z Flip4 5G",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-z-flip4/samsung-galaxy_flip4-halfopen-front-lila.png",
+    "urlSlug": "/samsung/galaxy-z-flip4-5g"
+  }, {
+    "id": "xgij4cJEOBo1anJK7a72rA==",
+    "model": "Galaxy S22 5G",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s22/samsung_galaxy-s22_front-back_svart.png",
+    "urlSlug": "/samsung/galaxy-s22-5g"
+  }, {
+    "id": "vApJ84rAua2Q7pNlS_qwoQ==",
+    "model": "Galaxy S22 Ultra 5G",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s22-ultra/samsung_galaxy-s22-ultra_front-back_svart.png",
+    "urlSlug": "/samsung/galaxy-s22-ultra-5g"
+  }, {
+    "id": "JOcoDsa_MGlB1wFWWL7CxQ==",
+    "model": "Galaxy A53 5G",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-a53/galaxy-a53-font-back-svart.png",
+    "urlSlug": "/samsung/galaxy-a53-5g"
+  }, {
+    "id": "aYD0_kJ4hJs2zLzT105k8g==",
+    "model": "Galaxy A13",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-a13/galaxy-a13-front-svart.png",
+    "urlSlug": "/samsung/galaxy-a13"
+  }, {
+    "id": "9QWdPmzZfjnsa-av7FY4wg==",
+    "model": "Galaxy A33 5G",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-a33/galaxy-a33-front-svart.png",
+    "urlSlug": "/samsung/galaxy-a33-5g"
+  }, {
+    "id": "dpu_ILyDuwo6bU7vqF0zBA==",
+    "model": "Galaxy XCover 5",
+    "brand": "Samsung",
+    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-xcover-5/samsung-galaxy-xcover-5-framsida-svart.png",
+    "urlSlug": "/samsung/galaxy-xcover-5"
+  }, {
+    "id": "RDmoDjVLi7xy-wcSxHg-dQ==",
+    "model": "iPhone 14 Plus",
+    "brand": "Apple",
+    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-14-plus/apple-iphone-14-plus-frontback-svart.png",
+    "urlSlug": "/apple/iphone-14-plus"
+  }, {
+    "id": "sxN42qgA2O_50Pi-Hynerw==",
+    "model": "iPhone 14",
+    "brand": "Apple",
+    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-14/apple-iphone-14-frontback-bla%CC%8A.png",
+    "urlSlug": "/apple/iphone-14"
+  }, {
+    "id": "zCNi_r6gLZPwH8CCbvji3w==",
+    "model": "iPhone 14 Pro",
+    "brand": "Apple",
+    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-14-pro/apple-iphone-14-pro-frontback-djuplila.png",
+    "urlSlug": "/apple/iphone-14-pro"
+  }, {
+    "id": "NRzStdIuqBU3tAbrHrO1Gg==",
+    "model": "iPhone 14 Pro Max",
+    "brand": "Apple",
+    "image":"https://assets.tre.se/images/se-webshop-device/apple/iphone-14-pro-max/apple-iphone-14-pro-max-frontback-svart.png",
+    "urlSlug": "/apple/iphone-14-pro-max"
+  }, {
+    "id": "LF6MOR-7S6VQ6lTvvoyH7w==",
+    "model": "iPhone 13",
+    "brand": "Apple",
+    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-13/svart/apple_iphone_13_svart_2-up.png",
+    "urlSlug": "/apple/iphone-13"
+  }, {
+    "id": "jWrPVSRQyHBQQd6kFOuWRA==",    
     "model": "iPhone 12",
-    "displayName": "Apple iPhone 12",
     "brand": "Apple",
-    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-12/iphone-12-frontback-black.png"
-  },
-  {
-    "id": "G3-XCwhVlAXWthkQWG4WBA==",
-    "model": "iPhone 12 mini",
-    "displayName": "Apple iPhone 12 mini",
+    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-12/apple-iphone-12-framsida-baksida-svart.png",
+    "urlSlug": "/apple/iphone-12"
+  }, {
+    "id": "q_P0Ko1899r2d0GZdmcShw==",    
+    "model": "iPhone SE 5G 2022",
     "brand": "Apple",
-    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-12-mini/iphone-12-mini-frontback-black.png"
-  },
-  {
-    "id": "ciiY3VMHwtt1tdRGwOBz1g==",
-    "model": "iPhone 12 Pro",
-    "displayName": "Apple iPhone 12 Pro",
-    "brand": "Apple",
-    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-12-pro/iphone-12-pro-frontback-pacific-blue.png"
-  },
-  {
-    "id": "XoOK0fb3oJt7V0dP9TRw6w==",
-    "model": "iPhone 12 Pro Max",
-    "displayName": "Apple iPhone 12 Pro Max",
-    "brand": "Apple",
-    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-12-pro-max/iphone-12-pro-max-frontback-pacific-blue.png"
-  },
-  {
-    "id": "JOVQBOFHWgPmbF1dF8kjmg==",
-    "model": "iPhone SE",
-    "displayName": "Apple iPhone SE",
-    "brand": "Apple",
-    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-se/iphone-se-2020_black_front-back_custom.png"
-  },
-  {
+    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-se-3rd-gen/apple-iphone_se_3rd_gen-frontback-stja%CC%88rnglans.png",    
+    "urlSlug": "/apple/iphone-se-5g-2022"
+  }, {
     "id": "UPswdWy8jAcpjP2sT0ifug==",
     "model": "iPhone 11",
-    "displayName": "Apple iPhone 11",
     "brand": "Apple",
-    "image": "https://assets.tre.se/images/device/apple/iphone-11/iphone-11-black_custom_webshop.png"
-  },
-  {
-    "id": "EKEAD-u4h6oEbNprowJiCQ==",
-    "model": "iPhone 11 Pro",
-    "displayName": "Apple iPhone 11 Pro",
-    "brand": "Apple",
-    "image": "https://assets.tre.se/images/device/apple/iphone-11-pro/iphone-11-pro-midnattsgron_webshop_custom.png"
-  },
-  {
-    "id": "W6nmb8Pp5b1GHBzVQ0KUFg==",
-    "model": "Galaxy S21 5G",
-    "displayName": "Samsung Galaxy S21 5G",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s21/Galaxy-S21_front_gray.png"
-  },
-  {
-    "id": "RNgJhpcYCSkPHEV0zmtuXQ==",
-    "model": "Galaxy S21+ 5G",
-    "displayName": "Samsung Galaxy S21+ 5G",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s21-plus/galaxy-s21-plus_front_silver.png"
-  },
-  {
-    "id": "h_FG79ZV82La9OFaueme7Q==",
-    "model": "Galaxy S21 Ultra 5G",
-    "displayName": "Samsung Galaxy S21 Ultra 5G",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s21-ultra/galaxy-s21-ultra_front_black.png"
-  },
-  {
-    "id": "U2PoPfPdkqV2AWDKfOa3IA==",
-    "model": "Galaxy S20+ 5G",
-    "displayName": "Samsung Galaxy S20+ 5G",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s20-plus/samsung-galaxy_s20-_front-text_cosmic-black.png"
-  },
-  {
-    "id": "WXRgIhw9VEQL6JU6M9mwrw==",
-    "model": "Galaxy S20 FE 5G",
-    "displayName": "Samsung Galaxy S20 FE 5G",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s20-fe-5g/galaxy-s20-fe-5g_front_navy.png"
-  },
-  {
-    "id": "rszg9_YFSuLtst2AjnxIiQ==",
-    "model": "Galaxy S20 FE 4G",
-    "displayName": "Samsung Galaxy S20 FE 4G",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s20-fe-5g/galaxy-s20-fe-5g_front_navy.png"
-  },
-  {
-    "id": "BiojkZY67HIicZeWt_K95w==",
-    "model": "Galaxy Note20 5G",
-    "displayName": "Samsung Galaxy Note20 5G",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-note20/galaxy-note-20_front_mysticgray.png"
-  },
-  {
-    "id": "MG_6SgqDYRz6QBV_TrBP2w==",
-    "model": "Galaxy Note20 Ultra 5G",
-    "displayName": "Samsung Galaxy Note20 Ultra 5G",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-note20-ultra/samsung-galaxy-note20-ultra-5g-front-black.png"
-  },
-  {
-    "id": "nineOucoY5oIEr71bmlW3w==",
-    "model": "Galaxy Z Fold2 5G",
-    "displayName": "Samsung Galaxy Z Fold2 5G",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-z-fold2/galaxy-z-fold2_open-front_mysticblack.png"
-  },
-  {
-    "id": "jKSVNloRL6XXYHvW1WhpNQ==",
-    "model": "Galaxy Z Flip 5G",
-    "displayName": "Samsung Galaxy Z Flip 5G",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-z-flip-5g/galaxy-z-flip-5g_front-table-top_mysticbronze.png"
-  },
-  {
-    "id": "fmlsnCDMhA2nODS8r4KzjA==",
-    "model": "Galaxy A12",
-    "displayName": "Samsung Galaxy A12",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-a12/samsung-galaxy-a12-black_front.png"
-  },
-  {
-    "id": "8uPmmQYMxNqy5ElMo2ZixQ==",
-    "model": "Galaxy A41",
-    "displayName": "Samsung Galaxy A41",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-a41/galaxy-a41_black_front_text.png"
-  },
-  {
-    "id": "O9MTsmnbrfleaO2xlOdIiw==",
-    "model": "Galaxy A20e",
-    "displayName": "Samsung Galaxy A20e",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-a20e/galaxy-a20e_front_black.png"
-  },
-  {
-    "id": "EjY-UuMYiDnDbyyI4MJ2xA==",
-    "model": "Galaxy A51",
-    "displayName": "Samsung Galaxy A51",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/device/samsung/galaxy-a51/webshop/galaxy-a51-black-front_webshop.png"
-  },
-  {
-    "id": "jPO5FOAmh-4X-L8GE61lUg==",
-    "model": "P40 Pro",
-    "displayName": "Huawei P40 Pro",
-    "brand": "Huawei",
-    "image": "https://assets.tre.se/images/se-webshop-device/huawei/huawei-p40-pro/huawei-p40-pro_silver_front.png"
-  },
-  {
-    "id": "q704LzKzBtWqo1X7hZNU5Q==",
-    "model": "P40 Lite 5G",
-    "displayName": "Huawei P40 Lite 5G",
-    "brand": "Huawei",
-    "image": "https://assets.tre.se/images/se-webshop-device/huawei/huawei-p40-lite/huawei-p40-lite_midnight-black_front.png"
-  },
-  {
-    "id": "sUuOIUJWFuAnTYqpKwuAXg==",
-    "model": "P30 Lite",
-    "displayName": "Huawei P30 Lite",
-    "brand": "Huawei",
-    "image": "https://assets.tre.se/images/device/huawei/huawei-p30-lite/webshop/p30-lite-black-front_webshop.png"
-  },
-  {
-    "id": "flg_QFL9sybJgftdLttTRQ==",
-    "model": "Y6 2019",
-    "displayName": "Huawei Y6 2019",
-    "brand": "Huawei",
-    "image": "https://assets.tre.se/images/device/huawei/huawei-y6-2019/webshop/y6-2019-black-front_webshop.png"
-  },
-  {
-    "id": "neOB6zu9xY3HUwtfoz9W1w==",
-    "model": "Mi 10T Pro",
-    "displayName": "Xiaomi Mi 10T Pro",
+    "image": "https://assets.tre.se/images/device/apple/iphone-11/apple-iphone-11-framsida-svart.png",
+    "urlSlug": "/apple/iphone-11"
+  }, {
+    "id": "2BXL9ymE7WgYUAKr6vMirg==",    
+    "model": "12T Pro",
     "brand": "Xiaomi",
-    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-mi-10t-pro/Mi-T10-Pro_bundling.png"
-  },
-  {
-    "id": "y0xX3DRy7usZ8DSrXIyBJg==",
-    "model": "Mi 10T Lite",
-    "displayName": "Xiaomi Mi 10T Lite",
+    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-12t-pro/xiaomi-12t-pro-front-svart.png",
+    "urlSlug": "/xiaomi/12t-pro"
+  }, {
+    "id": "Hz9lceF2R7LpuVUabMANZw==",    
+    "model": "12 5G",
     "brand": "Xiaomi",
-    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-mi-10t-lite/xiaomi-mi-10t-lite_front_grey.png"
-  },
-  {
-    "id": "RG6h3SLuto_gcVTC6HU1Ew==",
-    "model": "Redmi 9C NFC",
-    "displayName": "Xiaomi Redmi 9C NFC",
+    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-12/xiaomi-12-front-gra%CC%8A.png",
+    "urlSlug": "/xiaomi/12-5g"
+  }, {
+    "id": "9SonpIJhToF-9LSda1QJ2Q==",    
+    "model": "Redmi 10C",
     "brand": "Xiaomi",
-    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-redmi-9c-nfc/xiaomi_redmi_9c_nfc_front_black.png"
-  },
-  {
-    "id": "JH27w_8Uylp8qyJm2Su6JQ==",
-    "model": "Xperia 5 II 5G",
-    "displayName": "Sony Xperia 5 II 5G",
+    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-redmi-10c/xiaomi-redmi-10c-front-svart.png",
+    "urlSlug": "/xiaomi/redmi-10c"
+  }, {
+    "id": "ob0rsM6eoa2SAhWF61VOHA==",
+    "model": "Redmi 10 5G",
+    "brand": "Xiaomi",
+    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-redmi-10-5g/xiaomi-redmi-10-5g-front-svart.png",
+    "urlSlug": "/xiaomi/redmi-10-5g"
+  }, {
+    "id": "U7os1CnKNCEp57VEjFmvew==",
+    "model": "Redmi Note 11 Pro 5G",
+    "brand": "Xiaomi",
+    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-redmi-note-11-pro-5g/xiaomi-redmi_note_11_pro-front-gra%CC%8A.png",
+    "urlSlug": "/xiaomi/redmi-note-11-pro-5g"
+  }, {
+    "id": "R_mtdrOhtkJqZpGIe5NqYA==",
+    "model": "11T Pro",
+    "brand": "Xiaomi",
+    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-11t-pro/xiaomi-11t-pro_front_black.png",
+    "urlSlug": "/xiaomi/11t-pro"
+  }, {
+    "id": "zbj4HfgkEUyCPPKAGETdGA==",
+    "model": "Xperia 5 IV",
     "brand": "Sony",
-    "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-5-ll/sony-xperia-5-ii_front_black.png"
-  },
-  {
-    "id": "w0FW3u7M6QjAQ18sLkbzfA==",
-    "model": "Xperia 1 II 5G",
-    "displayName": "Sony Xperia 1 II 5G",
+    "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-5-iv/sony_xperia_5_iv-linkbuds.png",
+    "urlSlug": "/sony/xperia-5-iv"
+  }, {
+    "id": "26Mz6xfa0PPW972lFrDqWg==",
+    "model": "Xperia 10 IV",
     "brand": "Sony",
-    "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-1-ll_mark-2/sony-xperia-1-ii_front_black.png"
-  },
-  {
-    "id": "VNa9xYIc_eyR2ec4weIGRw==",
-    "model": "Xperia L4",
-    "displayName": "Sony Xperia L4",
+    "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-10-iv/sony-xperia-10-iv-front-svart.png",
+    "urlSlug": "/sony/xperia-10-iv"
+  }, {
+    "id": "gvq86zuT_8XjEiU3lbLBWQ==",
+    "model": "Xperia 1 IV",
     "brand": "Sony",
-    "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-l4/sony-xperia-l4_black_front.png"
-  },
-  {
-    "id": "xGrXc5DXZlvuM6GgKK4NPA==",
-    "model": "7011",
-    "displayName": "Doro 7011",
+    "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-1-iv/sony-xperia-1-iv-frontback-vit.png",
+    "urlSlug": "/sony/xperia-1-iv"
+  }, {
+    "id": "R370sezISB9I6fA8maty0Q==",
+    "model": "Xperia 5 III",
+    "brand": "Sony",
+    "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-5-III/xperia-5-III_front_black.png",
+    "urlSlug": "/sony/xperia-5-iii"
+  }, {
+    "id": "IYsGBNVR-2brE8uJbHbXKg==",
+    "model": "Xperia 1 III",
+    "brand": "Sony",
+    "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-1-iii/sony-xperia-1-iii-framsida-svart.png",
+    "urlSlug": "/sony/xperia-1-iii"
+  }, {
+    "id": "pXJtEDffPrvFtnDTOJmSeA==",
+    "model": "6881",
     "brand": "Doro",
-    "image": "https://assets.tre.se/images/device/doro/doro-7011/webshop/doro-7011-white_front_webshop.png"
+    "image": "https://assets.tre.se/images/se-webshop-device/doro/doro-6881/doro-6881-frontopen-svart.png",
+    "urlSlug": "/doro/6881"
+  }, {
+    "id": "ltCn-Xq5wYTlSXZ1u-Jhaw==",
+    "model": "5861",
+    "brand": "Doro",
+    "image": "https://assets.tre.se/images/se-webshop-device/doro/doro-5861/doro-5861-standfront-svart.png",
+    "urlSlug": "/doro/5861"
+  }, {
+    "id": "YkRSopcLlB5vjzHnLt4ScA==",
+    "model": "8110",
+    "brand": "Doro",
+    "image": "https://assets.tre.se/images/se-webshop-device/doro/doro-8110/doro8110-fram-laddstativ.png",
+    "urlSlug": "/doro/8110"
   }
+  
 ]
