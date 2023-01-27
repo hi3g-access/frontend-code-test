@@ -8,12 +8,10 @@ const Wrapper = styled.div`
 `
 const Logo = styled.img``
 
-const Header: React.FC = () => {
-  return (
-    <Wrapper>
-      <Logo src="https://www.tre.se/images/logo.jpg" alt="Logo" />
-    </Wrapper>
-  )
-}
+const Header: React.FC = () => (
+  <Wrapper>
+    <Logo src="https://www.tre.se/images/logo.jpg" alt="Logo" />
+  </Wrapper>
+)
 
 export default Header

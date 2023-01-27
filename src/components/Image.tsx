@@ -3,6 +3,7 @@ import styled from 'styled-components'
 const Wrapper = styled.img`
   width: 100px;
   height: 100px;
+  object-fit: contain;
 `
 
 type Props = {
@@ -10,8 +11,6 @@ type Props = {
   alt: string
 }
 
-const Image: React.FC<Props> = ({ src, alt }) => {
-  return <Wrapper alt={alt} src={src} />
-}
+const Image: React.FC<Props> = ({ src, alt }) => <Wrapper alt={alt} src={src} />
 
 export default Image

@@ -11,15 +11,13 @@ const Layout = ({
   children,
 }: {
   children: React.ReactNode
-}): React.ReactElement => {
-  return (
-    <>
-      <Header />
-      <Wrapper>
-        <main>{children}</main>
-      </Wrapper>
-    </>
-  )
-}
+}): React.ReactElement => (
+  <>
+    <Header />
+    <Wrapper>
+      <main>{children}</main>
+    </Wrapper>
+  </>
+)
 
 export default Layout
