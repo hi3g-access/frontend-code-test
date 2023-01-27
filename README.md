@@ -17,3 +17,9 @@ pnpm install
 ```bash
 pnpm run dev
 ```
+
+3. The application can be found at
+
+```bash
+http://localhost:3000
+```
