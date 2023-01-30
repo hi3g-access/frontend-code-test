@@ -4,181 +4,181 @@
     "model": "Galaxy Z Fold4 5G",
     "brand": "Samsung",
     "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-z-fold4/samsung-galaxy_fold4-closed-front-svart.png",
-    "urlSlug": "/samsung/galaxy-z-fold4-5g"
+    "slug": "galaxy-z-fold4-5g"
   }, {
     "id": "dAgTD01imANf6_lbBHgD7Q==",
     "model": "Galaxy Z Flip4 5G",
     "brand": "Samsung",
     "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-z-flip4/samsung-galaxy_flip4-halfopen-front-lila.png",
-    "urlSlug": "/samsung/galaxy-z-flip4-5g"
+    "slug": "galaxy-z-flip4-5g"
   }, {
     "id": "xgij4cJEOBo1anJK7a72rA==",
     "model": "Galaxy S22 5G",
     "brand": "Samsung",
     "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s22/samsung_galaxy-s22_front-back_svart.png",
-    "urlSlug": "/samsung/galaxy-s22-5g"
+    "slug": "galaxy-s22-5g"
   }, {
     "id": "vApJ84rAua2Q7pNlS_qwoQ==",
     "model": "Galaxy S22 Ultra 5G",
     "brand": "Samsung",
     "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s22-ultra/samsung_galaxy-s22-ultra_front-back_svart.png",
-    "urlSlug": "/samsung/galaxy-s22-ultra-5g"
+    "slug": "galaxy-s22-ultra-5g"
   }, {
     "id": "JOcoDsa_MGlB1wFWWL7CxQ==",
     "model": "Galaxy A53 5G",
     "brand": "Samsung",
     "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-a53/galaxy-a53-font-back-svart.png",
-    "urlSlug": "/samsung/galaxy-a53-5g"
+    "slug": "galaxy-a53-5g"
   }, {
     "id": "aYD0_kJ4hJs2zLzT105k8g==",
     "model": "Galaxy A13",
     "brand": "Samsung",
     "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-a13/galaxy-a13-front-svart.png",
-    "urlSlug": "/samsung/galaxy-a13"
+    "slug": "galaxy-a13"
   }, {
     "id": "9QWdPmzZfjnsa-av7FY4wg==",
     "model": "Galaxy A33 5G",
     "brand": "Samsung",
     "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-a33/galaxy-a33-front-svart.png",
-    "urlSlug": "/samsung/galaxy-a33-5g"
+    "slug": "galaxy-a33-5g"
   }, {
     "id": "dpu_ILyDuwo6bU7vqF0zBA==",
     "model": "Galaxy XCover 5",
     "brand": "Samsung",
     "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-xcover-5/samsung-galaxy-xcover-5-framsida-svart.png",
-    "urlSlug": "/samsung/galaxy-xcover-5"
+    "slug": "galaxy-xcover-5"
   }, {
     "id": "RDmoDjVLi7xy-wcSxHg-dQ==",
     "model": "iPhone 14 Plus",
     "brand": "Apple",
     "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-14-plus/apple-iphone-14-plus-frontback-svart.png",
-    "urlSlug": "/apple/iphone-14-plus"
+    "slug": "iphone-14-plus"
   }, {
     "id": "sxN42qgA2O_50Pi-Hynerw==",
     "model": "iPhone 14",
     "brand": "Apple",
     "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-14/apple-iphone-14-frontback-bla%CC%8A.png",
-    "urlSlug": "/apple/iphone-14"
+    "slug": "iphone-14"
   }, {
     "id": "zCNi_r6gLZPwH8CCbvji3w==",
     "model": "iPhone 14 Pro",
     "brand": "Apple",
     "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-14-pro/apple-iphone-14-pro-frontback-djuplila.png",
-    "urlSlug": "/apple/iphone-14-pro"
+    "slug": "iphone-14-pro"
   }, {
     "id": "NRzStdIuqBU3tAbrHrO1Gg==",
     "model": "iPhone 14 Pro Max",
     "brand": "Apple",
     "image":"https://assets.tre.se/images/se-webshop-device/apple/iphone-14-pro-max/apple-iphone-14-pro-max-frontback-svart.png",
-    "urlSlug": "/apple/iphone-14-pro-max"
+    "slug": "iphone-14-pro-max"
   }, {
     "id": "LF6MOR-7S6VQ6lTvvoyH7w==",
     "model": "iPhone 13",
     "brand": "Apple",
     "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-13/svart/apple_iphone_13_svart_2-up.png",
-    "urlSlug": "/apple/iphone-13"
+    "slug": "iphone-13"
   }, {
     "id": "jWrPVSRQyHBQQd6kFOuWRA==",    
     "model": "iPhone 12",
     "brand": "Apple",
     "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-12/apple-iphone-12-framsida-baksida-svart.png",
-    "urlSlug": "/apple/iphone-12"
+    "slug": "iphone-12"
   }, {
     "id": "q_P0Ko1899r2d0GZdmcShw==",    
     "model": "iPhone SE 5G 2022",
     "brand": "Apple",
     "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-se-3rd-gen/apple-iphone_se_3rd_gen-frontback-stja%CC%88rnglans.png",    
-    "urlSlug": "/apple/iphone-se-5g-2022"
+    "slug": "iphone-se-5g-2022"
   }, {
     "id": "UPswdWy8jAcpjP2sT0ifug==",
     "model": "iPhone 11",
     "brand": "Apple",
     "image": "https://assets.tre.se/images/device/apple/iphone-11/apple-iphone-11-framsida-svart.png",
-    "urlSlug": "/apple/iphone-11"
+    "slug": "iphone-11"
   }, {
     "id": "2BXL9ymE7WgYUAKr6vMirg==",    
     "model": "12T Pro",
     "brand": "Xiaomi",
     "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-12t-pro/xiaomi-12t-pro-front-svart.png",
-    "urlSlug": "/xiaomi/12t-pro"
+    "slug": "12t-pro"
   }, {
     "id": "Hz9lceF2R7LpuVUabMANZw==",    
     "model": "12 5G",
     "brand": "Xiaomi",
     "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-12/xiaomi-12-front-gra%CC%8A.png",
-    "urlSlug": "/xiaomi/12-5g"
+    "slug": "12-5g"
   }, {
     "id": "9SonpIJhToF-9LSda1QJ2Q==",    
     "model": "Redmi 10C",
     "brand": "Xiaomi",
     "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-redmi-10c/xiaomi-redmi-10c-front-svart.png",
-    "urlSlug": "/xiaomi/redmi-10c"
+    "slug": "redmi-10c"
   }, {
     "id": "ob0rsM6eoa2SAhWF61VOHA==",
     "model": "Redmi 10 5G",
     "brand": "Xiaomi",
     "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-redmi-10-5g/xiaomi-redmi-10-5g-front-svart.png",
-    "urlSlug": "/xiaomi/redmi-10-5g"
+    "slug": "redmi-10-5g"
   }, {
     "id": "U7os1CnKNCEp57VEjFmvew==",
     "model": "Redmi Note 11 Pro 5G",
     "brand": "Xiaomi",
     "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-redmi-note-11-pro-5g/xiaomi-redmi_note_11_pro-front-gra%CC%8A.png",
-    "urlSlug": "/xiaomi/redmi-note-11-pro-5g"
+    "slug": "redmi-note-11-pro-5g"
   }, {
     "id": "R_mtdrOhtkJqZpGIe5NqYA==",
     "model": "11T Pro",
     "brand": "Xiaomi",
     "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-11t-pro/xiaomi-11t-pro_front_black.png",
-    "urlSlug": "/xiaomi/11t-pro"
+    "slug": "11t-pro"
   }, {
     "id": "zbj4HfgkEUyCPPKAGETdGA==",
     "model": "Xperia 5 IV",
     "brand": "Sony",
     "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-5-iv/sony_xperia_5_iv-linkbuds.png",
-    "urlSlug": "/sony/xperia-5-iv"
+    "slug": "xperia-5-iv"
   }, {
     "id": "26Mz6xfa0PPW972lFrDqWg==",
     "model": "Xperia 10 IV",
     "brand": "Sony",
     "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-10-iv/sony-xperia-10-iv-front-svart.png",
-    "urlSlug": "/sony/xperia-10-iv"
+    "slug": "xperia-10-iv"
   }, {
     "id": "gvq86zuT_8XjEiU3lbLBWQ==",
     "model": "Xperia 1 IV",
     "brand": "Sony",
     "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-1-iv/sony-xperia-1-iv-frontback-vit.png",
-    "urlSlug": "/sony/xperia-1-iv"
+    "slug": "xperia-1-iv"
   }, {
     "id": "R370sezISB9I6fA8maty0Q==",
     "model": "Xperia 5 III",
     "brand": "Sony",
     "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-5-III/xperia-5-III_front_black.png",
-    "urlSlug": "/sony/xperia-5-iii"
+    "slug": "xperia-5-iii"
   }, {
     "id": "IYsGBNVR-2brE8uJbHbXKg==",
     "model": "Xperia 1 III",
     "brand": "Sony",
     "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-1-iii/sony-xperia-1-iii-framsida-svart.png",
-    "urlSlug": "/sony/xperia-1-iii"
+    "slug": "xperia-1-iii"
   }, {
     "id": "pXJtEDffPrvFtnDTOJmSeA==",
     "model": "6881",
     "brand": "Doro",
     "image": "https://assets.tre.se/images/se-webshop-device/doro/doro-6881/doro-6881-frontopen-svart.png",
-    "urlSlug": "/doro/6881"
+    "slug": "doro-6881"
   }, {
     "id": "ltCn-Xq5wYTlSXZ1u-Jhaw==",
     "model": "5861",
     "brand": "Doro",
     "image": "https://assets.tre.se/images/se-webshop-device/doro/doro-5861/doro-5861-standfront-svart.png",
-    "urlSlug": "/doro/5861"
+    "slug": "doro-5861"
   }, {
     "id": "YkRSopcLlB5vjzHnLt4ScA==",
     "model": "8110",
     "brand": "Doro",
     "image": "https://assets.tre.se/images/se-webshop-device/doro/doro-8110/doro8110-fram-laddstativ.png",
-    "urlSlug": "/doro/8110"
+    "slug": "doro-8110"
   }
   
 ]
