@@ -17,7 +17,7 @@ const Device: React.FC<Props> = ({ device }) => {
 
   return (
     <Wrapper>
-      <DeviceImage alt={device.displayName} src={device.image} />
+      <DeviceImage alt={device.model} src={device.image} />
       <StyledCardTitle>
         {brand} - {model}
       </StyledCardTitle>
