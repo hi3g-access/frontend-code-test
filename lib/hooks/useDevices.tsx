@@ -1,5 +1,5 @@
 import useSWR from 'swr'
-import fetcher from '../lib/fetcher'
+import fetcher from '../fetcher'
 import { DeviceType } from '../types'
 
 type UseDevices = {
