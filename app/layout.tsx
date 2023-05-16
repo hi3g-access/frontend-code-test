@@ -1,6 +1,6 @@
 'use client'
 import './globals.css'
-import StyledComponentsRegistry from '../lib/registry'
+import StyledComponentsRegistry from '../components/StyledComponentsRegistry'
 import Layout from '../components/Layout'
 
 export default function RootLayout({
