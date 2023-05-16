@@ -1,5 +1,10 @@
 {
-  "include": ["./src/**/*"],
+  "include": [
+    ".next/types/**/*.ts",
+    "./app/**/*",
+    "./components/**/*",
+    "./lib/**/*"
+  ],
   "compilerOptions": {
     "module": "commonjs",
     "target": "esnext",
@@ -18,7 +23,12 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "incremental": true,
-    "moduleResolution": "node"
+    "moduleResolution": "node",
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ]
   },
   "exclude": ["node_modules", "public", ".cache"]
 }
