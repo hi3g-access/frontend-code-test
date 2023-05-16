@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "author": "Hi3G",
   "scripts": {
+    "preinstall": "npx only-allow pnpm",
     "build": "next build",
     "dev": "next dev",
     "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,md}\"",

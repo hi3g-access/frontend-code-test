@@ -6,13 +6,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'assets.tre.se',
-        pathname: '/images/**',
-      },
-      {
-        protocol: 'https',
-        hostname: 'www.tre.se',
-        pathname: '/images/**',
+        hostname: '**',
       },
     ],
   },
