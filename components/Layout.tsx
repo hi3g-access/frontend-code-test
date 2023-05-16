@@ -1,11 +1,4 @@
-import styled from 'styled-components'
 import Header from './Header'
-
-const Wrapper = styled.div`
-  margin: 0 auto;
-  max-width: 960px;
-  padding: 0;
-`
 
 const Layout = ({
   children,
@@ -14,9 +7,9 @@ const Layout = ({
 }): React.ReactElement => (
   <>
     <Header />
-    <Wrapper>
+    <div className="mx-auto max-w-[960px] p-0">
       <main>{children}</main>
-    </Wrapper>
+    </div>
   </>
 )
 

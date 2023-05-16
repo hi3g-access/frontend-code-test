@@ -1,27 +1,26 @@
-import styled from 'styled-components'
-import { DeviceType } from '../types'
-import Image from './Image'
+import { DeviceType } from '../lib/types'
+import Image from 'next/image'
 
 type Props = {
   device: DeviceType
 }
 
-const DeviceImage = styled(Image)``
-
-const Wrapper = styled.div``
-
-const StyledCardTitle = styled.div``
-
 const Device: React.FC<Props> = ({ device }) => {
   const { brand, model } = device
 
   return (
-    <Wrapper>
-      <DeviceImage alt={device.model} src={device.image} />
-      <StyledCardTitle>
+    <div>
+      <Image
+        alt={device.model}
+        src={device.image}
+        width={100}
+        height={100}
+        className="w-[100px] h-[100px] object-contain"
+      />
+      <div>
         {brand} - {model}
-      </StyledCardTitle>
-    </Wrapper>
+      </div>
+    </div>
   )
 }
 
