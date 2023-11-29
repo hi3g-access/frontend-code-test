@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 type Props = {
   value: string
   onChange: (value: string) => void
@@ -9,7 +10,7 @@ const Input: React.FC<Props> = ({ value, onChange }) => (
     onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
       onChange(e.target.value)
     }
-    className="border border-black rounded min-h-[2.75rem] p-3 focus:outline-none focus:shadow-md"
+    className="min-h-[2.75rem] rounded border border-black p-3 focus:shadow-md focus:outline-none"
   />
 )
 

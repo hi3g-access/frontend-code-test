@@ -15,7 +15,7 @@ const Device: React.FC<Props> = ({ device }) => {
         src={device.image}
         width={100}
         height={100}
-        className="w-[100px] h-[100px] object-contain"
+        className="h-[100px] w-[100px] object-contain"
       />
       <div>
         {brand} - {model}

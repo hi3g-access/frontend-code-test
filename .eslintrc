@@ -3,22 +3,11 @@
     "eslint:recommended",
     "plugin:react/recommended",
     "plugin:@typescript-eslint/recommended",
-    "prettier/@typescript-eslint",
+    "prettier",
     "plugin:prettier/recommended"
   ],
   "parser": "@typescript-eslint/parser",
-  "plugins": ["@typescript-eslint", "prettier"],
-  "settings": {
-    "react": {
-      "version": "require('./package.json').dependencies.react"
-    },
-    "import/parsers": {
-      "@typescript-eslint/parser": [".ts", ".tsx"]
-    },
-    "import/resolver": {
-      "typescript": {}
-    }
-  },
+  "plugins": ["@typescript-eslint"],
   "rules": {
     "lines-between-class-members": 0,
     "react/jsx-one-expression-per-line": 0,
