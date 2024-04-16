@@ -1,6 +1,7 @@
 import { useQuery } from '@tanstack/react-query'
 import { DeviceType } from '../types'
-import fetcher from '../fetcher'
+
+import getDevices from '../getDevices'
 
 type UseDevices = {
   devices?: DeviceType[]
@@ -8,15 +9,10 @@ type UseDevices = {
   isError: Error | null
 }
 
-const getDevices = async (): Promise<DeviceType[]> => {
-  const response = await fetcher<DeviceType[]>('/api/devices')
-  return response
-}
-
 function useDevices(): UseDevices {
   const { data, error } = useQuery({
     queryKey: ['devices'],
-    queryFn: getDevices,
+    queryFn: () => getDevices(),
   })
 
   return {
