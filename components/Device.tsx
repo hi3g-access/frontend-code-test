@@ -5,7 +5,7 @@ type Props = {
   device: DeviceType
 }
 
-const Device: React.FC<Props> = ({ device }) => {
+const Device = ({ device }: Props) => {
   const { brand, model } = device
 
   return (

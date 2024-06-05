@@ -4,7 +4,7 @@ type Props = {
   onChange: (value: string) => void
 }
 
-const Input: React.FC<Props> = ({ value, onChange }) => (
+const Input = ({ value, onChange }: Props) => (
   <input
     value={value}
     onChange={(e: React.ChangeEvent<HTMLInputElement>) =>

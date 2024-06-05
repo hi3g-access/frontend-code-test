@@ -1,4 +1,4 @@
-const DeviceList: React.FC = () => {
+const DeviceList = () => {
   return (
     <div>
       <div>Devices</div>
