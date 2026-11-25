@@ -1,5 +1,9 @@
 # Tre Frontend Code Test
 
+## Open source
+
+This is a public repository. The code is licensed under the [MIT License](./LICENSE).
+
 ## Requirements
 
 1. [pnpm](https://pnpm.io/)

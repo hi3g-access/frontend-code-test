@@ -1,14 +1,16 @@
 {
   "include": [
+    "next-env.d.ts",
     ".next/types/**/*.ts",
     "./app/**/*",
     "./components/**/*",
-    "./lib/**/*"
+    "./lib/**/*",
+    ".next/dev/types/**/*.ts"
   ],
   "compilerOptions": {
-    "module": "commonjs",
+    "module": "esnext",
     "target": "esnext",
-    "jsx": "preserve",
+    "jsx": "react-jsx",
     "lib": ["dom", "esnext"],
     "strict": true,
     "noEmit": true,
@@ -23,7 +25,7 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "incremental": true,
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "plugins": [
       {
         "name": "next"
